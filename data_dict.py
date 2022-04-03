@@ -1,0 +1,20527 @@
+{
+    'country': 'Afghanistan',
+    'year': 2019,
+    'both_sexes': 4.1,
+    'male': 4.6,
+    'female': 3.6
+} {
+    'country': 'Afghanistan',
+    'year': 2018,
+    'both_sexes': 4.1,
+    'male': 4.6,
+    'female': 3.5
+} {
+    'country': 'Afghanistan',
+    'year': 2017,
+    'both_sexes': 4.1,
+    'male': 4.6,
+    'female': 3.4
+} {
+    'country': 'Afghanistan',
+    'year': 2016,
+    'both_sexes': 4.0,
+    'male': 4.4,
+    'female': 3.6
+} {
+    'country': 'Afghanistan',
+    'year': 2015,
+    'both_sexes': 4.0,
+    'male': 4.3,
+    'female': 3.6
+} {
+    'country': 'Afghanistan',
+    'year': 2014,
+    'both_sexes': 3.9,
+    'male': 4.2,
+    'female': 3.6
+} {
+    'country': 'Afghanistan',
+    'year': 2013,
+    'both_sexes': 4.0,
+    'male': 4.3,
+    'female': 3.7
+} {
+    'country': 'Afghanistan',
+    'year': 2012,
+    'both_sexes': 4.0,
+    'male': 4.3,
+    'female': 3.7
+} {
+    'country': 'Afghanistan',
+    'year': 2011,
+    'both_sexes': 4.1,
+    'male': 4.5,
+    'female': 3.8
+} {
+    'country': 'Afghanistan',
+    'year': 2010,
+    'both_sexes': 4.3,
+    'male': 4.6,
+    'female': 3.9
+} {
+    'country': 'Afghanistan',
+    'year': 2009,
+    'both_sexes': 4.4,
+    'male': 4.8,
+    'female': 4.0
+} {
+    'country': 'Afghanistan',
+    'year': 2008,
+    'both_sexes': 4.6,
+    'male': 5.1,
+    'female': 4.2
+} {
+    'country': 'Afghanistan',
+    'year': 2007,
+    'both_sexes': 4.8,
+    'male': 5.3,
+    'female': 4.3
+} {
+    'country': 'Afghanistan',
+    'year': 2006,
+    'both_sexes': 4.9,
+    'male': 5.4,
+    'female': 4.4
+} {
+    'country': 'Afghanistan',
+    'year': 2005,
+    'both_sexes': 5.0,
+    'male': 5.4,
+    'female': 4.5
+} {
+    'country': 'Afghanistan',
+    'year': 2004,
+    'both_sexes': 5.0,
+    'male': 5.4,
+    'female': 4.6
+} {
+    'country': 'Afghanistan',
+    'year': 2003,
+    'both_sexes': 5.0,
+    'male': 5.3,
+    'female': 4.6
+} {
+    'country': 'Afghanistan',
+    'year': 2002,
+    'both_sexes': 5.0,
+    'male': 5.4,
+    'female': 4.6
+} {
+    'country': 'Afghanistan',
+    'year': 2001,
+    'both_sexes': 5.0,
+    'male': 5.2,
+    'female': 4.8
+} {
+    'country': 'Afghanistan',
+    'year': 2000,
+    'both_sexes': 4.9,
+    'male': 5.0,
+    'female': 4.8
+} {
+    'country': 'Albania',
+    'year': 2019,
+    'both_sexes': 4.3,
+    'male': 5.9,
+    'female': 2.7
+} {
+    'country': 'Albania',
+    'year': 2018,
+    'both_sexes': 4.5,
+    'male': 6.2,
+    'female': 2.8
+} {
+    'country': 'Albania',
+    'year': 2017,
+    'both_sexes': 4.7,
+    'male': 6.3,
+    'female': 2.9
+} {
+    'country': 'Albania',
+    'year': 2016,
+    'both_sexes': 4.7,
+    'male': 6.3,
+    'female': 3.1
+} {
+    'country': 'Albania',
+    'year': 2015,
+    'both_sexes': 4.8,
+    'male': 6.3,
+    'female': 3.2
+} {
+    'country': 'Albania',
+    'year': 2014,
+    'both_sexes': 5.0,
+    'male': 6.6,
+    'female': 3.2
+} {
+    'country': 'Albania',
+    'year': 2013,
+    'both_sexes': 5.3,
+    'male': 6.9,
+    'female': 3.5
+} {
+    'country': 'Albania',
+    'year': 2012,
+    'both_sexes': 5.2,
+    'male': 6.9,
+    'female': 3.4
+} {
+    'country': 'Albania',
+    'year': 2011,
+    'both_sexes': 7.9,
+    'male': 7.5,
+    'female': 8.3
+} {
+    'country': 'Albania',
+    'year': 2010,
+    'both_sexes': 7.8,
+    'male': 9.5,
+    'female': 6.1
+} {
+    'country': 'Albania',
+    'year': 2009,
+    'both_sexes': 8.1,
+    'male': 10.2,
+    'female': 6.0
+} {
+    'country': 'Albania',
+    'year': 2008,
+    'both_sexes': 8.2,
+    'male': 10.3,
+    'female': 6.0
+} {
+    'country': 'Albania',
+    'year': 2007,
+    'both_sexes': 8.1,
+    'male': 10.3,
+    'female': 5.8
+} {
+    'country': 'Albania',
+    'year': 2006,
+    'both_sexes': 7.8,
+    'male': 9.8,
+    'female': 5.8
+} {
+    'country': 'Albania',
+    'year': 2005,
+    'both_sexes': 7.5,
+    'male': 9.7,
+    'female': 5.2
+} {
+    'country': 'Albania',
+    'year': 2004,
+    'both_sexes': 4.8,
+    'male': 6.5,
+    'female': 3.1
+} {
+    'country': 'Albania',
+    'year': 2003,
+    'both_sexes': 4.8,
+    'male': 6.4,
+    'female': 3.3
+} {
+    'country': 'Albania',
+    'year': 2002,
+    'both_sexes': 4.6,
+    'male': 6.2,
+    'female': 3.0
+} {
+    'country': 'Albania',
+    'year': 2001,
+    'both_sexes': 4.5,
+    'male': 6.1,
+    'female': 2.9
+} {
+    'country': 'Albania',
+    'year': 2000,
+    'both_sexes': 4.9,
+    'male': 7.0,
+    'female': 2.8
+} {
+    'country': 'Algeria',
+    'year': 2019,
+    'both_sexes': 2.5,
+    'male': 3.1,
+    'female': 1.8
+} {
+    'country': 'Algeria',
+    'year': 2018,
+    'both_sexes': 2.5,
+    'male': 3.1,
+    'female': 1.9
+} {
+    'country': 'Algeria',
+    'year': 2017,
+    'both_sexes': 2.5,
+    'male': 3.1,
+    'female': 1.9
+} {
+    'country': 'Algeria',
+    'year': 2016,
+    'both_sexes': 2.6,
+    'male': 3.2,
+    'female': 1.9
+} {
+    'country': 'Algeria',
+    'year': 2015,
+    'both_sexes': 2.7,
+    'male': 3.4,
+    'female': 2.0
+} {
+    'country': 'Algeria',
+    'year': 2014,
+    'both_sexes': 2.8,
+    'male': 3.5,
+    'female': 2.0
+} {
+    'country': 'Algeria',
+    'year': 2013,
+    'both_sexes': 2.9,
+    'male': 3.6,
+    'female': 2.1
+} {
+    'country': 'Algeria',
+    'year': 2012,
+    'both_sexes': 2.9,
+    'male': 3.7,
+    'female': 2.1
+} {
+    'country': 'Algeria',
+    'year': 2011,
+    'both_sexes': 3.0,
+    'male': 3.7,
+    'female': 2.2
+} {
+    'country': 'Algeria',
+    'year': 2010,
+    'both_sexes': 3.0,
+    'male': 3.8,
+    'female': 2.2
+} {
+    'country': 'Algeria',
+    'year': 2009,
+    'both_sexes': 3.2,
+    'male': 4.0,
+    'female': 2.3
+} {
+    'country': 'Algeria',
+    'year': 2008,
+    'both_sexes': 3.4,
+    'male': 4.3,
+    'female': 2.5
+} {
+    'country': 'Algeria',
+    'year': 2007,
+    'both_sexes': 3.5,
+    'male': 4.4,
+    'female': 2.6
+} {
+    'country': 'Algeria',
+    'year': 2006,
+    'both_sexes': 3.7,
+    'male': 4.7,
+    'female': 2.7
+} {
+    'country': 'Algeria',
+    'year': 2005,
+    'both_sexes': 3.9,
+    'male': 4.8,
+    'female': 2.8
+} {
+    'country': 'Algeria',
+    'year': 2004,
+    'both_sexes': 4.0,
+    'male': 5.0,
+    'female': 3.0
+} {
+    'country': 'Algeria',
+    'year': 2003,
+    'both_sexes': 4.1,
+    'male': 5.1,
+    'female': 3.1
+} {
+    'country': 'Algeria',
+    'year': 2002,
+    'both_sexes': 4.4,
+    'male': 5.5,
+    'female': 3.3
+} {
+    'country': 'Algeria',
+    'year': 2001,
+    'both_sexes': 4.5,
+    'male': 5.6,
+    'female': 3.4
+} {
+    'country': 'Algeria',
+    'year': 2000,
+    'both_sexes': 4.5,
+    'male': 5.6,
+    'female': 3.4
+} {
+    'country': 'Angola',
+    'year': 2019,
+    'both_sexes': 6.1,
+    'male': 10.0,
+    'female': 2.3
+} {
+    'country': 'Angola',
+    'year': 2018,
+    'both_sexes': 6.0,
+    'male': 9.8,
+    'female': 2.3
+} {
+    'country': 'Angola',
+    'year': 2017,
+    'both_sexes': 6.0,
+    'male': 9.7,
+    'female': 2.4
+} {
+    'country': 'Angola',
+    'year': 2016,
+    'both_sexes': 6.2,
+    'male': 10.0,
+    'female': 2.6
+} {
+    'country': 'Angola',
+    'year': 2015,
+    'both_sexes': 6.5,
+    'male': 10.5,
+    'female': 2.6
+} {
+    'country': 'Angola',
+    'year': 2014,
+    'both_sexes': 6.4,
+    'male': 10.4,
+    'female': 2.4
+} {
+    'country': 'Angola',
+    'year': 2013,
+    'both_sexes': 6.9,
+    'male': 11.3,
+    'female': 2.6
+} {
+    'country': 'Angola',
+    'year': 2012,
+    'both_sexes': 6.9,
+    'male': 11.2,
+    'female': 2.7
+} {
+    'country': 'Angola',
+    'year': 2011,
+    'both_sexes': 6.6,
+    'male': 10.6,
+    'female': 2.7
+} {
+    'country': 'Angola',
+    'year': 2010,
+    'both_sexes': 7.0,
+    'male': 11.2,
+    'female': 2.9
+} {
+    'country': 'Angola',
+    'year': 2009,
+    'both_sexes': 6.7,
+    'male': 10.8,
+    'female': 2.7
+} {
+    'country': 'Angola',
+    'year': 2008,
+    'both_sexes': 7.5,
+    'male': 12.0,
+    'female': 3.2
+} {
+    'country': 'Angola',
+    'year': 2007,
+    'both_sexes': 7.4,
+    'male': 11.9,
+    'female': 3.0
+} {
+    'country': 'Angola',
+    'year': 2006,
+    'both_sexes': 8.6,
+    'male': 13.6,
+    'female': 3.6
+} {
+    'country': 'Angola',
+    'year': 2005,
+    'both_sexes': 8.1,
+    'male': 12.8,
+    'female': 3.4
+} {
+    'country': 'Angola',
+    'year': 2004,
+    'both_sexes': 8.6,
+    'male': 13.6,
+    'female': 3.6
+} {
+    'country': 'Angola',
+    'year': 2003,
+    'both_sexes': 8.8,
+    'male': 13.9,
+    'female': 3.6
+} {
+    'country': 'Angola',
+    'year': 2002,
+    'both_sexes': 8.6,
+    'male': 13.8,
+    'female': 3.4
+} {
+    'country': 'Angola',
+    'year': 2001,
+    'both_sexes': 8.6,
+    'male': 14.1,
+    'female': 3.2
+} {
+    'country': 'Angola',
+    'year': 2000,
+    'both_sexes': 8.7,
+    'male': 14.2,
+    'female': 3.3
+} {
+    'country': 'Argentina',
+    'year': 2019,
+    'both_sexes': 8.4,
+    'male': 13.7,
+    'female': 3.3
+} {
+    'country': 'Argentina',
+    'year': 2018,
+    'both_sexes': 9.2,
+    'male': 15.1,
+    'female': 3.6
+} {
+    'country': 'Argentina',
+    'year': 2017,
+    'both_sexes': 8.9,
+    'male': 14.5,
+    'female': 3.5
+} {
+    'country': 'Argentina',
+    'year': 2016,
+    'both_sexes': 8.3,
+    'male': 13.7,
+    'female': 3.1
+} {
+    'country': 'Argentina',
+    'year': 2015,
+    'both_sexes': 8.3,
+    'male': 13.6,
+    'female': 3.3
+} {
+    'country': 'Argentina',
+    'year': 2014,
+    'both_sexes': 9.3,
+    'male': 15.1,
+    'female': 3.7
+} {
+    'country': 'Argentina',
+    'year': 2013,
+    'both_sexes': 8.6,
+    'male': 14.2,
+    'female': 3.2
+} {
+    'country': 'Argentina',
+    'year': 2012,
+    'both_sexes': 9.1,
+    'male': 15.1,
+    'female': 3.5
+} {
+    'country': 'Argentina',
+    'year': 2011,
+    'both_sexes': 8.5,
+    'male': 14.0,
+    'female': 3.3
+} {
+    'country': 'Argentina',
+    'year': 2010,
+    'both_sexes': 8.6,
+    'male': 14.2,
+    'female': 3.2
+} {
+    'country': 'Argentina',
+    'year': 2009,
+    'both_sexes': 8.4,
+    'male': 13.9,
+    'female': 3.2
+} {
+    'country': 'Argentina',
+    'year': 2008,
+    'both_sexes': 8.7,
+    'male': 14.3,
+    'female': 3.3
+} {
+    'country': 'Argentina',
+    'year': 2007,
+    'both_sexes': 8.3,
+    'male': 13.5,
+    'female': 3.3
+} {
+    'country': 'Argentina',
+    'year': 2006,
+    'both_sexes': 8.6,
+    'male': 14.2,
+    'female': 3.3
+} {
+    'country': 'Argentina',
+    'year': 2005,
+    'both_sexes': 8.6,
+    'male': 13.9,
+    'female': 3.6
+} {
+    'country': 'Argentina',
+    'year': 2004,
+    'both_sexes': 8.7,
+    'male': 14.2,
+    'female': 3.6
+} {
+    'country': 'Argentina',
+    'year': 2003,
+    'both_sexes': 9.7,
+    'male': 15.9,
+    'female': 3.8
+} {
+    'country': 'Argentina',
+    'year': 2002,
+    'both_sexes': 10.2,
+    'male': 16.6,
+    'female': 4.2
+} {
+    'country': 'Argentina',
+    'year': 2001,
+    'both_sexes': 10.3,
+    'male': 16.9,
+    'female': 4.0
+} {
+    'country': 'Argentina',
+    'year': 2000,
+    'both_sexes': 9.1,
+    'male': 15.2,
+    'female': 3.4
+} {
+    'country': 'Armenia',
+    'year': 2019,
+    'both_sexes': 3.3,
+    'male': 5.6,
+    'female': 1.3
+} {
+    'country': 'Armenia',
+    'year': 2016,
+    'both_sexes': 5.7,
+    'male': 9.2,
+    'female': 2.6
+} {
+    'country': 'Armenia',
+    'year': 2015,
+    'both_sexes': 6.2,
+    'male': 8.9,
+    'female': 3.7
+} {
+    'country': 'Armenia',
+    'year': 2014,
+    'both_sexes': 6.3,
+    'male': 8.1,
+    'female': 4.6
+} {
+    'country': 'Armenia',
+    'year': 2013,
+    'both_sexes': 6.4,
+    'male': 7.6,
+    'female': 5.2
+} {
+    'country': 'Armenia',
+    'year': 2012,
+    'both_sexes': 7.4,
+    'male': 10.9,
+    'female': 4.4
+} {
+    'country': 'Armenia',
+    'year': 2011,
+    'both_sexes': 6.8,
+    'male': 9.5,
+    'female': 4.4
+} {
+    'country': 'Armenia',
+    'year': 2010,
+    'both_sexes': 6.8,
+    'male': 10.5,
+    'female': 3.5
+} {
+    'country': 'Armenia',
+    'year': 2009,
+    'both_sexes': 4.8,
+    'male': 8.0,
+    'female': 1.9
+} {
+    'country': 'Armenia',
+    'year': 2008,
+    'both_sexes': 4.8,
+    'male': 7.3,
+    'female': 2.7
+} {
+    'country': 'Armenia',
+    'year': 2007,
+    'both_sexes': 5.8,
+    'male': 8.7,
+    'female': 3.1
+} {
+    'country': 'Armenia',
+    'year': 2006,
+    'both_sexes': 5.9,
+    'male': 8.9,
+    'female': 3.2
+} {
+    'country': 'Armenia',
+    'year': 2005,
+    'both_sexes': 4.2,
+    'male': 6.6,
+    'female': 2.1
+} {
+    'country': 'Armenia',
+    'year': 2004,
+    'both_sexes': 4.0,
+    'male': 6.2,
+    'female': 2.1
+} {
+    'country': 'Armenia',
+    'year': 2003,
+    'both_sexes': 2.6,
+    'male': 4.3,
+    'female': 1.1
+} {
+    'country': 'Armenia',
+    'year': 2002,
+    'both_sexes': 3.5,
+    'male': 5.9,
+    'female': 1.3
+} {
+    'country': 'Armenia',
+    'year': 2001,
+    'both_sexes': 3.1,
+    'male': 5.2,
+    'female': 1.3
+} {
+    'country': 'Armenia',
+    'year': 2000,
+    'both_sexes': 3.4,
+    'male': 5.1,
+    'female': 2.0
+} {
+    'country': 'Australia',
+    'year': 2019,
+    'both_sexes': 12.5,
+    'male': 18.6,
+    'female': 6.4
+} {
+    'country': 'Australia',
+    'year': 2018,
+    'both_sexes': 12.4,
+    'male': 18.7,
+    'female': 6.2
+} {
+    'country': 'Australia',
+    'year': 2017,
+    'both_sexes': 13.1,
+    'male': 19.5,
+    'female': 6.9
+} {
+    'country': 'Australia',
+    'year': 2016,
+    'both_sexes': 12.2,
+    'male': 18.0,
+    'female': 6.4
+} {
+    'country': 'Australia',
+    'year': 2015,
+    'both_sexes': 13.2,
+    'male': 19.7,
+    'female': 6.8
+} {
+    'country': 'Australia',
+    'year': 2014,
+    'both_sexes': 12.7,
+    'male': 18.9,
+    'female': 6.5
+} {
+    'country': 'Australia',
+    'year': 2013,
+    'both_sexes': 11.5,
+    'male': 17.0,
+    'female': 6.1
+} {
+    'country': 'Australia',
+    'year': 2012,
+    'both_sexes': 11.7,
+    'male': 17.1,
+    'female': 6.4
+} {
+    'country': 'Australia',
+    'year': 2011,
+    'both_sexes': 11.2,
+    'male': 16.8,
+    'female': 5.7
+} {
+    'country': 'Australia',
+    'year': 2010,
+    'both_sexes': 11.7,
+    'male': 17.7,
+    'female': 5.7
+} {
+    'country': 'Australia',
+    'year': 2009,
+    'both_sexes': 11.2,
+    'male': 16.9,
+    'female': 5.6
+} {
+    'country': 'Australia',
+    'year': 2008,
+    'both_sexes': 11.6,
+    'male': 17.9,
+    'female': 5.3
+} {
+    'country': 'Australia',
+    'year': 2007,
+    'both_sexes': 10.9,
+    'male': 16.2,
+    'female': 5.5
+} {
+    'country': 'Australia',
+    'year': 2006,
+    'both_sexes': 10.6,
+    'male': 16.1,
+    'female': 5.2
+} {
+    'country': 'Australia',
+    'year': 2005,
+    'both_sexes': 11.2,
+    'male': 17.3,
+    'female': 5.1
+} {
+    'country': 'Australia',
+    'year': 2004,
+    'both_sexes': 10.3,
+    'male': 15.9,
+    'female': 4.6
+} {
+    'country': 'Australia',
+    'year': 2003,
+    'both_sexes': 10.5,
+    'male': 16.2,
+    'female': 4.8
+} {
+    'country': 'Australia',
+    'year': 2002,
+    'both_sexes': 11.3,
+    'male': 17.4,
+    'female': 5.3
+} {
+    'country': 'Australia',
+    'year': 2001,
+    'both_sexes': 12.2,
+    'male': 18.8,
+    'female': 5.5
+} {
+    'country': 'Australia',
+    'year': 2000,
+    'both_sexes': 12.7,
+    'male': 19.9,
+    'female': 5.6
+} {
+    'country': 'Austria',
+    'year': 2019,
+    'both_sexes': 14.6,
+    'male': 22.8,
+    'female': 6.7
+} {
+    'country': 'Austria',
+    'year': 2018,
+    'both_sexes': 15.7,
+    'male': 24.9,
+    'female': 6.9
+} {
+    'country': 'Austria',
+    'year': 2017,
+    'both_sexes': 15.4,
+    'male': 24.5,
+    'female': 6.6
+} {
+    'country': 'Austria',
+    'year': 2016,
+    'both_sexes': 15.5,
+    'male': 23.6,
+    'female': 7.7
+} {
+    'country': 'Austria',
+    'year': 2015,
+    'both_sexes': 16.0,
+    'male': 24.8,
+    'female': 7.6
+} {
+    'country': 'Austria',
+    'year': 2014,
+    'both_sexes': 16.5,
+    'male': 25.3,
+    'female': 8.1
+} {
+    'country': 'Austria',
+    'year': 2013,
+    'both_sexes': 16.2,
+    'male': 24.9,
+    'female': 7.9
+} {
+    'country': 'Austria',
+    'year': 2012,
+    'both_sexes': 16.3,
+    'male': 25.7,
+    'female': 7.3
+} {
+    'country': 'Austria',
+    'year': 2011,
+    'both_sexes': 16.5,
+    'male': 25.4,
+    'female': 8.0
+} {
+    'country': 'Austria',
+    'year': 2010,
+    'both_sexes': 16.1,
+    'male': 25.1,
+    'female': 7.6
+} {
+    'country': 'Austria',
+    'year': 2009,
+    'both_sexes': 16.0,
+    'male': 24.8,
+    'female': 7.6
+} {
+    'country': 'Austria',
+    'year': 2008,
+    'both_sexes': 15.8,
+    'male': 24.6,
+    'female': 7.5
+} {
+    'country': 'Austria',
+    'year': 2007,
+    'both_sexes': 16.0,
+    'male': 24.5,
+    'female': 7.9
+} {
+    'country': 'Austria',
+    'year': 2006,
+    'both_sexes': 16.4,
+    'male': 25.7,
+    'female': 7.5
+} {
+    'country': 'Austria',
+    'year': 2005,
+    'both_sexes': 17.2,
+    'male': 26.4,
+    'female': 8.6
+} {
+    'country': 'Austria',
+    'year': 2004,
+    'both_sexes': 17.5,
+    'male': 27.1,
+    'female': 8.4
+} {
+    'country': 'Austria',
+    'year': 2003,
+    'both_sexes': 18.2,
+    'male': 27.5,
+    'female': 9.4
+} {
+    'country': 'Austria',
+    'year': 2002,
+    'both_sexes': 19.3,
+    'male': 30.4,
+    'female': 8.9
+} {
+    'country': 'Austria',
+    'year': 2001,
+    'both_sexes': 18.6,
+    'male': 27.7,
+    'female': 10.0
+} {
+    'country': 'Austria',
+    'year': 2000,
+    'both_sexes': 19.9,
+    'male': 29.8,
+    'female': 10.6
+} {
+    'country': 'Azerbaijan',
+    'year': 2019,
+    'both_sexes': 4.1,
+    'male': 6.6,
+    'female': 1.6
+} {
+    'country': 'Azerbaijan',
+    'year': 2018,
+    'both_sexes': 4.0,
+    'male': 6.5,
+    'female': 1.6
+} {
+    'country': 'Azerbaijan',
+    'year': 2017,
+    'both_sexes': 4.0,
+    'male': 6.4,
+    'female': 1.6
+} {
+    'country': 'Azerbaijan',
+    'year': 2016,
+    'both_sexes': 4.0,
+    'male': 6.4,
+    'female': 1.6
+} {
+    'country': 'Azerbaijan',
+    'year': 2015,
+    'both_sexes': 4.1,
+    'male': 6.6,
+    'female': 1.6
+} {
+    'country': 'Azerbaijan',
+    'year': 2014,
+    'both_sexes': 4.2,
+    'male': 6.7,
+    'female': 1.6
+} {
+    'country': 'Azerbaijan',
+    'year': 2013,
+    'both_sexes': 4.3,
+    'male': 6.9,
+    'female': 1.7
+} {
+    'country': 'Azerbaijan',
+    'year': 2012,
+    'both_sexes': 4.4,
+    'male': 7.0,
+    'female': 1.8
+} {
+    'country': 'Azerbaijan',
+    'year': 2011,
+    'both_sexes': 4.5,
+    'male': 7.2,
+    'female': 1.9
+} {
+    'country': 'Azerbaijan',
+    'year': 2010,
+    'both_sexes': 4.6,
+    'male': 7.3,
+    'female': 1.9
+} {
+    'country': 'Azerbaijan',
+    'year': 2009,
+    'both_sexes': 4.6,
+    'male': 7.4,
+    'female': 1.9
+} {
+    'country': 'Azerbaijan',
+    'year': 2008,
+    'both_sexes': 4.7,
+    'male': 7.5,
+    'female': 2.0
+} {
+    'country': 'Azerbaijan',
+    'year': 2007,
+    'both_sexes': 4.9,
+    'male': 7.8,
+    'female': 2.1
+} {
+    'country': 'Azerbaijan',
+    'year': 2006,
+    'both_sexes': 4.7,
+    'male': 7.5,
+    'female': 2.0
+} {
+    'country': 'Azerbaijan',
+    'year': 2005,
+    'both_sexes': 4.5,
+    'male': 7.2,
+    'female': 1.9
+} {
+    'country': 'Azerbaijan',
+    'year': 2004,
+    'both_sexes': 4.3,
+    'male': 6.9,
+    'female': 1.8
+} {
+    'country': 'Azerbaijan',
+    'year': 2003,
+    'both_sexes': 3.8,
+    'male': 6.0,
+    'female': 1.6
+} {
+    'country': 'Azerbaijan',
+    'year': 2002,
+    'both_sexes': 3.6,
+    'male': 5.8,
+    'female': 1.5
+} {
+    'country': 'Azerbaijan',
+    'year': 2001,
+    'both_sexes': 3.4,
+    'male': 5.5,
+    'female': 1.4
+} {
+    'country': 'Azerbaijan',
+    'year': 2000,
+    'both_sexes': 3.1,
+    'male': 5.1,
+    'female': 1.2
+} {
+    'country': 'Bahamas',
+    'year': 2019,
+    'both_sexes': 3.5,
+    'male': 5.9,
+    'female': 1.3
+} {
+    'country': 'Bahamas',
+    'year': 2018,
+    'both_sexes': 3.5,
+    'male': 6.0,
+    'female': 1.2
+} {
+    'country': 'Bahamas',
+    'year': 2017,
+    'both_sexes': 3.4,
+    'male': 5.9,
+    'female': 1.1
+} {
+    'country': 'Bahamas',
+    'year': 2016,
+    'both_sexes': 3.6,
+    'male': 6.2,
+    'female': 1.1
+} {
+    'country': 'Bahamas',
+    'year': 2015,
+    'both_sexes': 3.5,
+    'male': 5.9,
+    'female': 1.1
+} {
+    'country': 'Bahamas',
+    'year': 2013,
+    'both_sexes': 3.1,
+    'male': 5.3,
+    'female': 1.1
+} {
+    'country': 'Bahamas',
+    'year': 2012,
+    'both_sexes': 3.5,
+    'male': 6.0,
+    'female': 1.2
+} {
+    'country': 'Bahamas',
+    'year': 2011,
+    'both_sexes': 3.7,
+    'male': 6.3,
+    'female': 1.3
+} {
+    'country': 'Bahamas',
+    'year': 2010,
+    'both_sexes': 3.6,
+    'male': 6.1,
+    'female': 1.3
+} {
+    'country': 'Bahamas',
+    'year': 2009,
+    'both_sexes': 3.3,
+    'male': 5.5,
+    'female': 1.3
+} {
+    'country': 'Bahamas',
+    'year': 2008,
+    'both_sexes': 3.3,
+    'male': 5.5,
+    'female': 1.3
+} {
+    'country': 'Bahamas',
+    'year': 2007,
+    'both_sexes': 3.2,
+    'male': 5.3,
+    'female': 1.3
+} {
+    'country': 'Bahamas',
+    'year': 2006,
+    'both_sexes': 3.5,
+    'male': 5.6,
+    'female': 1.4
+} {
+    'country': 'Bahamas',
+    'year': 2005,
+    'both_sexes': 3.0,
+    'male': 4.9,
+    'female': 1.3
+} {
+    'country': 'Bahamas',
+    'year': 2004,
+    'both_sexes': 3.2,
+    'male': 5.2,
+    'female': 1.3
+} {
+    'country': 'Bahamas',
+    'year': 2001,
+    'both_sexes': 2.5,
+    'male': 4.1,
+    'female': 1.1
+} {
+    'country': 'Bahamas',
+    'year': 2000,
+    'both_sexes': 2.3,
+    'male': 3.6,
+    'female': 1.1
+} {
+    'country': 'Bahrain',
+    'year': 2019,
+    'both_sexes': 8.9,
+    'male': 12.5,
+    'female': 2.4
+} {
+    'country': 'Bahrain',
+    'year': 2018,
+    'both_sexes': 8.6,
+    'male': 12.1,
+    'female': 2.4
+} {
+    'country': 'Bahrain',
+    'year': 2017,
+    'both_sexes': 8.1,
+    'male': 11.4,
+    'female': 2.4
+} {
+    'country': 'Bahrain',
+    'year': 2016,
+    'both_sexes': 7.7,
+    'male': 10.9,
+    'female': 2.4
+} {
+    'country': 'Bahrain',
+    'year': 2015,
+    'both_sexes': 7.4,
+    'male': 10.4,
+    'female': 2.5
+} {
+    'country': 'Bahrain',
+    'year': 2014,
+    'both_sexes': 7.4,
+    'male': 10.4,
+    'female': 2.6
+} {
+    'country': 'Bahrain',
+    'year': 2013,
+    'both_sexes': 7.1,
+    'male': 9.9,
+    'female': 2.6
+} {
+    'country': 'Bahrain',
+    'year': 2012,
+    'both_sexes': 7.4,
+    'male': 10.3,
+    'female': 2.7
+} {
+    'country': 'Bahrain',
+    'year': 2011,
+    'both_sexes': 7.9,
+    'male': 10.9,
+    'female': 3.0
+} {
+    'country': 'Bahrain',
+    'year': 2010,
+    'both_sexes': 8.2,
+    'male': 11.3,
+    'female': 3.1
+} {
+    'country': 'Bahrain',
+    'year': 2009,
+    'both_sexes': 8.6,
+    'male': 11.8,
+    'female': 3.3
+} {
+    'country': 'Bahrain',
+    'year': 2008,
+    'both_sexes': 9.2,
+    'male': 12.7,
+    'female': 3.4
+} {
+    'country': 'Bahrain',
+    'year': 2007,
+    'both_sexes': 9.6,
+    'male': 13.3,
+    'female': 3.6
+} {
+    'country': 'Bahrain',
+    'year': 2006,
+    'both_sexes': 8.2,
+    'male': 11.3,
+    'female': 3.4
+} {
+    'country': 'Bahrain',
+    'year': 2005,
+    'both_sexes': 10.3,
+    'male': 14.6,
+    'female': 3.8
+} {
+    'country': 'Bahrain',
+    'year': 2004,
+    'both_sexes': 10.2,
+    'male': 14.6,
+    'female': 3.7
+} {
+    'country': 'Bahrain',
+    'year': 2003,
+    'both_sexes': 10.2,
+    'male': 14.7,
+    'female': 3.7
+} {
+    'country': 'Bahrain',
+    'year': 2002,
+    'both_sexes': 9.2,
+    'male': 13.5,
+    'female': 3.2
+} {
+    'country': 'Bahrain',
+    'year': 2001,
+    'both_sexes': 8.8,
+    'male': 13.1,
+    'female': 2.9
+} {
+    'country': 'Bahrain',
+    'year': 2000,
+    'both_sexes': 6.6,
+    'male': 9.8,
+    'female': 2.3
+} {
+    'country': 'Bangladesh',
+    'year': 2019,
+    'both_sexes': 3.7,
+    'male': 5.7,
+    'female': 1.7
+} {
+    'country': 'Bangladesh',
+    'year': 2018,
+    'both_sexes': 3.6,
+    'male': 5.5,
+    'female': 1.6
+} {
+    'country': 'Bangladesh',
+    'year': 2017,
+    'both_sexes': 3.5,
+    'male': 5.3,
+    'female': 1.6
+} {
+    'country': 'Bangladesh',
+    'year': 2016,
+    'both_sexes': 3.4,
+    'male': 5.1,
+    'female': 1.7
+} {
+    'country': 'Bangladesh',
+    'year': 2015,
+    'both_sexes': 3.4,
+    'male': 5.0,
+    'female': 1.8
+} {
+    'country': 'Bangladesh',
+    'year': 2014,
+    'both_sexes': 3.5,
+    'male': 5.1,
+    'female': 1.8
+} {
+    'country': 'Bangladesh',
+    'year': 2013,
+    'both_sexes': 3.5,
+    'male': 5.0,
+    'female': 2.0
+} {
+    'country': 'Bangladesh',
+    'year': 2012,
+    'both_sexes': 3.7,
+    'male': 5.1,
+    'female': 2.2
+} {
+    'country': 'Bangladesh',
+    'year': 2011,
+    'both_sexes': 4.0,
+    'male': 5.6,
+    'female': 2.2
+} {
+    'country': 'Bangladesh',
+    'year': 2010,
+    'both_sexes': 4.4,
+    'male': 6.3,
+    'female': 2.4
+} {
+    'country': 'Bangladesh',
+    'year': 2009,
+    'both_sexes': 4.6,
+    'male': 6.5,
+    'female': 2.6
+} {
+    'country': 'Bangladesh',
+    'year': 2008,
+    'both_sexes': 4.7,
+    'male': 6.8,
+    'female': 2.6
+} {
+    'country': 'Bangladesh',
+    'year': 2007,
+    'both_sexes': 4.9,
+    'male': 7.0,
+    'female': 2.8
+} {
+    'country': 'Bangladesh',
+    'year': 2006,
+    'both_sexes': 5.0,
+    'male': 7.0,
+    'female': 2.9
+} {
+    'country': 'Bangladesh',
+    'year': 2005,
+    'both_sexes': 4.9,
+    'male': 6.9,
+    'female': 2.8
+} {
+    'country': 'Bangladesh',
+    'year': 2004,
+    'both_sexes': 4.9,
+    'male': 6.8,
+    'female': 2.8
+} {
+    'country': 'Bangladesh',
+    'year': 2003,
+    'both_sexes': 5.1,
+    'male': 7.1,
+    'female': 3.0
+} {
+    'country': 'Bangladesh',
+    'year': 2002,
+    'both_sexes': 5.3,
+    'male': 7.5,
+    'female': 3.1
+} {
+    'country': 'Bangladesh',
+    'year': 2001,
+    'both_sexes': 5.7,
+    'male': 8.0,
+    'female': 3.2
+} {
+    'country': 'Bangladesh',
+    'year': 2000,
+    'both_sexes': 6.0,
+    'male': 8.7,
+    'female': 3.3
+} {
+    'country': 'Barbados',
+    'year': 2005,
+    'both_sexes': 2.9,
+    'male': 4.1,
+    'female': 1.8
+} {
+    'country': 'Belarus',
+    'year': 2019,
+    'both_sexes': 21.2,
+    'male': 36.7,
+    'female': 7.7
+} {
+    'country': 'Belarus',
+    'year': 2018,
+    'both_sexes': 22.8,
+    'male': 39.7,
+    'female': 8.1
+} {
+    'country': 'Belarus',
+    'year': 2017,
+    'both_sexes': 23.3,
+    'male': 40.6,
+    'female': 8.2
+} {
+    'country': 'Belarus',
+    'year': 2016,
+    'both_sexes': 24.2,
+    'male': 42.3,
+    'female': 8.4
+} {
+    'country': 'Belarus',
+    'year': 2015,
+    'both_sexes': 24.3,
+    'male': 42.7,
+    'female': 8.3
+} {
+    'country': 'Belarus',
+    'year': 2014,
+    'both_sexes': 26.3,
+    'male': 46.6,
+    'female': 8.7
+} {
+    'country': 'Belarus',
+    'year': 2013,
+    'both_sexes': 27.9,
+    'male': 49.1,
+    'female': 9.4
+} {
+    'country': 'Belarus',
+    'year': 2012,
+    'both_sexes': 29.9,
+    'male': 52.9,
+    'female': 10.0
+} {
+    'country': 'Belarus',
+    'year': 2011,
+    'both_sexes': 36.2,
+    'male': 64.7,
+    'female': 11.5
+} {
+    'country': 'Belarus',
+    'year': 2010,
+    'both_sexes': 35.9,
+    'male': 64.3,
+    'female': 11.2
+} {
+    'country': 'Belarus',
+    'year': 2009,
+    'both_sexes': 36.5,
+    'male': 64.8,
+    'female': 12.0
+} {
+    'country': 'Belarus',
+    'year': 2008,
+    'both_sexes': 36.7,
+    'male': 65.5,
+    'female': 11.6
+} {
+    'country': 'Belarus',
+    'year': 2007,
+    'both_sexes': 36.8,
+    'male': 65.7,
+    'female': 11.6
+} {
+    'country': 'Belarus',
+    'year': 2006,
+    'both_sexes': 40.9,
+    'male': 73.5,
+    'female': 12.5
+} {
+    'country': 'Belarus',
+    'year': 2005,
+    'both_sexes': 43.5,
+    'male': 78.5,
+    'female': 12.9
+} {
+    'country': 'Belarus',
+    'year': 2004,
+    'both_sexes': 42.1,
+    'male': 75.6,
+    'female': 12.6
+} {
+    'country': 'Belarus',
+    'year': 2003,
+    'both_sexes': 42.9,
+    'male': 77.6,
+    'female': 12.4
+} {
+    'country': 'Belarus',
+    'year': 2002,
+    'both_sexes': 44.3,
+    'male': 80.1,
+    'female': 12.7
+} {
+    'country': 'Belarus',
+    'year': 2001,
+    'both_sexes': 43.3,
+    'male': 78.6,
+    'female': 12.0
+} {
+    'country': 'Belarus',
+    'year': 2000,
+    'both_sexes': 41.8,
+    'male': 75.6,
+    'female': 11.9
+} {
+    'country': 'Belgium',
+    'year': 2019,
+    'both_sexes': 18.3,
+    'male': 24.9,
+    'female': 11.8
+} {
+    'country': 'Belgium',
+    'year': 2018,
+    'both_sexes': 18.7,
+    'male': 25.6,
+    'female': 11.9
+} {
+    'country': 'Belgium',
+    'year': 2017,
+    'both_sexes': 18.9,
+    'male': 26.1,
+    'female': 11.9
+} {
+    'country': 'Belgium',
+    'year': 2016,
+    'both_sexes': 19.3,
+    'male': 27.1,
+    'female': 11.7
+} {
+    'country': 'Belgium',
+    'year': 2015,
+    'both_sexes': 18.6,
+    'male': 25.8,
+    'female': 11.7
+} {
+    'country': 'Belgium',
+    'year': 2014,
+    'both_sexes': 19.4,
+    'male': 27.0,
+    'female': 12.1
+} {
+    'country': 'Belgium',
+    'year': 2013,
+    'both_sexes': 19.5,
+    'male': 27.4,
+    'female': 11.9
+} {
+    'country': 'Belgium',
+    'year': 2012,
+    'both_sexes': 20.8,
+    'male': 30.2,
+    'female': 11.8
+} {
+    'country': 'Belgium',
+    'year': 2011,
+    'both_sexes': 21.1,
+    'male': 29.7,
+    'female': 12.8
+} {
+    'country': 'Belgium',
+    'year': 2010,
+    'both_sexes': 20.5,
+    'male': 29.1,
+    'female': 12.2
+} {
+    'country': 'Belgium',
+    'year': 2009,
+    'both_sexes': 20.6,
+    'male': 29.7,
+    'female': 11.8
+} {
+    'country': 'Belgium',
+    'year': 2008,
+    'both_sexes': 20.3,
+    'male': 29.5,
+    'female': 11.4
+} {
+    'country': 'Belgium',
+    'year': 2007,
+    'both_sexes': 18.7,
+    'male': 26.7,
+    'female': 11.0
+} {
+    'country': 'Belgium',
+    'year': 2006,
+    'both_sexes': 20.2,
+    'male': 29.0,
+    'female': 11.8
+} {
+    'country': 'Belgium',
+    'year': 2005,
+    'both_sexes': 20.7,
+    'male': 30.3,
+    'female': 11.4
+} {
+    'country': 'Belgium',
+    'year': 2004,
+    'both_sexes': 20.2,
+    'male': 29.6,
+    'female': 11.2
+} {
+    'country': 'Belgium',
+    'year': 2003,
+    'both_sexes': 21.5,
+    'male': 31.8,
+    'female': 11.6
+} {
+    'country': 'Belgium',
+    'year': 2002,
+    'both_sexes': 20.9,
+    'male': 30.2,
+    'female': 12.0
+} {
+    'country': 'Belgium',
+    'year': 2001,
+    'both_sexes': 22.3,
+    'male': 32.9,
+    'female': 12.1
+} {
+    'country': 'Belgium',
+    'year': 2000,
+    'both_sexes': 22.0,
+    'male': 31.5,
+    'female': 12.9
+} {
+    'country': 'Belize',
+    'year': 2019,
+    'both_sexes': 7.1,
+    'male': 12.5,
+    'female': 1.7
+} {
+    'country': 'Belize',
+    'year': 2018,
+    'both_sexes': 6.5,
+    'male': 11.5,
+    'female': 1.5
+} {
+    'country': 'Belize',
+    'year': 2017,
+    'both_sexes': 7.0,
+    'male': 12.5,
+    'female': 1.5
+} {
+    'country': 'Belize',
+    'year': 2016,
+    'both_sexes': 5.8,
+    'male': 10.3,
+    'female': 1.4
+} {
+    'country': 'Belize',
+    'year': 2015,
+    'both_sexes': 6.0,
+    'male': 10.5,
+    'female': 1.4
+} {
+    'country': 'Belize',
+    'year': 2014,
+    'both_sexes': 6.0,
+    'male': 10.4,
+    'female': 1.5
+} {
+    'country': 'Belize',
+    'year': 2013,
+    'both_sexes': 5.9,
+    'male': 10.2,
+    'female': 1.5
+} {
+    'country': 'Belize',
+    'year': 2012,
+    'both_sexes': 6.3,
+    'male': 10.9,
+    'female': 1.6
+} {
+    'country': 'Belize',
+    'year': 2011,
+    'both_sexes': 6.8,
+    'male': 11.7,
+    'female': 1.8
+} {
+    'country': 'Belize',
+    'year': 2010,
+    'both_sexes': 6.9,
+    'male': 11.9,
+    'female': 1.8
+} {
+    'country': 'Belize',
+    'year': 2009,
+    'both_sexes': 6.2,
+    'male': 10.6,
+    'female': 1.7
+} {
+    'country': 'Belize',
+    'year': 2008,
+    'both_sexes': 4.4,
+    'male': 7.3,
+    'female': 1.4
+} {
+    'country': 'Belize',
+    'year': 2007,
+    'both_sexes': 5.2,
+    'male': 8.9,
+    'female': 1.5
+} {
+    'country': 'Belize',
+    'year': 2006,
+    'both_sexes': 5.6,
+    'male': 9.5,
+    'female': 1.7
+} {
+    'country': 'Belize',
+    'year': 2005,
+    'both_sexes': 5.4,
+    'male': 9.2,
+    'female': 1.6
+} {
+    'country': 'Belize',
+    'year': 2004,
+    'both_sexes': 6.9,
+    'male': 11.8,
+    'female': 2.0
+} {
+    'country': 'Belize',
+    'year': 2003,
+    'both_sexes': 6.3,
+    'male': 10.5,
+    'female': 2.0
+} {
+    'country': 'Belize',
+    'year': 2002,
+    'both_sexes': 6.1,
+    'male': 10.2,
+    'female': 2.0
+} {
+    'country': 'Belize',
+    'year': 2001,
+    'both_sexes': 6.0,
+    'male': 10.1,
+    'female': 1.9
+} {
+    'country': 'Belize',
+    'year': 2000,
+    'both_sexes': 7.4,
+    'male': 12.5,
+    'female': 2.2
+} {
+    'country': 'Benin',
+    'year': 2019,
+    'both_sexes': 7.8,
+    'male': 11.8,
+    'female': 3.8
+} {
+    'country': 'Benin',
+    'year': 2018,
+    'both_sexes': 7.9,
+    'male': 12.0,
+    'female': 3.9
+} {
+    'country': 'Benin',
+    'year': 2017,
+    'both_sexes': 8.0,
+    'male': 12.0,
+    'female': 3.9
+} {
+    'country': 'Benin',
+    'year': 2016,
+    'both_sexes': 8.0,
+    'male': 12.1,
+    'female': 4.0
+} {
+    'country': 'Benin',
+    'year': 2015,
+    'both_sexes': 8.1,
+    'male': 12.2,
+    'female': 4.0
+} {
+    'country': 'Benin',
+    'year': 2014,
+    'both_sexes': 8.2,
+    'male': 12.4,
+    'female': 4.1
+} {
+    'country': 'Benin',
+    'year': 2013,
+    'both_sexes': 8.3,
+    'male': 12.5,
+    'female': 4.1
+} {
+    'country': 'Benin',
+    'year': 2012,
+    'both_sexes': 8.3,
+    'male': 12.6,
+    'female': 4.1
+} {
+    'country': 'Benin',
+    'year': 2011,
+    'both_sexes': 8.5,
+    'male': 12.7,
+    'female': 4.2
+} {
+    'country': 'Benin',
+    'year': 2010,
+    'both_sexes': 8.4,
+    'male': 12.7,
+    'female': 4.2
+} {
+    'country': 'Benin',
+    'year': 2009,
+    'both_sexes': 8.5,
+    'male': 12.8,
+    'female': 4.2
+} {
+    'country': 'Benin',
+    'year': 2008,
+    'both_sexes': 8.2,
+    'male': 12.5,
+    'female': 4.1
+} {
+    'country': 'Benin',
+    'year': 2007,
+    'both_sexes': 8.5,
+    'male': 12.7,
+    'female': 4.3
+} {
+    'country': 'Benin',
+    'year': 2006,
+    'both_sexes': 8.6,
+    'male': 12.9,
+    'female': 4.5
+} {
+    'country': 'Benin',
+    'year': 2005,
+    'both_sexes': 8.7,
+    'male': 13.0,
+    'female': 4.5
+} {
+    'country': 'Benin',
+    'year': 2004,
+    'both_sexes': 8.8,
+    'male': 13.1,
+    'female': 4.6
+} {
+    'country': 'Benin',
+    'year': 2003,
+    'both_sexes': 8.8,
+    'male': 13.0,
+    'female': 4.6
+} {
+    'country': 'Benin',
+    'year': 2002,
+    'both_sexes': 8.8,
+    'male': 13.1,
+    'female': 4.7
+} {
+    'country': 'Benin',
+    'year': 2001,
+    'both_sexes': 8.8,
+    'male': 13.1,
+    'female': 4.7
+} {
+    'country': 'Benin',
+    'year': 2000,
+    'both_sexes': 8.8,
+    'male': 12.9,
+    'female': 4.7
+} {
+    'country': 'Bhutan',
+    'year': 2019,
+    'both_sexes': 4.6,
+    'male': 6.3,
+    'female': 2.7
+} {
+    'country': 'Bhutan',
+    'year': 2018,
+    'both_sexes': 4.6,
+    'male': 6.3,
+    'female': 2.7
+} {
+    'country': 'Bhutan',
+    'year': 2017,
+    'both_sexes': 4.6,
+    'male': 6.3,
+    'female': 2.7
+} {
+    'country': 'Bhutan',
+    'year': 2016,
+    'both_sexes': 4.5,
+    'male': 6.2,
+    'female': 2.6
+} {
+    'country': 'Bhutan',
+    'year': 2015,
+    'both_sexes': 4.5,
+    'male': 6.2,
+    'female': 2.6
+} {
+    'country': 'Bhutan',
+    'year': 2014,
+    'both_sexes': 4.4,
+    'male': 6.2,
+    'female': 2.5
+} {
+    'country': 'Bhutan',
+    'year': 2013,
+    'both_sexes': 4.4,
+    'male': 6.1,
+    'female': 2.5
+} {
+    'country': 'Bhutan',
+    'year': 2012,
+    'both_sexes': 4.3,
+    'male': 6.0,
+    'female': 2.5
+} {
+    'country': 'Bhutan',
+    'year': 2011,
+    'both_sexes': 4.3,
+    'male': 5.9,
+    'female': 2.4
+} {
+    'country': 'Bhutan',
+    'year': 2010,
+    'both_sexes': 4.2,
+    'male': 5.9,
+    'female': 2.4
+} {
+    'country': 'Bhutan',
+    'year': 2009,
+    'both_sexes': 4.3,
+    'male': 5.9,
+    'female': 2.5
+} {
+    'country': 'Bhutan',
+    'year': 2008,
+    'both_sexes': 4.3,
+    'male': 5.9,
+    'female': 2.6
+} {
+    'country': 'Bhutan',
+    'year': 2007,
+    'both_sexes': 4.4,
+    'male': 5.9,
+    'female': 2.7
+} {
+    'country': 'Bhutan',
+    'year': 2006,
+    'both_sexes': 4.5,
+    'male': 5.9,
+    'female': 2.9
+} {
+    'country': 'Bhutan',
+    'year': 2005,
+    'both_sexes': 4.5,
+    'male': 5.9,
+    'female': 2.9
+} {
+    'country': 'Bhutan',
+    'year': 2004,
+    'both_sexes': 4.5,
+    'male': 6.0,
+    'female': 3.0
+} {
+    'country': 'Bhutan',
+    'year': 2003,
+    'both_sexes': 4.6,
+    'male': 6.1,
+    'female': 3.1
+} {
+    'country': 'Bhutan',
+    'year': 2002,
+    'both_sexes': 4.7,
+    'male': 6.0,
+    'female': 3.2
+} {
+    'country': 'Bhutan',
+    'year': 2001,
+    'both_sexes': 4.9,
+    'male': 6.2,
+    'female': 3.5
+} {
+    'country': 'Bhutan',
+    'year': 2000,
+    'both_sexes': 4.8,
+    'male': 6.2,
+    'female': 3.5
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2019,
+    'both_sexes': 6.2,
+    'male': 8.4,
+    'female': 4.1
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2018,
+    'both_sexes': 6.3,
+    'male': 8.4,
+    'female': 4.2
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2017,
+    'both_sexes': 6.4,
+    'male': 8.5,
+    'female': 4.3
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2016,
+    'both_sexes': 6.6,
+    'male': 8.8,
+    'female': 4.5
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2015,
+    'both_sexes': 6.4,
+    'male': 8.3,
+    'female': 4.4
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2014,
+    'both_sexes': 6.2,
+    'male': 8.0,
+    'female': 4.4
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2013,
+    'both_sexes': 6.0,
+    'male': 7.7,
+    'female': 4.3
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2012,
+    'both_sexes': 6.0,
+    'male': 7.7,
+    'female': 4.3
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2011,
+    'both_sexes': 6.1,
+    'male': 7.8,
+    'female': 4.4
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2010,
+    'both_sexes': 6.0,
+    'male': 7.7,
+    'female': 4.4
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2009,
+    'both_sexes': 6.0,
+    'male': 7.6,
+    'female': 4.4
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2008,
+    'both_sexes': 6.0,
+    'male': 7.5,
+    'female': 4.4
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2007,
+    'both_sexes': 6.1,
+    'male': 7.7,
+    'female': 4.5
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2006,
+    'both_sexes': 5.9,
+    'male': 7.6,
+    'female': 4.2
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2005,
+    'both_sexes': 6.3,
+    'male': 8.0,
+    'female': 4.5
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2004,
+    'both_sexes': 6.3,
+    'male': 8.1,
+    'female': 4.4
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2003,
+    'both_sexes': 6.4,
+    'male': 8.4,
+    'female': 4.5
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2002,
+    'both_sexes': 6.6,
+    'male': 8.5,
+    'female': 4.6
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2001,
+    'both_sexes': 6.6,
+    'male': 8.7,
+    'female': 4.5
+} {
+    'country': 'Bolivia (Plurinational State of)',
+    'year': 2000,
+    'both_sexes': 6.9,
+    'male': 9.0,
+    'female': 4.7
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2019,
+    'both_sexes': 10.9,
+    'male': 17.6,
+    'female': 4.5
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2018,
+    'both_sexes': 10.8,
+    'male': 17.3,
+    'female': 4.5
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2017,
+    'both_sexes': 10.5,
+    'male': 16.8,
+    'female': 4.5
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2016,
+    'both_sexes': 10.5,
+    'male': 16.8,
+    'female': 4.5
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2015,
+    'both_sexes': 10.7,
+    'male': 17.0,
+    'female': 4.6
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2014,
+    'both_sexes': 10.6,
+    'male': 16.9,
+    'female': 4.6
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2013,
+    'both_sexes': 10.6,
+    'male': 17.0,
+    'female': 4.5
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2012,
+    'both_sexes': 10.4,
+    'male': 16.6,
+    'female': 4.4
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2011,
+    'both_sexes': 10.6,
+    'male': 17.1,
+    'female': 4.4
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2010,
+    'both_sexes': 10.5,
+    'male': 16.8,
+    'female': 4.5
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2009,
+    'both_sexes': 10.7,
+    'male': 17.2,
+    'female': 4.5
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2008,
+    'both_sexes': 10.8,
+    'male': 17.4,
+    'female': 4.5
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2007,
+    'both_sexes': 11.5,
+    'male': 18.4,
+    'female': 4.8
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2006,
+    'both_sexes': 10.7,
+    'male': 17.0,
+    'female': 4.6
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2005,
+    'both_sexes': 10.8,
+    'male': 17.3,
+    'female': 4.4
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2004,
+    'both_sexes': 10.0,
+    'male': 15.7,
+    'female': 4.4
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2003,
+    'both_sexes': 9.9,
+    'male': 15.6,
+    'female': 4.3
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2002,
+    'both_sexes': 9.8,
+    'male': 15.4,
+    'female': 4.3
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2001,
+    'both_sexes': 9.4,
+    'male': 14.8,
+    'female': 4.2
+} {
+    'country': 'Bosnia and Herzegovina',
+    'year': 2000,
+    'both_sexes': 9.0,
+    'male': 14.3,
+    'female': 4.0
+} {
+    'country': 'Botswana',
+    'year': 2019,
+    'both_sexes': 16.1,
+    'male': 26.3,
+    'female': 6.4
+} {
+    'country': 'Botswana',
+    'year': 2018,
+    'both_sexes': 17.4,
+    'male': 28.3,
+    'female': 7.3
+} {
+    'country': 'Botswana',
+    'year': 2017,
+    'both_sexes': 17.4,
+    'male': 28.1,
+    'female': 7.5
+} {
+    'country': 'Botswana',
+    'year': 2016,
+    'both_sexes': 17.8,
+    'male': 28.5,
+    'female': 7.8
+} {
+    'country': 'Botswana',
+    'year': 2015,
+    'both_sexes': 19.0,
+    'male': 30.6,
+    'female': 8.3
+} {
+    'country': 'Botswana',
+    'year': 2014,
+    'both_sexes': 19.6,
+    'male': 31.4,
+    'female': 8.6
+} {
+    'country': 'Botswana',
+    'year': 2013,
+    'both_sexes': 21.6,
+    'male': 36.2,
+    'female': 7.9
+} {
+    'country': 'Botswana',
+    'year': 2012,
+    'both_sexes': 22.6,
+    'male': 37.8,
+    'female': 8.3
+} {
+    'country': 'Botswana',
+    'year': 2011,
+    'both_sexes': 22.7,
+    'male': 37.2,
+    'female': 8.8
+} {
+    'country': 'Botswana',
+    'year': 2010,
+    'both_sexes': 24.4,
+    'male': 41.0,
+    'female': 8.5
+} {
+    'country': 'Botswana',
+    'year': 2009,
+    'both_sexes': 25.1,
+    'male': 40.7,
+    'female': 10.1
+} {
+    'country': 'Botswana',
+    'year': 2008,
+    'both_sexes': 28.4,
+    'male': 43.2,
+    'female': 14.3
+} {
+    'country': 'Botswana',
+    'year': 2007,
+    'both_sexes': 29.3,
+    'male': 43.8,
+    'female': 15.5
+} {
+    'country': 'Botswana',
+    'year': 2006,
+    'both_sexes': 32.0,
+    'male': 48.8,
+    'female': 16.2
+} {
+    'country': 'Botswana',
+    'year': 2005,
+    'both_sexes': 34.0,
+    'male': 51.2,
+    'female': 17.7
+} {
+    'country': 'Botswana',
+    'year': 2004,
+    'both_sexes': 31.8,
+    'male': 48.0,
+    'female': 16.6
+} {
+    'country': 'Botswana',
+    'year': 2003,
+    'both_sexes': 31.2,
+    'male': 46.8,
+    'female': 16.6
+} {
+    'country': 'Botswana',
+    'year': 2002,
+    'both_sexes': 32.7,
+    'male': 49.2,
+    'female': 17.3
+} {
+    'country': 'Botswana',
+    'year': 2001,
+    'both_sexes': 34.5,
+    'male': 51.9,
+    'female': 18.1
+} {
+    'country': 'Botswana',
+    'year': 2000,
+    'both_sexes': 35.3,
+    'male': 53.3,
+    'female': 18.3
+} {
+    'country': 'Brazil',
+    'year': 2019,
+    'both_sexes': 6.9,
+    'male': 10.9,
+    'female': 3.0
+} {
+    'country': 'Brazil',
+    'year': 2018,
+    'both_sexes': 7.0,
+    'male': 10.9,
+    'female': 3.1
+} {
+    'country': 'Brazil',
+    'year': 2017,
+    'both_sexes': 6.6,
+    'male': 10.3,
+    'female': 3.0
+} {
+    'country': 'Brazil',
+    'year': 2016,
+    'both_sexes': 6.0,
+    'male': 9.4,
+    'female': 2.7
+} {
+    'country': 'Brazil',
+    'year': 2015,
+    'both_sexes': 5.9,
+    'male': 9.1,
+    'female': 2.8
+} {
+    'country': 'Brazil',
+    'year': 2014,
+    'both_sexes': 5.6,
+    'male': 8.8,
+    'female': 2.5
+} {
+    'country': 'Brazil',
+    'year': 2013,
+    'both_sexes': 5.6,
+    'male': 8.6,
+    'female': 2.6
+} {
+    'country': 'Brazil',
+    'year': 2012,
+    'both_sexes': 5.4,
+    'male': 8.2,
+    'female': 2.6
+} {
+    'country': 'Brazil',
+    'year': 2011,
+    'both_sexes': 5.2,
+    'male': 8.0,
+    'female': 2.5
+} {
+    'country': 'Brazil',
+    'year': 2010,
+    'both_sexes': 5.0,
+    'male': 7.6,
+    'female': 2.5
+} {
+    'country': 'Brazil',
+    'year': 2009,
+    'both_sexes': 5.1,
+    'male': 8.0,
+    'female': 2.3
+} {
+    'country': 'Brazil',
+    'year': 2008,
+    'both_sexes': 5.1,
+    'male': 7.9,
+    'female': 2.3
+} {
+    'country': 'Brazil',
+    'year': 2007,
+    'both_sexes': 4.9,
+    'male': 7.5,
+    'female': 2.3
+} {
+    'country': 'Brazil',
+    'year': 2006,
+    'both_sexes': 4.7,
+    'male': 7.2,
+    'female': 2.2
+} {
+    'country': 'Brazil',
+    'year': 2005,
+    'both_sexes': 4.7,
+    'male': 7.3,
+    'female': 2.1
+} {
+    'country': 'Brazil',
+    'year': 2004,
+    'both_sexes': 4.4,
+    'male': 6.9,
+    'female': 2.0
+} {
+    'country': 'Brazil',
+    'year': 2003,
+    'both_sexes': 4.3,
+    'male': 6.8,
+    'female': 1.9
+} {
+    'country': 'Brazil',
+    'year': 2002,
+    'both_sexes': 4.4,
+    'male': 6.7,
+    'female': 2.1
+} {
+    'country': 'Brazil',
+    'year': 2001,
+    'both_sexes': 4.4,
+    'male': 7.0,
+    'female': 1.9
+} {
+    'country': 'Brazil',
+    'year': 2000,
+    'both_sexes': 4.0,
+    'male': 6.3,
+    'female': 1.7
+} {
+    'country': 'Brunei Darussalam',
+    'year': 2014,
+    'both_sexes': 1.8,
+    'male': 2.2,
+    'female': 1.4
+} {
+    'country': 'Brunei Darussalam',
+    'year': 2013,
+    'both_sexes': 1.8,
+    'male': 2.4,
+    'female': 1.1
+} {
+    'country': 'Brunei Darussalam',
+    'year': 2009,
+    'both_sexes': 1.8,
+    'male': 2.2,
+    'female': 1.3
+} {
+    'country': 'Brunei Darussalam',
+    'year': 2008,
+    'both_sexes': 2.1,
+    'male': 2.9,
+    'female': 1.3
+} {
+    'country': 'Brunei Darussalam',
+    'year': 2007,
+    'both_sexes': 2.6,
+    'male': 3.5,
+    'female': 1.6
+} {
+    'country': 'Brunei Darussalam',
+    'year': 2006,
+    'both_sexes': 2.9,
+    'male': 4.3,
+    'female': 1.4
+} {
+    'country': 'Brunei Darussalam',
+    'year': 2005,
+    'both_sexes': 2.2,
+    'male': 3.2,
+    'female': 1.1
+} {
+    'country': 'Bulgaria',
+    'year': 2019,
+    'both_sexes': 9.7,
+    'male': 15.3,
+    'female': 4.4
+} {
+    'country': 'Bulgaria',
+    'year': 2018,
+    'both_sexes': 9.7,
+    'male': 15.4,
+    'female': 4.3
+} {
+    'country': 'Bulgaria',
+    'year': 2017,
+    'both_sexes': 10.3,
+    'male': 16.1,
+    'female': 4.8
+} {
+    'country': 'Bulgaria',
+    'year': 2016,
+    'both_sexes': 9.7,
+    'male': 15.1,
+    'female': 4.5
+} {
+    'country': 'Bulgaria',
+    'year': 2015,
+    'both_sexes': 9.8,
+    'male': 15.5,
+    'female': 4.5
+} {
+    'country': 'Bulgaria',
+    'year': 2014,
+    'both_sexes': 10.4,
+    'male': 16.3,
+    'female': 4.9
+} {
+    'country': 'Bulgaria',
+    'year': 2013,
+    'both_sexes': 10.5,
+    'male': 17.1,
+    'female': 4.3
+} {
+    'country': 'Bulgaria',
+    'year': 2012,
+    'both_sexes': 12.5,
+    'male': 19.9,
+    'female': 5.6
+} {
+    'country': 'Bulgaria',
+    'year': 2011,
+    'both_sexes': 11.0,
+    'male': 17.8,
+    'female': 4.5
+} {
+    'country': 'Bulgaria',
+    'year': 2010,
+    'both_sexes': 12.4,
+    'male': 19.2,
+    'female': 5.9
+} {
+    'country': 'Bulgaria',
+    'year': 2009,
+    'both_sexes': 12.3,
+    'male': 19.4,
+    'female': 5.6
+} {
+    'country': 'Bulgaria',
+    'year': 2008,
+    'both_sexes': 13.2,
+    'male': 20.1,
+    'female': 6.7
+} {
+    'country': 'Bulgaria',
+    'year': 2007,
+    'both_sexes': 12.5,
+    'male': 18.8,
+    'female': 6.4
+} {
+    'country': 'Bulgaria',
+    'year': 2006,
+    'both_sexes': 13.4,
+    'male': 21.2,
+    'female': 5.9
+} {
+    'country': 'Bulgaria',
+    'year': 2005,
+    'both_sexes': 13.3,
+    'male': 20.2,
+    'female': 6.7
+} {
+    'country': 'Bulgaria',
+    'year': 2004,
+    'both_sexes': 14.2,
+    'male': 21.7,
+    'female': 7.2
+} {
+    'country': 'Bulgaria',
+    'year': 2003,
+    'both_sexes': 15.1,
+    'male': 22.9,
+    'female': 7.6
+} {
+    'country': 'Bulgaria',
+    'year': 2002,
+    'both_sexes': 17.5,
+    'male': 26.9,
+    'female': 8.5
+} {
+    'country': 'Bulgaria',
+    'year': 2001,
+    'both_sexes': 17.5,
+    'male': 26.4,
+    'female': 9.0
+} {
+    'country': 'Bulgaria',
+    'year': 2000,
+    'both_sexes': 18.2,
+    'male': 26.8,
+    'female': 10.1
+} {
+    'country': 'Burkina Faso',
+    'year': 2019,
+    'both_sexes': 7.5,
+    'male': 11.3,
+    'female': 3.7
+} {
+    'country': 'Burkina Faso',
+    'year': 2018,
+    'both_sexes': 7.6,
+    'male': 11.6,
+    'female': 3.7
+} {
+    'country': 'Burkina Faso',
+    'year': 2017,
+    'both_sexes': 7.7,
+    'male': 11.6,
+    'female': 3.8
+} {
+    'country': 'Burkina Faso',
+    'year': 2016,
+    'both_sexes': 7.8,
+    'male': 11.8,
+    'female': 3.9
+} {
+    'country': 'Burkina Faso',
+    'year': 2015,
+    'both_sexes': 8.0,
+    'male': 11.9,
+    'female': 4.0
+} {
+    'country': 'Burkina Faso',
+    'year': 2014,
+    'both_sexes': 8.0,
+    'male': 12.0,
+    'female': 4.1
+} {
+    'country': 'Burkina Faso',
+    'year': 2013,
+    'both_sexes': 8.3,
+    'male': 12.4,
+    'female': 4.2
+} {
+    'country': 'Burkina Faso',
+    'year': 2012,
+    'both_sexes': 8.3,
+    'male': 12.4,
+    'female': 4.2
+} {
+    'country': 'Burkina Faso',
+    'year': 2011,
+    'both_sexes': 7.9,
+    'male': 11.7,
+    'female': 4.1
+} {
+    'country': 'Burkina Faso',
+    'year': 2010,
+    'both_sexes': 8.0,
+    'male': 11.9,
+    'female': 4.3
+} {
+    'country': 'Burkina Faso',
+    'year': 2009,
+    'both_sexes': 8.0,
+    'male': 11.6,
+    'female': 4.4
+} {
+    'country': 'Burkina Faso',
+    'year': 2008,
+    'both_sexes': 8.0,
+    'male': 11.5,
+    'female': 4.5
+} {
+    'country': 'Burkina Faso',
+    'year': 2007,
+    'both_sexes': 8.1,
+    'male': 11.6,
+    'female': 4.6
+} {
+    'country': 'Burkina Faso',
+    'year': 2006,
+    'both_sexes': 8.1,
+    'male': 11.5,
+    'female': 4.7
+} {
+    'country': 'Burkina Faso',
+    'year': 2005,
+    'both_sexes': 8.0,
+    'male': 11.4,
+    'female': 4.7
+} {
+    'country': 'Burkina Faso',
+    'year': 2004,
+    'both_sexes': 8.0,
+    'male': 11.2,
+    'female': 4.8
+} {
+    'country': 'Burkina Faso',
+    'year': 2003,
+    'both_sexes': 7.9,
+    'male': 11.1,
+    'female': 4.8
+} {
+    'country': 'Burkina Faso',
+    'year': 2002,
+    'both_sexes': 8.0,
+    'male': 11.2,
+    'female': 4.9
+} {
+    'country': 'Burkina Faso',
+    'year': 2001,
+    'both_sexes': 8.2,
+    'male': 11.5,
+    'female': 5.1
+} {
+    'country': 'Burkina Faso',
+    'year': 2000,
+    'both_sexes': 8.6,
+    'male': 11.9,
+    'female': 5.3
+} {
+    'country': 'Burundi',
+    'year': 2019,
+    'both_sexes': 6.2,
+    'male': 9.2,
+    'female': 3.4
+} {
+    'country': 'Burundi',
+    'year': 2018,
+    'both_sexes': 6.3,
+    'male': 9.3,
+    'female': 3.4
+} {
+    'country': 'Burundi',
+    'year': 2017,
+    'both_sexes': 6.4,
+    'male': 9.3,
+    'female': 3.5
+} {
+    'country': 'Burundi',
+    'year': 2016,
+    'both_sexes': 6.4,
+    'male': 9.2,
+    'female': 3.6
+} {
+    'country': 'Burundi',
+    'year': 2015,
+    'both_sexes': 6.4,
+    'male': 9.2,
+    'female': 3.8
+} {
+    'country': 'Burundi',
+    'year': 2014,
+    'both_sexes': 6.7,
+    'male': 9.4,
+    'female': 4.0
+} {
+    'country': 'Burundi',
+    'year': 2013,
+    'both_sexes': 7.0,
+    'male': 9.9,
+    'female': 4.1
+} {
+    'country': 'Burundi',
+    'year': 2012,
+    'both_sexes': 7.1,
+    'male': 10.1,
+    'female': 4.2
+} {
+    'country': 'Burundi',
+    'year': 2011,
+    'both_sexes': 7.4,
+    'male': 10.3,
+    'female': 4.5
+} {
+    'country': 'Burundi',
+    'year': 2010,
+    'both_sexes': 7.6,
+    'male': 10.6,
+    'female': 4.7
+} {
+    'country': 'Burundi',
+    'year': 2009,
+    'both_sexes': 7.7,
+    'male': 10.7,
+    'female': 4.8
+} {
+    'country': 'Burundi',
+    'year': 2008,
+    'both_sexes': 7.9,
+    'male': 11.0,
+    'female': 4.9
+} {
+    'country': 'Burundi',
+    'year': 2007,
+    'both_sexes': 8.4,
+    'male': 11.6,
+    'female': 5.3
+} {
+    'country': 'Burundi',
+    'year': 2006,
+    'both_sexes': 8.9,
+    'male': 12.2,
+    'female': 5.7
+} {
+    'country': 'Burundi',
+    'year': 2005,
+    'both_sexes': 8.9,
+    'male': 12.1,
+    'female': 5.8
+} {
+    'country': 'Burundi',
+    'year': 2004,
+    'both_sexes': 9.2,
+    'male': 12.6,
+    'female': 6.0
+} {
+    'country': 'Burundi',
+    'year': 2003,
+    'both_sexes': 9.7,
+    'male': 13.3,
+    'female': 6.2
+} {
+    'country': 'Burundi',
+    'year': 2002,
+    'both_sexes': 10.2,
+    'male': 14.1,
+    'female': 6.5
+} {
+    'country': 'Burundi',
+    'year': 2001,
+    'both_sexes': 10.8,
+    'male': 15.0,
+    'female': 6.7
+} {
+    'country': 'Burundi',
+    'year': 2000,
+    'both_sexes': 11.7,
+    'male': 16.6,
+    'female': 6.9
+} {
+    'country': 'Cabo Verde',
+    'year': 2019,
+    'both_sexes': 12.9,
+    'male': 21.3,
+    'female': 4.5
+} {
+    'country': 'Cabo Verde',
+    'year': 2018,
+    'both_sexes': 13.4,
+    'male': 22.2,
+    'female': 4.5
+} {
+    'country': 'Cabo Verde',
+    'year': 2017,
+    'both_sexes': 14.2,
+    'male': 23.7,
+    'female': 4.6
+} {
+    'country': 'Cabo Verde',
+    'year': 2016,
+    'both_sexes': 14.4,
+    'male': 23.9,
+    'female': 4.7
+} {
+    'country': 'Cabo Verde',
+    'year': 2015,
+    'both_sexes': 14.4,
+    'male': 24.0,
+    'female': 4.8
+} {
+    'country': 'Cabo Verde',
+    'year': 2014,
+    'both_sexes': 14.4,
+    'male': 23.8,
+    'female': 4.8
+} {
+    'country': 'Cabo Verde',
+    'year': 2013,
+    'both_sexes': 14.6,
+    'male': 24.3,
+    'female': 5.0
+} {
+    'country': 'Cabo Verde',
+    'year': 2012,
+    'both_sexes': 14.9,
+    'male': 24.8,
+    'female': 5.0
+} {
+    'country': 'Cabo Verde',
+    'year': 2011,
+    'both_sexes': 14.8,
+    'male': 24.8,
+    'female': 4.8
+} {
+    'country': 'Cabo Verde',
+    'year': 2010,
+    'both_sexes': 14.8,
+    'male': 24.7,
+    'female': 4.9
+} {
+    'country': 'Cabo Verde',
+    'year': 2009,
+    'both_sexes': 14.4,
+    'male': 24.1,
+    'female': 4.9
+} {
+    'country': 'Cabo Verde',
+    'year': 2008,
+    'both_sexes': 14.0,
+    'male': 23.3,
+    'female': 4.8
+} {
+    'country': 'Cabo Verde',
+    'year': 2007,
+    'both_sexes': 13.5,
+    'male': 22.6,
+    'female': 4.7
+} {
+    'country': 'Cabo Verde',
+    'year': 2006,
+    'both_sexes': 13.1,
+    'male': 21.9,
+    'female': 4.8
+} {
+    'country': 'Cabo Verde',
+    'year': 2005,
+    'both_sexes': 13.2,
+    'male': 22.3,
+    'female': 4.5
+} {
+    'country': 'Cabo Verde',
+    'year': 2004,
+    'both_sexes': 12.8,
+    'male': 21.5,
+    'female': 4.6
+} {
+    'country': 'Cabo Verde',
+    'year': 2003,
+    'both_sexes': 12.4,
+    'male': 20.8,
+    'female': 4.6
+} {
+    'country': 'Cabo Verde',
+    'year': 2002,
+    'both_sexes': 12.3,
+    'male': 20.5,
+    'female': 4.7
+} {
+    'country': 'Cabo Verde',
+    'year': 2001,
+    'both_sexes': 12.1,
+    'male': 19.9,
+    'female': 4.8
+} {
+    'country': 'Cabo Verde',
+    'year': 2000,
+    'both_sexes': 12.0,
+    'male': 19.7,
+    'female': 4.8
+} {
+    'country': 'Cambodia',
+    'year': 2019,
+    'both_sexes': 4.9,
+    'male': 7.0,
+    'female': 2.8
+} {
+    'country': 'Cambodia',
+    'year': 2018,
+    'both_sexes': 4.9,
+    'male': 7.2,
+    'female': 2.8
+} {
+    'country': 'Cambodia',
+    'year': 2017,
+    'both_sexes': 5.0,
+    'male': 7.2,
+    'female': 2.8
+} {
+    'country': 'Cambodia',
+    'year': 2016,
+    'both_sexes': 5.1,
+    'male': 7.4,
+    'female': 2.9
+} {
+    'country': 'Cambodia',
+    'year': 2015,
+    'both_sexes': 5.1,
+    'male': 7.3,
+    'female': 2.9
+} {
+    'country': 'Cambodia',
+    'year': 2014,
+    'both_sexes': 5.1,
+    'male': 7.3,
+    'female': 2.9
+} {
+    'country': 'Cambodia',
+    'year': 2013,
+    'both_sexes': 5.2,
+    'male': 7.4,
+    'female': 3.0
+} {
+    'country': 'Cambodia',
+    'year': 2012,
+    'both_sexes': 5.2,
+    'male': 7.5,
+    'female': 3.1
+} {
+    'country': 'Cambodia',
+    'year': 2011,
+    'both_sexes': 5.3,
+    'male': 7.6,
+    'female': 3.1
+} {
+    'country': 'Cambodia',
+    'year': 2010,
+    'both_sexes': 5.4,
+    'male': 7.7,
+    'female': 3.2
+} {
+    'country': 'Cambodia',
+    'year': 2009,
+    'both_sexes': 5.4,
+    'male': 7.7,
+    'female': 3.2
+} {
+    'country': 'Cambodia',
+    'year': 2008,
+    'both_sexes': 5.6,
+    'male': 7.9,
+    'female': 3.4
+} {
+    'country': 'Cambodia',
+    'year': 2007,
+    'both_sexes': 5.7,
+    'male': 8.0,
+    'female': 3.6
+} {
+    'country': 'Cambodia',
+    'year': 2006,
+    'both_sexes': 5.7,
+    'male': 7.7,
+    'female': 3.7
+} {
+    'country': 'Cambodia',
+    'year': 2005,
+    'both_sexes': 5.5,
+    'male': 7.4,
+    'female': 3.8
+} {
+    'country': 'Cambodia',
+    'year': 2004,
+    'both_sexes': 5.3,
+    'male': 6.9,
+    'female': 3.8
+} {
+    'country': 'Cambodia',
+    'year': 2003,
+    'both_sexes': 5.1,
+    'male': 6.5,
+    'female': 3.7
+} {
+    'country': 'Cambodia',
+    'year': 2002,
+    'both_sexes': 5.1,
+    'male': 6.4,
+    'female': 3.8
+} {
+    'country': 'Cambodia',
+    'year': 2001,
+    'both_sexes': 5.1,
+    'male': 6.3,
+    'female': 3.9
+} {
+    'country': 'Cambodia',
+    'year': 2000,
+    'both_sexes': 5.0,
+    'male': 6.2,
+    'female': 3.9
+} {
+    'country': 'Cameroon',
+    'year': 2019,
+    'both_sexes': 9.0,
+    'male': 13.6,
+    'female': 4.4
+} {
+    'country': 'Cameroon',
+    'year': 2018,
+    'both_sexes': 8.9,
+    'male': 13.5,
+    'female': 4.3
+} {
+    'country': 'Cameroon',
+    'year': 2017,
+    'both_sexes': 9.0,
+    'male': 13.7,
+    'female': 4.3
+} {
+    'country': 'Cameroon',
+    'year': 2016,
+    'both_sexes': 9.2,
+    'male': 13.9,
+    'female': 4.5
+} {
+    'country': 'Cameroon',
+    'year': 2015,
+    'both_sexes': 9.5,
+    'male': 14.1,
+    'female': 4.8
+} {
+    'country': 'Cameroon',
+    'year': 2014,
+    'both_sexes': 10.0,
+    'male': 14.8,
+    'female': 5.2
+} {
+    'country': 'Cameroon',
+    'year': 2013,
+    'both_sexes': 10.4,
+    'male': 15.5,
+    'female': 5.3
+} {
+    'country': 'Cameroon',
+    'year': 2012,
+    'both_sexes': 10.6,
+    'male': 16.2,
+    'female': 5.0
+} {
+    'country': 'Cameroon',
+    'year': 2011,
+    'both_sexes': 10.8,
+    'male': 16.2,
+    'female': 5.4
+} {
+    'country': 'Cameroon',
+    'year': 2010,
+    'both_sexes': 10.8,
+    'male': 16.1,
+    'female': 5.5
+} {
+    'country': 'Cameroon',
+    'year': 2009,
+    'both_sexes': 11.1,
+    'male': 16.5,
+    'female': 5.7
+} {
+    'country': 'Cameroon',
+    'year': 2008,
+    'both_sexes': 11.2,
+    'male': 16.7,
+    'female': 5.7
+} {
+    'country': 'Cameroon',
+    'year': 2007,
+    'both_sexes': 11.4,
+    'male': 17.0,
+    'female': 5.8
+} {
+    'country': 'Cameroon',
+    'year': 2006,
+    'both_sexes': 11.7,
+    'male': 17.3,
+    'female': 6.2
+} {
+    'country': 'Cameroon',
+    'year': 2005,
+    'both_sexes': 11.4,
+    'male': 16.8,
+    'female': 6.1
+} {
+    'country': 'Cameroon',
+    'year': 2004,
+    'both_sexes': 10.7,
+    'male': 15.7,
+    'female': 5.6
+} {
+    'country': 'Cameroon',
+    'year': 2003,
+    'both_sexes': 10.8,
+    'male': 15.8,
+    'female': 5.7
+} {
+    'country': 'Cameroon',
+    'year': 2002,
+    'both_sexes': 10.6,
+    'male': 15.6,
+    'female': 5.7
+} {
+    'country': 'Cameroon',
+    'year': 2001,
+    'both_sexes': 10.8,
+    'male': 15.9,
+    'female': 5.9
+} {
+    'country': 'Cameroon',
+    'year': 2000,
+    'both_sexes': 10.7,
+    'male': 15.6,
+    'female': 5.8
+} {
+    'country': 'Canada',
+    'year': 2019,
+    'both_sexes': 11.8,
+    'male': 17.6,
+    'female': 6.1
+} {
+    'country': 'Canada',
+    'year': 2018,
+    'both_sexes': 12.0,
+    'male': 17.9,
+    'female': 6.2
+} {
+    'country': 'Canada',
+    'year': 2017,
+    'both_sexes': 13.0,
+    'male': 19.8,
+    'female': 6.4
+} {
+    'country': 'Canada',
+    'year': 2016,
+    'both_sexes': 11.9,
+    'male': 17.6,
+    'female': 6.2
+} {
+    'country': 'Canada',
+    'year': 2015,
+    'both_sexes': 13.0,
+    'male': 19.2,
+    'female': 6.9
+} {
+    'country': 'Canada',
+    'year': 2014,
+    'both_sexes': 12.7,
+    'male': 18.7,
+    'female': 6.8
+} {
+    'country': 'Canada',
+    'year': 2013,
+    'both_sexes': 12.1,
+    'male': 17.9,
+    'female': 6.4
+} {
+    'country': 'Canada',
+    'year': 2012,
+    'both_sexes': 11.8,
+    'male': 17.5,
+    'female': 6.2
+} {
+    'country': 'Canada',
+    'year': 2011,
+    'both_sexes': 11.3,
+    'male': 16.5,
+    'female': 6.1
+} {
+    'country': 'Canada',
+    'year': 2010,
+    'both_sexes': 12.1,
+    'male': 17.8,
+    'female': 6.4
+} {
+    'country': 'Canada',
+    'year': 2009,
+    'both_sexes': 12.0,
+    'male': 18.1,
+    'female': 5.9
+} {
+    'country': 'Canada',
+    'year': 2008,
+    'both_sexes': 11.5,
+    'male': 17.1,
+    'female': 6.1
+} {
+    'country': 'Canada',
+    'year': 2007,
+    'both_sexes': 11.5,
+    'male': 17.0,
+    'female': 6.1
+} {
+    'country': 'Canada',
+    'year': 2006,
+    'both_sexes': 11.2,
+    'male': 16.9,
+    'female': 5.7
+} {
+    'country': 'Canada',
+    'year': 2005,
+    'both_sexes': 12.2,
+    'male': 18.2,
+    'female': 6.2
+} {
+    'country': 'Canada',
+    'year': 2004,
+    'both_sexes': 11.7,
+    'male': 17.4,
+    'female': 6.1
+} {
+    'country': 'Canada',
+    'year': 2003,
+    'both_sexes': 12.4,
+    'male': 18.8,
+    'female': 6.2
+} {
+    'country': 'Canada',
+    'year': 2002,
+    'both_sexes': 11.9,
+    'male': 18.4,
+    'female': 5.7
+} {
+    'country': 'Canada',
+    'year': 2001,
+    'both_sexes': 12.2,
+    'male': 18.8,
+    'female': 5.9
+} {
+    'country': 'Canada',
+    'year': 2000,
+    'both_sexes': 11.9,
+    'male': 18.3,
+    'female': 5.7
+} {
+    'country': 'Central African Republic',
+    'year': 2019,
+    'both_sexes': 12.3,
+    'male': 19.6,
+    'female': 5.2
+} {
+    'country': 'Central African Republic',
+    'year': 2018,
+    'both_sexes': 12.8,
+    'male': 20.4,
+    'female': 5.3
+} {
+    'country': 'Central African Republic',
+    'year': 2017,
+    'both_sexes': 14.3,
+    'male': 23.4,
+    'female': 5.4
+} {
+    'country': 'Central African Republic',
+    'year': 2016,
+    'both_sexes': 13.7,
+    'male': 22.2,
+    'female': 5.4
+} {
+    'country': 'Central African Republic',
+    'year': 2015,
+    'both_sexes': 14.4,
+    'male': 23.1,
+    'female': 5.9
+} {
+    'country': 'Central African Republic',
+    'year': 2014,
+    'both_sexes': 15.6,
+    'male': 25.4,
+    'female': 5.9
+} {
+    'country': 'Central African Republic',
+    'year': 2013,
+    'both_sexes': 14.9,
+    'male': 23.7,
+    'female': 6.3
+} {
+    'country': 'Central African Republic',
+    'year': 2012,
+    'both_sexes': 14.7,
+    'male': 23.0,
+    'female': 6.6
+} {
+    'country': 'Central African Republic',
+    'year': 2011,
+    'both_sexes': 15.4,
+    'male': 23.8,
+    'female': 7.1
+} {
+    'country': 'Central African Republic',
+    'year': 2010,
+    'both_sexes': 15.8,
+    'male': 24.3,
+    'female': 7.4
+} {
+    'country': 'Central African Republic',
+    'year': 2009,
+    'both_sexes': 16.0,
+    'male': 24.7,
+    'female': 7.4
+} {
+    'country': 'Central African Republic',
+    'year': 2008,
+    'both_sexes': 15.1,
+    'male': 23.4,
+    'female': 6.9
+} {
+    'country': 'Central African Republic',
+    'year': 2007,
+    'both_sexes': 15.4,
+    'male': 23.8,
+    'female': 7.2
+} {
+    'country': 'Central African Republic',
+    'year': 2006,
+    'both_sexes': 15.7,
+    'male': 24.2,
+    'female': 7.5
+} {
+    'country': 'Central African Republic',
+    'year': 2005,
+    'both_sexes': 15.1,
+    'male': 23.2,
+    'female': 7.2
+} {
+    'country': 'Central African Republic',
+    'year': 2004,
+    'both_sexes': 15.7,
+    'male': 24.0,
+    'female': 7.6
+} {
+    'country': 'Central African Republic',
+    'year': 2003,
+    'both_sexes': 16.4,
+    'male': 25.0,
+    'female': 8.1
+} {
+    'country': 'Central African Republic',
+    'year': 2002,
+    'both_sexes': 17.4,
+    'male': 26.5,
+    'female': 8.6
+} {
+    'country': 'Central African Republic',
+    'year': 2001,
+    'both_sexes': 17.7,
+    'male': 27.0,
+    'female': 8.7
+} {
+    'country': 'Central African Republic',
+    'year': 2000,
+    'both_sexes': 19.0,
+    'male': 29.0,
+    'female': 9.4
+} {
+    'country': 'Chad',
+    'year': 2019,
+    'both_sexes': 6.4,
+    'male': 9.6,
+    'female': 3.3
+} {
+    'country': 'Chad',
+    'year': 2018,
+    'both_sexes': 6.6,
+    'male': 9.8,
+    'female': 3.4
+} {
+    'country': 'Chad',
+    'year': 2017,
+    'both_sexes': 6.7,
+    'male': 9.9,
+    'female': 3.6
+} {
+    'country': 'Chad',
+    'year': 2016,
+    'both_sexes': 6.7,
+    'male': 9.8,
+    'female': 3.5
+} {
+    'country': 'Chad',
+    'year': 2015,
+    'both_sexes': 6.8,
+    'male': 10.0,
+    'female': 3.5
+} {
+    'country': 'Chad',
+    'year': 2014,
+    'both_sexes': 7.1,
+    'male': 10.5,
+    'female': 3.7
+} {
+    'country': 'Chad',
+    'year': 2013,
+    'both_sexes': 7.4,
+    'male': 10.9,
+    'female': 3.8
+} {
+    'country': 'Chad',
+    'year': 2012,
+    'both_sexes': 7.6,
+    'male': 11.2,
+    'female': 3.9
+} {
+    'country': 'Chad',
+    'year': 2011,
+    'both_sexes': 7.7,
+    'male': 11.5,
+    'female': 3.9
+} {
+    'country': 'Chad',
+    'year': 2010,
+    'both_sexes': 7.7,
+    'male': 11.6,
+    'female': 3.8
+} {
+    'country': 'Chad',
+    'year': 2009,
+    'both_sexes': 7.6,
+    'male': 11.4,
+    'female': 3.8
+} {
+    'country': 'Chad',
+    'year': 2008,
+    'both_sexes': 7.5,
+    'male': 11.3,
+    'female': 3.8
+} {
+    'country': 'Chad',
+    'year': 2007,
+    'both_sexes': 7.7,
+    'male': 11.6,
+    'female': 3.8
+} {
+    'country': 'Chad',
+    'year': 2006,
+    'both_sexes': 7.5,
+    'male': 11.3,
+    'female': 3.6
+} {
+    'country': 'Chad',
+    'year': 2005,
+    'both_sexes': 7.5,
+    'male': 11.4,
+    'female': 3.7
+} {
+    'country': 'Chad',
+    'year': 2004,
+    'both_sexes': 7.5,
+    'male': 11.4,
+    'female': 3.7
+} {
+    'country': 'Chad',
+    'year': 2003,
+    'both_sexes': 7.8,
+    'male': 11.6,
+    'female': 3.9
+} {
+    'country': 'Chad',
+    'year': 2002,
+    'both_sexes': 7.7,
+    'male': 11.5,
+    'female': 3.9
+} {
+    'country': 'Chad',
+    'year': 2001,
+    'both_sexes': 7.8,
+    'male': 11.7,
+    'female': 3.9
+} {
+    'country': 'Chad',
+    'year': 2000,
+    'both_sexes': 7.8,
+    'male': 11.8,
+    'female': 3.9
+} {
+    'country': 'Chile',
+    'year': 2019,
+    'both_sexes': 9.0,
+    'male': 14.9,
+    'female': 3.2
+} {
+    'country': 'Chile',
+    'year': 2018,
+    'both_sexes': 8.8,
+    'male': 14.6,
+    'female': 3.2
+} {
+    'country': 'Chile',
+    'year': 2017,
+    'both_sexes': 9.3,
+    'male': 15.5,
+    'female': 3.2
+} {
+    'country': 'Chile',
+    'year': 2016,
+    'both_sexes': 10.0,
+    'male': 16.8,
+    'female': 3.4
+} {
+    'country': 'Chile',
+    'year': 2015,
+    'both_sexes': 10.0,
+    'male': 16.0,
+    'female': 4.1
+} {
+    'country': 'Chile',
+    'year': 2014,
+    'both_sexes': 9.9,
+    'male': 16.4,
+    'female': 3.5
+} {
+    'country': 'Chile',
+    'year': 2013,
+    'both_sexes': 9.8,
+    'male': 16.2,
+    'female': 3.6
+} {
+    'country': 'Chile',
+    'year': 2012,
+    'both_sexes': 10.5,
+    'male': 17.5,
+    'female': 3.8
+} {
+    'country': 'Chile',
+    'year': 2011,
+    'both_sexes': 11.7,
+    'male': 19.4,
+    'female': 4.2
+} {
+    'country': 'Chile',
+    'year': 2010,
+    'both_sexes': 11.6,
+    'male': 19.1,
+    'female': 4.4
+} {
+    'country': 'Chile',
+    'year': 2009,
+    'both_sexes': 12.7,
+    'male': 20.6,
+    'female': 5.0
+} {
+    'country': 'Chile',
+    'year': 2008,
+    'both_sexes': 12.2,
+    'male': 19.9,
+    'female': 4.8
+} {
+    'country': 'Chile',
+    'year': 2007,
+    'both_sexes': 11.0,
+    'male': 18.0,
+    'female': 4.2
+} {
+    'country': 'Chile',
+    'year': 2006,
+    'both_sexes': 10.0,
+    'male': 16.9,
+    'female': 3.4
+} {
+    'country': 'Chile',
+    'year': 2005,
+    'both_sexes': 9.7,
+    'male': 16.3,
+    'female': 3.2
+} {
+    'country': 'Chile',
+    'year': 2004,
+    'both_sexes': 10.1,
+    'male': 17.4,
+    'female': 3.1
+} {
+    'country': 'Chile',
+    'year': 2003,
+    'both_sexes': 9.7,
+    'male': 16.7,
+    'female': 3.0
+} {
+    'country': 'Chile',
+    'year': 2002,
+    'both_sexes': 9.6,
+    'male': 16.5,
+    'female': 3.0
+} {
+    'country': 'Chile',
+    'year': 2001,
+    'both_sexes': 10.3,
+    'male': 17.9,
+    'female': 2.9
+} {
+    'country': 'Chile',
+    'year': 2000,
+    'both_sexes': 10.3,
+    'male': 17.9,
+    'female': 2.9
+} {
+    'country': 'China',
+    'year': 2019,
+    'both_sexes': 8.1,
+    'male': 9.8,
+    'female': 6.2
+} {
+    'country': 'China',
+    'year': 2018,
+    'both_sexes': 8.1,
+    'male': 9.9,
+    'female': 6.3
+} {
+    'country': 'China',
+    'year': 2017,
+    'both_sexes': 8.1,
+    'male': 9.9,
+    'female': 6.3
+} {
+    'country': 'China',
+    'year': 2016,
+    'both_sexes': 8.2,
+    'male': 9.9,
+    'female': 6.3
+} {
+    'country': 'China',
+    'year': 2015,
+    'both_sexes': 8.1,
+    'male': 9.8,
+    'female': 6.4
+} {
+    'country': 'China',
+    'year': 2014,
+    'both_sexes': 8.4,
+    'male': 10.0,
+    'female': 6.7
+} {
+    'country': 'China',
+    'year': 2013,
+    'both_sexes': 8.6,
+    'male': 10.1,
+    'female': 7.0
+} {
+    'country': 'China',
+    'year': 2012,
+    'both_sexes': 9.0,
+    'male': 10.5,
+    'female': 7.4
+} {
+    'country': 'China',
+    'year': 2011,
+    'both_sexes': 9.6,
+    'male': 11.0,
+    'female': 8.1
+} {
+    'country': 'China',
+    'year': 2010,
+    'both_sexes': 10.2,
+    'male': 11.7,
+    'female': 8.7
+} {
+    'country': 'China',
+    'year': 2009,
+    'both_sexes': 10.7,
+    'male': 12.0,
+    'female': 9.3
+} {
+    'country': 'China',
+    'year': 2008,
+    'both_sexes': 11.1,
+    'male': 12.3,
+    'female': 9.8
+} {
+    'country': 'China',
+    'year': 2007,
+    'both_sexes': 11.5,
+    'male': 12.5,
+    'female': 10.4
+} {
+    'country': 'China',
+    'year': 2006,
+    'both_sexes': 12.1,
+    'male': 13.0,
+    'female': 11.2
+} {
+    'country': 'China',
+    'year': 2005,
+    'both_sexes': 12.9,
+    'male': 13.8,
+    'female': 11.9
+} {
+    'country': 'China',
+    'year': 2004,
+    'both_sexes': 13.3,
+    'male': 14.2,
+    'female': 12.3
+} {
+    'country': 'China',
+    'year': 2003,
+    'both_sexes': 12.8,
+    'male': 13.7,
+    'female': 11.8
+} {
+    'country': 'China',
+    'year': 2002,
+    'both_sexes': 12.2,
+    'male': 12.9,
+    'female': 11.4
+} {
+    'country': 'China',
+    'year': 2001,
+    'both_sexes': 12.9,
+    'male': 13.0,
+    'female': 12.8
+} {
+    'country': 'China',
+    'year': 2000,
+    'both_sexes': 14.3,
+    'male': 13.9,
+    'female': 14.7
+} {
+    'country': 'Colombia',
+    'year': 2019,
+    'both_sexes': 3.9,
+    'male': 6.1,
+    'female': 1.8
+} {
+    'country': 'Colombia',
+    'year': 2018,
+    'both_sexes': 4.0,
+    'male': 6.4,
+    'female': 1.7
+} {
+    'country': 'Colombia',
+    'year': 2017,
+    'both_sexes': 4.7,
+    'male': 7.6,
+    'female': 1.9
+} {
+    'country': 'Colombia',
+    'year': 2016,
+    'both_sexes': 4.2,
+    'male': 6.9,
+    'female': 1.6
+} {
+    'country': 'Colombia',
+    'year': 2015,
+    'both_sexes': 4.1,
+    'male': 6.5,
+    'female': 1.9
+} {
+    'country': 'Colombia',
+    'year': 2014,
+    'both_sexes': 3.8,
+    'male': 6.2,
+    'female': 1.4
+} {
+    'country': 'Colombia',
+    'year': 2013,
+    'both_sexes': 3.7,
+    'male': 5.9,
+    'female': 1.5
+} {
+    'country': 'Colombia',
+    'year': 2012,
+    'both_sexes': 3.8,
+    'male': 6.2,
+    'female': 1.5
+} {
+    'country': 'Colombia',
+    'year': 2011,
+    'both_sexes': 3.7,
+    'male': 5.9,
+    'female': 1.5
+} {
+    'country': 'Colombia',
+    'year': 2010,
+    'both_sexes': 3.8,
+    'male': 6.2,
+    'female': 1.5
+} {
+    'country': 'Colombia',
+    'year': 2009,
+    'both_sexes': 4.1,
+    'male': 6.5,
+    'female': 1.8
+} {
+    'country': 'Colombia',
+    'year': 2008,
+    'both_sexes': 4.2,
+    'male': 6.6,
+    'female': 1.8
+} {
+    'country': 'Colombia',
+    'year': 2007,
+    'both_sexes': 4.1,
+    'male': 6.5,
+    'female': 1.9
+} {
+    'country': 'Colombia',
+    'year': 2006,
+    'both_sexes': 4.1,
+    'male': 6.4,
+    'female': 1.9
+} {
+    'country': 'Colombia',
+    'year': 2005,
+    'both_sexes': 4.1,
+    'male': 6.4,
+    'female': 2.0
+} {
+    'country': 'Colombia',
+    'year': 2004,
+    'both_sexes': 4.5,
+    'male': 6.8,
+    'female': 2.2
+} {
+    'country': 'Colombia',
+    'year': 2003,
+    'both_sexes': 4.6,
+    'male': 6.7,
+    'female': 2.5
+} {
+    'country': 'Colombia',
+    'year': 2002,
+    'both_sexes': 4.7,
+    'male': 7.1,
+    'female': 2.4
+} {
+    'country': 'Colombia',
+    'year': 2001,
+    'both_sexes': 4.9,
+    'male': 7.5,
+    'female': 2.5
+} {
+    'country': 'Colombia',
+    'year': 2000,
+    'both_sexes': 5.0,
+    'male': 7.5,
+    'female': 2.6
+} {
+    'country': 'Comoros',
+    'year': 2019,
+    'both_sexes': 5.4,
+    'male': 7.0,
+    'female': 3.8
+} {
+    'country': 'Comoros',
+    'year': 2018,
+    'both_sexes': 5.4,
+    'male': 6.9,
+    'female': 3.8
+} {
+    'country': 'Comoros',
+    'year': 2017,
+    'both_sexes': 5.4,
+    'male': 7.0,
+    'female': 3.8
+} {
+    'country': 'Comoros',
+    'year': 2016,
+    'both_sexes': 5.5,
+    'male': 7.1,
+    'female': 3.9
+} {
+    'country': 'Comoros',
+    'year': 2015,
+    'both_sexes': 5.5,
+    'male': 7.1,
+    'female': 3.9
+} {
+    'country': 'Comoros',
+    'year': 2014,
+    'both_sexes': 5.5,
+    'male': 7.1,
+    'female': 3.9
+} {
+    'country': 'Comoros',
+    'year': 2013,
+    'both_sexes': 5.2,
+    'male': 6.5,
+    'female': 3.8
+} {
+    'country': 'Comoros',
+    'year': 2012,
+    'both_sexes': 5.2,
+    'male': 6.6,
+    'female': 3.9
+} {
+    'country': 'Comoros',
+    'year': 2011,
+    'both_sexes': 5.1,
+    'male': 6.3,
+    'female': 3.9
+} {
+    'country': 'Comoros',
+    'year': 2010,
+    'both_sexes': 5.6,
+    'male': 7.0,
+    'female': 4.1
+} {
+    'country': 'Comoros',
+    'year': 2009,
+    'both_sexes': 5.0,
+    'male': 6.2,
+    'female': 3.8
+} {
+    'country': 'Comoros',
+    'year': 2008,
+    'both_sexes': 5.4,
+    'male': 6.8,
+    'female': 3.9
+} {
+    'country': 'Comoros',
+    'year': 2007,
+    'both_sexes': 5.3,
+    'male': 6.6,
+    'female': 3.9
+} {
+    'country': 'Comoros',
+    'year': 2006,
+    'both_sexes': 5.4,
+    'male': 6.6,
+    'female': 4.1
+} {
+    'country': 'Comoros',
+    'year': 2005,
+    'both_sexes': 5.4,
+    'male': 6.6,
+    'female': 4.1
+} {
+    'country': 'Comoros',
+    'year': 2004,
+    'both_sexes': 5.5,
+    'male': 6.8,
+    'female': 4.2
+} {
+    'country': 'Comoros',
+    'year': 2003,
+    'both_sexes': 5.8,
+    'male': 7.1,
+    'female': 4.4
+} {
+    'country': 'Comoros',
+    'year': 2002,
+    'both_sexes': 5.9,
+    'male': 7.4,
+    'female': 4.5
+} {
+    'country': 'Comoros',
+    'year': 2001,
+    'both_sexes': 6.2,
+    'male': 7.7,
+    'female': 4.6
+} {
+    'country': 'Comoros',
+    'year': 2000,
+    'both_sexes': 6.3,
+    'male': 8.0,
+    'female': 4.6
+} {
+    'country': 'Congo',
+    'year': 2019,
+    'both_sexes': 6.5,
+    'male': 9.5,
+    'female': 3.5
+} {
+    'country': 'Congo',
+    'year': 2018,
+    'both_sexes': 6.5,
+    'male': 9.3,
+    'female': 3.6
+} {
+    'country': 'Congo',
+    'year': 2017,
+    'both_sexes': 6.6,
+    'male': 9.3,
+    'female': 3.9
+} {
+    'country': 'Congo',
+    'year': 2016,
+    'both_sexes': 6.7,
+    'male': 9.5,
+    'female': 4.0
+} {
+    'country': 'Congo',
+    'year': 2015,
+    'both_sexes': 6.8,
+    'male': 9.4,
+    'female': 4.2
+} {
+    'country': 'Congo',
+    'year': 2014,
+    'both_sexes': 7.5,
+    'male': 10.1,
+    'female': 5.0
+} {
+    'country': 'Congo',
+    'year': 2013,
+    'both_sexes': 8.2,
+    'male': 11.0,
+    'female': 5.3
+} {
+    'country': 'Congo',
+    'year': 2012,
+    'both_sexes': 8.9,
+    'male': 11.8,
+    'female': 6.0
+} {
+    'country': 'Congo',
+    'year': 2011,
+    'both_sexes': 8.7,
+    'male': 11.5,
+    'female': 5.9
+} {
+    'country': 'Congo',
+    'year': 2010,
+    'both_sexes': 9.0,
+    'male': 11.6,
+    'female': 6.4
+} {
+    'country': 'Congo',
+    'year': 2009,
+    'both_sexes': 9.3,
+    'male': 12.0,
+    'female': 6.7
+} {
+    'country': 'Congo',
+    'year': 2008,
+    'both_sexes': 8.9,
+    'male': 11.6,
+    'female': 6.3
+} {
+    'country': 'Congo',
+    'year': 2007,
+    'both_sexes': 9.3,
+    'male': 12.0,
+    'female': 6.6
+} {
+    'country': 'Congo',
+    'year': 2006,
+    'both_sexes': 9.6,
+    'male': 12.4,
+    'female': 7.0
+} {
+    'country': 'Congo',
+    'year': 2005,
+    'both_sexes': 9.7,
+    'male': 12.6,
+    'female': 6.8
+} {
+    'country': 'Congo',
+    'year': 2004,
+    'both_sexes': 10.2,
+    'male': 13.5,
+    'female': 6.9
+} {
+    'country': 'Congo',
+    'year': 2003,
+    'both_sexes': 10.1,
+    'male': 13.7,
+    'female': 6.7
+} {
+    'country': 'Congo',
+    'year': 2002,
+    'both_sexes': 11.0,
+    'male': 15.2,
+    'female': 7.0
+} {
+    'country': 'Congo',
+    'year': 2001,
+    'both_sexes': 12.4,
+    'male': 17.3,
+    'female': 7.7
+} {
+    'country': 'Congo',
+    'year': 2000,
+    'both_sexes': 14.5,
+    'male': 20.1,
+    'female': 8.9
+} {
+    'country': 'Costa Rica',
+    'year': 2019,
+    'both_sexes': 8.1,
+    'male': 14.1,
+    'female': 2.0
+} {
+    'country': 'Costa Rica',
+    'year': 2018,
+    'both_sexes': 7.2,
+    'male': 12.2,
+    'female': 2.2
+} {
+    'country': 'Costa Rica',
+    'year': 2017,
+    'both_sexes': 6.1,
+    'male': 9.9,
+    'female': 2.3
+} {
+    'country': 'Costa Rica',
+    'year': 2016,
+    'both_sexes': 7.7,
+    'male': 13.0,
+    'female': 2.3
+} {
+    'country': 'Costa Rica',
+    'year': 2015,
+    'both_sexes': 6.7,
+    'male': 11.2,
+    'female': 2.3
+} {
+    'country': 'Costa Rica',
+    'year': 2014,
+    'both_sexes': 5.6,
+    'male': 9.3,
+    'female': 1.9
+} {
+    'country': 'Costa Rica',
+    'year': 2013,
+    'both_sexes': 6.7,
+    'male': 11.7,
+    'female': 1.8
+} {
+    'country': 'Costa Rica',
+    'year': 2012,
+    'both_sexes': 6.6,
+    'male': 11.2,
+    'female': 1.9
+} {
+    'country': 'Costa Rica',
+    'year': 2011,
+    'both_sexes': 6.9,
+    'male': 11.4,
+    'female': 2.4
+} {
+    'country': 'Costa Rica',
+    'year': 2010,
+    'both_sexes': 6.9,
+    'male': 11.8,
+    'female': 2.0
+} {
+    'country': 'Costa Rica',
+    'year': 2009,
+    'both_sexes': 5.6,
+    'male': 9.5,
+    'female': 1.8
+} {
+    'country': 'Costa Rica',
+    'year': 2008,
+    'both_sexes': 5.5,
+    'male': 9.4,
+    'female': 1.6
+} {
+    'country': 'Costa Rica',
+    'year': 2007,
+    'both_sexes': 5.7,
+    'male': 9.4,
+    'female': 1.9
+} {
+    'country': 'Costa Rica',
+    'year': 2006,
+    'both_sexes': 8.4,
+    'male': 14.1,
+    'female': 2.8
+} {
+    'country': 'Costa Rica',
+    'year': 2005,
+    'both_sexes': 6.6,
+    'male': 11.1,
+    'female': 2.0
+} {
+    'country': 'Costa Rica',
+    'year': 2004,
+    'both_sexes': 8.1,
+    'male': 13.9,
+    'female': 2.3
+} {
+    'country': 'Costa Rica',
+    'year': 2003,
+    'both_sexes': 7.9,
+    'male': 13.0,
+    'female': 2.6
+} {
+    'country': 'Costa Rica',
+    'year': 2002,
+    'both_sexes': 7.0,
+    'male': 11.9,
+    'female': 2.0
+} {
+    'country': 'Costa Rica',
+    'year': 2001,
+    'both_sexes': 5.2,
+    'male': 8.9,
+    'female': 1.5
+} {
+    'country': 'Costa Rica',
+    'year': 2000,
+    'both_sexes': 6.4,
+    'male': 11.3,
+    'female': 1.5
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2019,
+    'both_sexes': 8.9,
+    'male': 14.9,
+    'female': 2.8
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2018,
+    'both_sexes': 9.0,
+    'male': 15.0,
+    'female': 2.8
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2017,
+    'both_sexes': 9.2,
+    'male': 15.4,
+    'female': 2.9
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2016,
+    'both_sexes': 9.6,
+    'male': 15.9,
+    'female': 3.1
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2015,
+    'both_sexes': 10.0,
+    'male': 16.6,
+    'female': 3.3
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2014,
+    'both_sexes': 10.5,
+    'male': 17.4,
+    'female': 3.5
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2013,
+    'both_sexes': 11.1,
+    'male': 18.2,
+    'female': 3.8
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2012,
+    'both_sexes': 11.3,
+    'male': 18.5,
+    'female': 3.9
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2011,
+    'both_sexes': 11.1,
+    'male': 18.1,
+    'female': 3.9
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2010,
+    'both_sexes': 11.4,
+    'male': 18.1,
+    'female': 4.5
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2009,
+    'both_sexes': 11.0,
+    'male': 17.5,
+    'female': 4.2
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2008,
+    'both_sexes': 10.6,
+    'male': 17.3,
+    'female': 3.8
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2007,
+    'both_sexes': 11.5,
+    'male': 18.5,
+    'female': 4.2
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2006,
+    'both_sexes': 11.6,
+    'male': 18.7,
+    'female': 4.2
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2005,
+    'both_sexes': 11.5,
+    'male': 18.8,
+    'female': 3.8
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2004,
+    'both_sexes': 12.1,
+    'male': 19.7,
+    'female': 4.0
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2003,
+    'both_sexes': 12.4,
+    'male': 20.1,
+    'female': 4.4
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2002,
+    'both_sexes': 12.7,
+    'male': 20.4,
+    'female': 4.5
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2001,
+    'both_sexes': 13.3,
+    'male': 21.3,
+    'female': 4.8
+} {
+    'country': "Côte d'Ivoire",
+    'year': 2000,
+    'both_sexes': 14.1,
+    'male': 22.5,
+    'female': 5.2
+} {
+    'country': 'Croatia',
+    'year': 2019,
+    'both_sexes': 16.4,
+    'male': 25.3,
+    'female': 8.1
+} {
+    'country': 'Croatia',
+    'year': 2018,
+    'both_sexes': 16.4,
+    'male': 25.3,
+    'female': 8.1
+} {
+    'country': 'Croatia',
+    'year': 2017,
+    'both_sexes': 15.7,
+    'male': 24.4,
+    'female': 7.6
+} {
+    'country': 'Croatia',
+    'year': 2016,
+    'both_sexes': 16.4,
+    'male': 25.7,
+    'female': 7.8
+} {
+    'country': 'Croatia',
+    'year': 2015,
+    'both_sexes': 17.6,
+    'male': 26.7,
+    'female': 9.2
+} {
+    'country': 'Croatia',
+    'year': 2014,
+    'both_sexes': 17.3,
+    'male': 26.5,
+    'female': 8.7
+} {
+    'country': 'Croatia',
+    'year': 2013,
+    'both_sexes': 16.5,
+    'male': 26.8,
+    'female': 7.0
+} {
+    'country': 'Croatia',
+    'year': 2012,
+    'both_sexes': 18.4,
+    'male': 29.0,
+    'female': 8.6
+} {
+    'country': 'Croatia',
+    'year': 2011,
+    'both_sexes': 16.4,
+    'male': 25.1,
+    'female': 8.4
+} {
+    'country': 'Croatia',
+    'year': 2010,
+    'both_sexes': 18.3,
+    'male': 28.4,
+    'female': 9.0
+} {
+    'country': 'Croatia',
+    'year': 2009,
+    'both_sexes': 18.3,
+    'male': 29.6,
+    'female': 7.8
+} {
+    'country': 'Croatia',
+    'year': 2008,
+    'both_sexes': 18.4,
+    'male': 29.2,
+    'female': 8.3
+} {
+    'country': 'Croatia',
+    'year': 2007,
+    'both_sexes': 18.1,
+    'male': 27.9,
+    'female': 9.0
+} {
+    'country': 'Croatia',
+    'year': 2006,
+    'both_sexes': 18.3,
+    'male': 27.1,
+    'female': 10.0
+} {
+    'country': 'Croatia',
+    'year': 2005,
+    'both_sexes': 20.1,
+    'male': 31.0,
+    'female': 9.9
+} {
+    'country': 'Croatia',
+    'year': 2004,
+    'both_sexes': 20.2,
+    'male': 31.0,
+    'female': 10.2
+} {
+    'country': 'Croatia',
+    'year': 2003,
+    'both_sexes': 19.7,
+    'male': 31.9,
+    'female': 8.5
+} {
+    'country': 'Croatia',
+    'year': 2002,
+    'both_sexes': 19.5,
+    'male': 29.8,
+    'female': 10.0
+} {
+    'country': 'Croatia',
+    'year': 2001,
+    'both_sexes': 19.7,
+    'male': 30.5,
+    'female': 9.8
+} {
+    'country': 'Croatia',
+    'year': 2000,
+    'both_sexes': 20.8,
+    'male': 32.1,
+    'female': 10.3
+} {
+    'country': 'Cuba',
+    'year': 2019,
+    'both_sexes': 14.5,
+    'male': 23.0,
+    'female': 6.0
+} {
+    'country': 'Cuba',
+    'year': 2018,
+    'both_sexes': 14.3,
+    'male': 22.7,
+    'female': 5.9
+} {
+    'country': 'Cuba',
+    'year': 2017,
+    'both_sexes': 14.5,
+    'male': 22.9,
+    'female': 6.3
+} {
+    'country': 'Cuba',
+    'year': 2016,
+    'both_sexes': 13.4,
+    'male': 21.4,
+    'female': 5.4
+} {
+    'country': 'Cuba',
+    'year': 2015,
+    'both_sexes': 14.0,
+    'male': 22.5,
+    'female': 5.6
+} {
+    'country': 'Cuba',
+    'year': 2014,
+    'both_sexes': 13.4,
+    'male': 21.3,
+    'female': 5.7
+} {
+    'country': 'Cuba',
+    'year': 2013,
+    'both_sexes': 13.9,
+    'male': 22.4,
+    'female': 5.6
+} {
+    'country': 'Cuba',
+    'year': 2012,
+    'both_sexes': 13.8,
+    'male': 22.3,
+    'female': 5.4
+} {
+    'country': 'Cuba',
+    'year': 2011,
+    'both_sexes': 14.1,
+    'male': 22.5,
+    'female': 5.9
+} {
+    'country': 'Cuba',
+    'year': 2010,
+    'both_sexes': 14.4,
+    'male': 22.9,
+    'female': 6.1
+} {
+    'country': 'Cuba',
+    'year': 2009,
+    'both_sexes': 13.7,
+    'male': 21.3,
+    'female': 6.2
+} {
+    'country': 'Cuba',
+    'year': 2008,
+    'both_sexes': 12.9,
+    'male': 20.0,
+    'female': 5.8
+} {
+    'country': 'Cuba',
+    'year': 2007,
+    'both_sexes': 12.2,
+    'male': 19.4,
+    'female': 5.0
+} {
+    'country': 'Cuba',
+    'year': 2006,
+    'both_sexes': 12.7,
+    'male': 20.4,
+    'female': 5.1
+} {
+    'country': 'Cuba',
+    'year': 2005,
+    'both_sexes': 12.9,
+    'male': 19.4,
+    'female': 6.5
+} {
+    'country': 'Cuba',
+    'year': 2004,
+    'both_sexes': 13.9,
+    'male': 21.0,
+    'female': 6.9
+} {
+    'country': 'Cuba',
+    'year': 2003,
+    'both_sexes': 13.8,
+    'male': 20.7,
+    'female': 6.8
+} {
+    'country': 'Cuba',
+    'year': 2002,
+    'both_sexes': 14.7,
+    'male': 21.1,
+    'female': 8.4
+} {
+    'country': 'Cuba',
+    'year': 2001,
+    'both_sexes': 15.3,
+    'male': 22.3,
+    'female': 8.3
+} {
+    'country': 'Cuba',
+    'year': 2000,
+    'both_sexes': 17.2,
+    'male': 24.6,
+    'female': 9.8
+} {
+    'country': 'Cyprus',
+    'year': 2019,
+    'both_sexes': 3.6,
+    'male': 6.0,
+    'female': 1.3
+} {
+    'country': 'Cyprus',
+    'year': 2018,
+    'both_sexes': 4.2,
+    'male': 6.6,
+    'female': 1.8
+} {
+    'country': 'Cyprus',
+    'year': 2016,
+    'both_sexes': 4.6,
+    'male': 8.0,
+    'female': 1.2
+} {
+    'country': 'Cyprus',
+    'year': 2015,
+    'both_sexes': 4.7,
+    'male': 7.3,
+    'female': 2.1
+} {
+    'country': 'Cyprus',
+    'year': 2014,
+    'both_sexes': 5.4,
+    'male': 7.6,
+    'female': 3.1
+} {
+    'country': 'Cyprus',
+    'year': 2013,
+    'both_sexes': 5.7,
+    'male': 10.2,
+    'female': 1.3
+} {
+    'country': 'Cyprus',
+    'year': 2010,
+    'both_sexes': 5.3,
+    'male': 8.4,
+    'female': 2.1
+} {
+    'country': 'Cyprus',
+    'year': 2009,
+    'both_sexes': 4.5,
+    'male': 7.5,
+    'female': 1.4
+} {
+    'country': 'Cyprus',
+    'year': 2008,
+    'both_sexes': 6.1,
+    'male': 9.0,
+    'female': 3.2
+} {
+    'country': 'Cyprus',
+    'year': 2007,
+    'both_sexes': 3.1,
+    'male': 4.8,
+    'female': 1.5
+} {
+    'country': 'Cyprus',
+    'year': 2006,
+    'both_sexes': 3.5,
+    'male': 4.7,
+    'female': 2.3
+} {
+    'country': 'Cyprus',
+    'year': 2005,
+    'both_sexes': 2.6,
+    'male': 3.9,
+    'female': 1.3
+} {
+    'country': 'Cyprus',
+    'year': 2003,
+    'both_sexes': 2.2,
+    'male': 3.1,
+    'female': 1.3
+} {
+    'country': 'Cyprus',
+    'year': 2002,
+    'both_sexes': 2.2,
+    'male': 3.0,
+    'female': 1.3
+} {
+    'country': 'Cyprus',
+    'year': 2001,
+    'both_sexes': 2.1,
+    'male': 2.9,
+    'female': 1.3
+} {
+    'country': 'Cyprus',
+    'year': 2000,
+    'both_sexes': 2.0,
+    'male': 2.8,
+    'female': 1.3
+} {
+    'country': 'Czechia',
+    'year': 2019,
+    'both_sexes': 12.2,
+    'male': 19.8,
+    'female': 4.8
+} {
+    'country': 'Czechia',
+    'year': 2018,
+    'both_sexes': 13.6,
+    'male': 22.3,
+    'female': 5.1
+} {
+    'country': 'Czechia',
+    'year': 2017,
+    'both_sexes': 13.9,
+    'male': 22.4,
+    'female': 5.7
+} {
+    'country': 'Czechia',
+    'year': 2016,
+    'both_sexes': 13.0,
+    'male': 21.2,
+    'female': 5.0
+} {
+    'country': 'Czechia',
+    'year': 2015,
+    'both_sexes': 13.6,
+    'male': 22.5,
+    'female': 5.0
+} {
+    'country': 'Czechia',
+    'year': 2014,
+    'both_sexes': 14.8,
+    'male': 24.1,
+    'female': 5.9
+} {
+    'country': 'Czechia',
+    'year': 2013,
+    'both_sexes': 15.7,
+    'male': 26.1,
+    'female': 5.7
+} {
+    'country': 'Czechia',
+    'year': 2012,
+    'both_sexes': 16.7,
+    'male': 28.2,
+    'female': 5.6
+} {
+    'country': 'Czechia',
+    'year': 2011,
+    'both_sexes': 16.1,
+    'male': 27.4,
+    'female': 5.2
+} {
+    'country': 'Czechia',
+    'year': 2010,
+    'both_sexes': 15.0,
+    'male': 25.4,
+    'female': 5.1
+} {
+    'country': 'Czechia',
+    'year': 2009,
+    'both_sexes': 15.0,
+    'male': 25.5,
+    'female': 4.8
+} {
+    'country': 'Czechia',
+    'year': 2008,
+    'both_sexes': 14.2,
+    'male': 23.4,
+    'female': 5.3
+} {
+    'country': 'Czechia',
+    'year': 2007,
+    'both_sexes': 14.1,
+    'male': 24.0,
+    'female': 4.8
+} {
+    'country': 'Czechia',
+    'year': 2006,
+    'both_sexes': 14.5,
+    'male': 23.9,
+    'female': 5.4
+} {
+    'country': 'Czechia',
+    'year': 2005,
+    'both_sexes': 15.8,
+    'male': 26.3,
+    'female': 5.8
+} {
+    'country': 'Czechia',
+    'year': 2004,
+    'both_sexes': 16.3,
+    'male': 27.2,
+    'female': 6.0
+} {
+    'country': 'Czechia',
+    'year': 2003,
+    'both_sexes': 17.0,
+    'male': 27.7,
+    'female': 6.9
+} {
+    'country': 'Czechia',
+    'year': 2002,
+    'both_sexes': 15.4,
+    'male': 25.0,
+    'female': 6.2
+} {
+    'country': 'Czechia',
+    'year': 2001,
+    'both_sexes': 16.2,
+    'male': 26.5,
+    'female': 6.4
+} {
+    'country': 'Czechia',
+    'year': 2000,
+    'both_sexes': 16.3,
+    'male': 26.3,
+    'female': 6.8
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2019,
+    'both_sexes': 9.4,
+    'male': 11.2,
+    'female': 7.6
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2018,
+    'both_sexes': 9.3,
+    'male': 11.0,
+    'female': 7.6
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2017,
+    'both_sexes': 9.8,
+    'male': 11.6,
+    'female': 8.0
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2016,
+    'both_sexes': 10.4,
+    'male': 12.3,
+    'female': 8.5
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2015,
+    'both_sexes': 10.5,
+    'male': 12.5,
+    'female': 8.6
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2014,
+    'both_sexes': 10.0,
+    'male': 11.6,
+    'female': 8.4
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2013,
+    'both_sexes': 9.9,
+    'male': 11.4,
+    'female': 8.4
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2012,
+    'both_sexes': 9.7,
+    'male': 11.1,
+    'female': 8.3
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2011,
+    'both_sexes': 9.7,
+    'male': 11.1,
+    'female': 8.4
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2010,
+    'both_sexes': 9.5,
+    'male': 10.8,
+    'female': 8.3
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2009,
+    'both_sexes': 9.4,
+    'male': 10.7,
+    'female': 8.2
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2008,
+    'both_sexes': 9.4,
+    'male': 10.6,
+    'female': 8.3
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2007,
+    'both_sexes': 9.0,
+    'male': 10.0,
+    'female': 8.1
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2006,
+    'both_sexes': 8.9,
+    'male': 10.0,
+    'female': 7.9
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2005,
+    'both_sexes': 8.9,
+    'male': 9.9,
+    'female': 8.0
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2004,
+    'both_sexes': 9.0,
+    'male': 10.0,
+    'female': 8.1
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2003,
+    'both_sexes': 9.2,
+    'male': 10.0,
+    'female': 8.3
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2002,
+    'both_sexes': 9.5,
+    'male': 10.4,
+    'female': 8.7
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2001,
+    'both_sexes': 9.5,
+    'male': 10.4,
+    'female': 8.8
+} {
+    'country': "Democratic People's Republic of Korea",
+    'year': 2000,
+    'both_sexes': 9.8,
+    'male': 10.6,
+    'female': 9.0
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2019,
+    'both_sexes': 6.7,
+    'male': 10.6,
+    'female': 2.8
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2018,
+    'both_sexes': 6.7,
+    'male': 10.7,
+    'female': 2.8
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2017,
+    'both_sexes': 6.5,
+    'male': 10.3,
+    'female': 2.7
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2016,
+    'both_sexes': 6.5,
+    'male': 10.3,
+    'female': 2.8
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2015,
+    'both_sexes': 6.6,
+    'male': 10.4,
+    'female': 2.8
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2014,
+    'both_sexes': 6.7,
+    'male': 10.6,
+    'female': 2.9
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2013,
+    'both_sexes': 6.8,
+    'male': 10.7,
+    'female': 2.9
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2012,
+    'both_sexes': 6.9,
+    'male': 10.9,
+    'female': 3.0
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2011,
+    'both_sexes': 7.1,
+    'male': 11.1,
+    'female': 3.1
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2010,
+    'both_sexes': 7.2,
+    'male': 11.2,
+    'female': 3.2
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2009,
+    'both_sexes': 7.3,
+    'male': 11.3,
+    'female': 3.3
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2008,
+    'both_sexes': 7.1,
+    'male': 11.1,
+    'female': 3.3
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2007,
+    'both_sexes': 7.2,
+    'male': 11.1,
+    'female': 3.3
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2006,
+    'both_sexes': 7.4,
+    'male': 11.5,
+    'female': 3.4
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2005,
+    'both_sexes': 7.5,
+    'male': 11.7,
+    'female': 3.4
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2004,
+    'both_sexes': 7.6,
+    'male': 11.9,
+    'female': 3.4
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2003,
+    'both_sexes': 7.7,
+    'male': 12.2,
+    'female': 3.4
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2002,
+    'both_sexes': 7.7,
+    'male': 12.2,
+    'female': 3.3
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2001,
+    'both_sexes': 7.7,
+    'male': 12.2,
+    'female': 3.3
+} {
+    'country': 'Democratic Republic of the Congo',
+    'year': 2000,
+    'both_sexes': 7.9,
+    'male': 12.5,
+    'female': 3.3
+} {
+    'country': 'Denmark',
+    'year': 2019,
+    'both_sexes': 10.7,
+    'male': 14.9,
+    'female': 6.5
+} {
+    'country': 'Denmark',
+    'year': 2018,
+    'both_sexes': 11.4,
+    'male': 15.8,
+    'female': 7.0
+} {
+    'country': 'Denmark',
+    'year': 2017,
+    'both_sexes': 11.3,
+    'male': 15.6,
+    'female': 7.1
+} {
+    'country': 'Denmark',
+    'year': 2016,
+    'both_sexes': 10.9,
+    'male': 15.7,
+    'female': 6.1
+} {
+    'country': 'Denmark',
+    'year': 2015,
+    'both_sexes': 10.9,
+    'male': 14.7,
+    'female': 7.2
+} {
+    'country': 'Denmark',
+    'year': 2014,
+    'both_sexes': 12.0,
+    'male': 17.3,
+    'female': 6.7
+} {
+    'country': 'Denmark',
+    'year': 2013,
+    'both_sexes': 12.1,
+    'male': 17.4,
+    'female': 6.9
+} {
+    'country': 'Denmark',
+    'year': 2012,
+    'both_sexes': 12.8,
+    'male': 18.8,
+    'female': 6.9
+} {
+    'country': 'Denmark',
+    'year': 2011,
+    'both_sexes': 12.6,
+    'male': 18.1,
+    'female': 7.1
+} {
+    'country': 'Denmark',
+    'year': 2010,
+    'both_sexes': 11.8,
+    'male': 16.5,
+    'female': 7.2
+} {
+    'country': 'Denmark',
+    'year': 2009,
+    'both_sexes': 12.9,
+    'male': 19.3,
+    'female': 6.5
+} {
+    'country': 'Denmark',
+    'year': 2008,
+    'both_sexes': 13.1,
+    'male': 17.3,
+    'female': 9.0
+} {
+    'country': 'Denmark',
+    'year': 2007,
+    'both_sexes': 12.6,
+    'male': 16.5,
+    'female': 8.8
+} {
+    'country': 'Denmark',
+    'year': 2006,
+    'both_sexes': 14.7,
+    'male': 20.2,
+    'female': 9.3
+} {
+    'country': 'Denmark',
+    'year': 2005,
+    'both_sexes': 14.8,
+    'male': 20.3,
+    'female': 9.5
+} {
+    'country': 'Denmark',
+    'year': 2004,
+    'both_sexes': 14.2,
+    'male': 19.0,
+    'female': 9.6
+} {
+    'country': 'Denmark',
+    'year': 2003,
+    'both_sexes': 13.6,
+    'male': 19.6,
+    'female': 7.7
+} {
+    'country': 'Denmark',
+    'year': 2002,
+    'both_sexes': 14.9,
+    'male': 20.5,
+    'female': 9.4
+} {
+    'country': 'Denmark',
+    'year': 2001,
+    'both_sexes': 15.8,
+    'male': 21.8,
+    'female': 10.0
+} {
+    'country': 'Denmark',
+    'year': 2000,
+    'both_sexes': 15.6,
+    'male': 22.6,
+    'female': 8.8
+} {
+    'country': 'Djibouti',
+    'year': 2019,
+    'both_sexes': 9.6,
+    'male': 12.6,
+    'female': 6.4
+} {
+    'country': 'Djibouti',
+    'year': 2018,
+    'both_sexes': 9.7,
+    'male': 12.6,
+    'female': 6.5
+} {
+    'country': 'Djibouti',
+    'year': 2017,
+    'both_sexes': 9.7,
+    'male': 12.7,
+    'female': 6.4
+} {
+    'country': 'Djibouti',
+    'year': 2016,
+    'both_sexes': 9.3,
+    'male': 12.1,
+    'female': 6.2
+} {
+    'country': 'Djibouti',
+    'year': 2015,
+    'both_sexes': 9.0,
+    'male': 11.6,
+    'female': 6.1
+} {
+    'country': 'Djibouti',
+    'year': 2014,
+    'both_sexes': 9.2,
+    'male': 11.9,
+    'female': 6.1
+} {
+    'country': 'Djibouti',
+    'year': 2013,
+    'both_sexes': 9.0,
+    'male': 11.6,
+    'female': 6.0
+} {
+    'country': 'Djibouti',
+    'year': 2012,
+    'both_sexes': 8.7,
+    'male': 11.2,
+    'female': 5.7
+} {
+    'country': 'Djibouti',
+    'year': 2011,
+    'both_sexes': 8.5,
+    'male': 10.9,
+    'female': 5.7
+} {
+    'country': 'Djibouti',
+    'year': 2010,
+    'both_sexes': 8.2,
+    'male': 10.5,
+    'female': 5.6
+} {
+    'country': 'Djibouti',
+    'year': 2009,
+    'both_sexes': 7.8,
+    'male': 10.0,
+    'female': 5.3
+} {
+    'country': 'Djibouti',
+    'year': 2008,
+    'both_sexes': 7.6,
+    'male': 9.9,
+    'female': 5.1
+} {
+    'country': 'Djibouti',
+    'year': 2007,
+    'both_sexes': 7.5,
+    'male': 9.8,
+    'female': 5.0
+} {
+    'country': 'Djibouti',
+    'year': 2006,
+    'both_sexes': 7.5,
+    'male': 10.0,
+    'female': 4.9
+} {
+    'country': 'Djibouti',
+    'year': 2005,
+    'both_sexes': 7.6,
+    'male': 10.0,
+    'female': 5.1
+} {
+    'country': 'Djibouti',
+    'year': 2004,
+    'both_sexes': 7.5,
+    'male': 10.0,
+    'female': 5.1
+} {
+    'country': 'Djibouti',
+    'year': 2003,
+    'both_sexes': 7.4,
+    'male': 9.8,
+    'female': 5.0
+} {
+    'country': 'Djibouti',
+    'year': 2002,
+    'both_sexes': 7.3,
+    'male': 9.7,
+    'female': 4.9
+} {
+    'country': 'Djibouti',
+    'year': 2001,
+    'both_sexes': 7.0,
+    'male': 9.3,
+    'female': 4.6
+} {
+    'country': 'Djibouti',
+    'year': 2000,
+    'both_sexes': 7.2,
+    'male': 9.6,
+    'female': 4.7
+} {
+    'country': 'Dominican Republic',
+    'year': 2019,
+    'both_sexes': 4.9,
+    'male': 8.0,
+    'female': 1.8
+} {
+    'country': 'Dominican Republic',
+    'year': 2018,
+    'both_sexes': 5.2,
+    'male': 8.5,
+    'female': 2.0
+} {
+    'country': 'Dominican Republic',
+    'year': 2017,
+    'both_sexes': 5.7,
+    'male': 9.2,
+    'female': 2.1
+} {
+    'country': 'Dominican Republic',
+    'year': 2016,
+    'both_sexes': 6.4,
+    'male': 10.4,
+    'female': 2.3
+} {
+    'country': 'Dominican Republic',
+    'year': 2015,
+    'both_sexes': 6.4,
+    'male': 10.4,
+    'female': 2.4
+} {
+    'country': 'Dominican Republic',
+    'year': 2014,
+    'both_sexes': 6.1,
+    'male': 9.9,
+    'female': 2.2
+} {
+    'country': 'Dominican Republic',
+    'year': 2013,
+    'both_sexes': 5.5,
+    'male': 9.0,
+    'female': 2.0
+} {
+    'country': 'Dominican Republic',
+    'year': 2012,
+    'both_sexes': 5.2,
+    'male': 8.5,
+    'female': 1.9
+} {
+    'country': 'Dominican Republic',
+    'year': 2011,
+    'both_sexes': 4.9,
+    'male': 8.0,
+    'female': 1.8
+} {
+    'country': 'Dominican Republic',
+    'year': 2010,
+    'both_sexes': 4.7,
+    'male': 7.7,
+    'female': 1.7
+} {
+    'country': 'Dominican Republic',
+    'year': 2009,
+    'both_sexes': 4.9,
+    'male': 8.0,
+    'female': 1.8
+} {
+    'country': 'Dominican Republic',
+    'year': 2008,
+    'both_sexes': 4.8,
+    'male': 7.9,
+    'female': 1.7
+} {
+    'country': 'Dominican Republic',
+    'year': 2007,
+    'both_sexes': 4.8,
+    'male': 7.9,
+    'female': 1.7
+} {
+    'country': 'Dominican Republic',
+    'year': 2006,
+    'both_sexes': 4.7,
+    'male': 7.8,
+    'female': 1.6
+} {
+    'country': 'Dominican Republic',
+    'year': 2005,
+    'both_sexes': 4.8,
+    'male': 7.6,
+    'female': 1.8
+} {
+    'country': 'Dominican Republic',
+    'year': 2004,
+    'both_sexes': 4.5,
+    'male': 7.2,
+    'female': 1.8
+} {
+    'country': 'Dominican Republic',
+    'year': 2003,
+    'both_sexes': 4.4,
+    'male': 7.2,
+    'female': 1.7
+} {
+    'country': 'Dominican Republic',
+    'year': 2002,
+    'both_sexes': 4.1,
+    'male': 6.6,
+    'female': 1.6
+} {
+    'country': 'Dominican Republic',
+    'year': 2001,
+    'both_sexes': 3.9,
+    'male': 6.4,
+    'female': 1.4
+} {
+    'country': 'Dominican Republic',
+    'year': 2000,
+    'both_sexes': 3.9,
+    'male': 6.5,
+    'female': 1.3
+} {
+    'country': 'Ecuador',
+    'year': 2019,
+    'both_sexes': 7.6,
+    'male': 11.6,
+    'female': 3.6
+} {
+    'country': 'Ecuador',
+    'year': 2018,
+    'both_sexes': 8.1,
+    'male': 12.2,
+    'female': 3.9
+} {
+    'country': 'Ecuador',
+    'year': 2017,
+    'both_sexes': 9.2,
+    'male': 14.1,
+    'female': 4.3
+} {
+    'country': 'Ecuador',
+    'year': 2016,
+    'both_sexes': 9.0,
+    'male': 13.6,
+    'female': 4.3
+} {
+    'country': 'Ecuador',
+    'year': 2015,
+    'both_sexes': 8.8,
+    'male': 13.3,
+    'female': 4.3
+} {
+    'country': 'Ecuador',
+    'year': 2014,
+    'both_sexes': 8.8,
+    'male': 13.0,
+    'female': 4.5
+} {
+    'country': 'Ecuador',
+    'year': 2013,
+    'both_sexes': 9.6,
+    'male': 14.2,
+    'female': 4.9
+} {
+    'country': 'Ecuador',
+    'year': 2012,
+    'both_sexes': 10.1,
+    'male': 15.0,
+    'female': 5.2
+} {
+    'country': 'Ecuador',
+    'year': 2011,
+    'both_sexes': 9.8,
+    'male': 14.3,
+    'female': 5.3
+} {
+    'country': 'Ecuador',
+    'year': 2010,
+    'both_sexes': 9.9,
+    'male': 14.3,
+    'female': 5.5
+} {
+    'country': 'Ecuador',
+    'year': 2009,
+    'both_sexes': 10.5,
+    'male': 15.3,
+    'female': 5.6
+} {
+    'country': 'Ecuador',
+    'year': 2008,
+    'both_sexes': 10.5,
+    'male': 15.4,
+    'female': 5.7
+} {
+    'country': 'Ecuador',
+    'year': 2007,
+    'both_sexes': 10.2,
+    'male': 14.7,
+    'female': 5.7
+} {
+    'country': 'Ecuador',
+    'year': 2006,
+    'both_sexes': 10.0,
+    'male': 14.0,
+    'female': 6.0
+} {
+    'country': 'Ecuador',
+    'year': 2005,
+    'both_sexes': 9.9,
+    'male': 14.0,
+    'female': 5.7
+} {
+    'country': 'Ecuador',
+    'year': 2004,
+    'both_sexes': 9.0,
+    'male': 12.4,
+    'female': 5.6
+} {
+    'country': 'Ecuador',
+    'year': 2003,
+    'both_sexes': 8.5,
+    'male': 11.7,
+    'female': 5.2
+} {
+    'country': 'Ecuador',
+    'year': 2002,
+    'both_sexes': 7.9,
+    'male': 10.7,
+    'female': 5.1
+} {
+    'country': 'Ecuador',
+    'year': 2001,
+    'both_sexes': 6.9,
+    'male': 9.2,
+    'female': 4.6
+} {
+    'country': 'Ecuador',
+    'year': 2000,
+    'both_sexes': 6.4,
+    'male': 8.5,
+    'female': 4.3
+} {
+    'country': 'Egypt',
+    'year': 2019,
+    'both_sexes': 3.0,
+    'male': 4.0,
+    'female': 2.0
+} {
+    'country': 'Egypt',
+    'year': 2018,
+    'both_sexes': 3.0,
+    'male': 3.9,
+    'female': 2.0
+} {
+    'country': 'Egypt',
+    'year': 2017,
+    'both_sexes': 3.0,
+    'male': 4.0,
+    'female': 2.0
+} {
+    'country': 'Egypt',
+    'year': 2016,
+    'both_sexes': 3.2,
+    'male': 4.3,
+    'female': 2.1
+} {
+    'country': 'Egypt',
+    'year': 2015,
+    'both_sexes': 3.3,
+    'male': 4.4,
+    'female': 2.2
+} {
+    'country': 'Egypt',
+    'year': 2014,
+    'both_sexes': 3.3,
+    'male': 4.4,
+    'female': 2.1
+} {
+    'country': 'Egypt',
+    'year': 2013,
+    'both_sexes': 3.4,
+    'male': 4.6,
+    'female': 2.1
+} {
+    'country': 'Egypt',
+    'year': 2012,
+    'both_sexes': 3.4,
+    'male': 4.6,
+    'female': 2.3
+} {
+    'country': 'Egypt',
+    'year': 2011,
+    'both_sexes': 3.3,
+    'male': 4.5,
+    'female': 2.2
+} {
+    'country': 'Egypt',
+    'year': 2010,
+    'both_sexes': 3.2,
+    'male': 4.1,
+    'female': 2.3
+} {
+    'country': 'Egypt',
+    'year': 2009,
+    'both_sexes': 3.1,
+    'male': 4.1,
+    'female': 2.2
+} {
+    'country': 'Egypt',
+    'year': 2008,
+    'both_sexes': 3.1,
+    'male': 4.0,
+    'female': 2.2
+} {
+    'country': 'Egypt',
+    'year': 2007,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.2
+} {
+    'country': 'Egypt',
+    'year': 2006,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.3
+} {
+    'country': 'Egypt',
+    'year': 2005,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.3
+} {
+    'country': 'Egypt',
+    'year': 2004,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.3
+} {
+    'country': 'Egypt',
+    'year': 2003,
+    'both_sexes': 3.2,
+    'male': 3.9,
+    'female': 2.4
+} {
+    'country': 'Egypt',
+    'year': 2002,
+    'both_sexes': 3.2,
+    'male': 3.9,
+    'female': 2.4
+} {
+    'country': 'Egypt',
+    'year': 2001,
+    'both_sexes': 3.2,
+    'male': 3.9,
+    'female': 2.4
+} {
+    'country': 'Egypt',
+    'year': 2000,
+    'both_sexes': 3.1,
+    'male': 3.8,
+    'female': 2.4
+} {
+    'country': 'El Salvador',
+    'year': 2019,
+    'both_sexes': 6.1,
+    'male': 10.5,
+    'female': 2.1
+} {
+    'country': 'El Salvador',
+    'year': 2018,
+    'both_sexes': 6.0,
+    'male': 10.4,
+    'female': 2.2
+} {
+    'country': 'El Salvador',
+    'year': 2017,
+    'both_sexes': 6.1,
+    'male': 10.5,
+    'female': 2.3
+} {
+    'country': 'El Salvador',
+    'year': 2016,
+    'both_sexes': 5.7,
+    'male': 9.6,
+    'female': 2.3
+} {
+    'country': 'El Salvador',
+    'year': 2015,
+    'both_sexes': 6.9,
+    'male': 12.3,
+    'female': 2.2
+} {
+    'country': 'El Salvador',
+    'year': 2014,
+    'both_sexes': 5.8,
+    'male': 9.2,
+    'female': 2.7
+} {
+    'country': 'El Salvador',
+    'year': 2013,
+    'both_sexes': 6.4,
+    'male': 10.8,
+    'female': 2.4
+} {
+    'country': 'El Salvador',
+    'year': 2012,
+    'both_sexes': 6.8,
+    'male': 11.2,
+    'female': 2.7
+} {
+    'country': 'El Salvador',
+    'year': 2011,
+    'both_sexes': 8.0,
+    'male': 13.9,
+    'female': 2.8
+} {
+    'country': 'El Salvador',
+    'year': 2010,
+    'both_sexes': 6.1,
+    'male': 10.5,
+    'female': 2.2
+} {
+    'country': 'El Salvador',
+    'year': 2009,
+    'both_sexes': 8.6,
+    'male': 15.3,
+    'female': 2.5
+} {
+    'country': 'El Salvador',
+    'year': 2008,
+    'both_sexes': 6.8,
+    'male': 11.5,
+    'female': 2.6
+} {
+    'country': 'El Salvador',
+    'year': 2007,
+    'both_sexes': 7.9,
+    'male': 13.8,
+    'female': 2.6
+} {
+    'country': 'El Salvador',
+    'year': 2006,
+    'both_sexes': 6.6,
+    'male': 11.7,
+    'female': 2.0
+} {
+    'country': 'El Salvador',
+    'year': 2005,
+    'both_sexes': 7.8,
+    'male': 13.1,
+    'female': 2.8
+} {
+    'country': 'El Salvador',
+    'year': 2004,
+    'both_sexes': 6.8,
+    'male': 11.2,
+    'female': 2.7
+} {
+    'country': 'El Salvador',
+    'year': 2003,
+    'both_sexes': 6.5,
+    'male': 10.0,
+    'female': 3.3
+} {
+    'country': 'El Salvador',
+    'year': 2002,
+    'both_sexes': 5.3,
+    'male': 7.6,
+    'female': 3.2
+} {
+    'country': 'El Salvador',
+    'year': 2001,
+    'both_sexes': 6.8,
+    'male': 10.0,
+    'female': 3.7
+} {
+    'country': 'El Salvador',
+    'year': 2000,
+    'both_sexes': 6.2,
+    'male': 9.1,
+    'female': 3.4
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2019,
+    'both_sexes': 7.9,
+    'male': 9.4,
+    'female': 6.0
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2018,
+    'both_sexes': 8.3,
+    'male': 10.4,
+    'female': 5.7
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2017,
+    'both_sexes': 7.8,
+    'male': 9.3,
+    'female': 5.9
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2016,
+    'both_sexes': 9.3,
+    'male': 11.4,
+    'female': 6.7
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2015,
+    'both_sexes': 9.8,
+    'male': 11.9,
+    'female': 7.1
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2014,
+    'both_sexes': 8.8,
+    'male': 11.0,
+    'female': 6.2
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2013,
+    'both_sexes': 8.4,
+    'male': 10.7,
+    'female': 5.7
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2012,
+    'both_sexes': 10.0,
+    'male': 13.3,
+    'female': 6.1
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2011,
+    'both_sexes': 11.2,
+    'male': 15.0,
+    'female': 6.5
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2010,
+    'both_sexes': 10.0,
+    'male': 12.7,
+    'female': 6.9
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2009,
+    'both_sexes': 8.9,
+    'male': 10.6,
+    'female': 6.9
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2008,
+    'both_sexes': 8.8,
+    'male': 11.1,
+    'female': 6.2
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2007,
+    'both_sexes': 9.0,
+    'male': 11.8,
+    'female': 5.8
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2006,
+    'both_sexes': 9.2,
+    'male': 12.2,
+    'female': 5.7
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2005,
+    'both_sexes': 8.9,
+    'male': 12.3,
+    'female': 5.0
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2004,
+    'both_sexes': 9.3,
+    'male': 13.2,
+    'female': 5.0
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2003,
+    'both_sexes': 9.7,
+    'male': 14.1,
+    'female': 4.9
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2002,
+    'both_sexes': 10.1,
+    'male': 14.9,
+    'female': 4.7
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2001,
+    'both_sexes': 11.4,
+    'male': 17.2,
+    'female': 5.1
+} {
+    'country': 'Equatorial Guinea',
+    'year': 2000,
+    'both_sexes': 12.6,
+    'male': 19.4,
+    'female': 5.3
+} {
+    'country': 'Eritrea',
+    'year': 2019,
+    'both_sexes': 10.9,
+    'male': 16.6,
+    'female': 5.2
+} {
+    'country': 'Eritrea',
+    'year': 2018,
+    'both_sexes': 11.3,
+    'male': 17.2,
+    'female': 5.3
+} {
+    'country': 'Eritrea',
+    'year': 2017,
+    'both_sexes': 11.3,
+    'male': 17.3,
+    'female': 5.4
+} {
+    'country': 'Eritrea',
+    'year': 2016,
+    'both_sexes': 11.5,
+    'male': 17.5,
+    'female': 5.4
+} {
+    'country': 'Eritrea',
+    'year': 2015,
+    'both_sexes': 11.6,
+    'male': 17.8,
+    'female': 5.5
+} {
+    'country': 'Eritrea',
+    'year': 2014,
+    'both_sexes': 11.7,
+    'male': 18.0,
+    'female': 5.5
+} {
+    'country': 'Eritrea',
+    'year': 2013,
+    'both_sexes': 12.0,
+    'male': 18.4,
+    'female': 5.6
+} {
+    'country': 'Eritrea',
+    'year': 2012,
+    'both_sexes': 12.3,
+    'male': 18.8,
+    'female': 5.7
+} {
+    'country': 'Eritrea',
+    'year': 2011,
+    'both_sexes': 12.5,
+    'male': 19.2,
+    'female': 5.8
+} {
+    'country': 'Eritrea',
+    'year': 2010,
+    'both_sexes': 12.7,
+    'male': 19.5,
+    'female': 5.9
+} {
+    'country': 'Eritrea',
+    'year': 2009,
+    'both_sexes': 13.0,
+    'male': 19.9,
+    'female': 6.1
+} {
+    'country': 'Eritrea',
+    'year': 2008,
+    'both_sexes': 13.3,
+    'male': 20.4,
+    'female': 6.2
+} {
+    'country': 'Eritrea',
+    'year': 2007,
+    'both_sexes': 12.9,
+    'male': 20.1,
+    'female': 5.8
+} {
+    'country': 'Eritrea',
+    'year': 2006,
+    'both_sexes': 13.2,
+    'male': 20.5,
+    'female': 5.9
+} {
+    'country': 'Eritrea',
+    'year': 2005,
+    'both_sexes': 13.1,
+    'male': 20.4,
+    'female': 5.7
+} {
+    'country': 'Eritrea',
+    'year': 2004,
+    'both_sexes': 13.0,
+    'male': 20.4,
+    'female': 5.6
+} {
+    'country': 'Eritrea',
+    'year': 2003,
+    'both_sexes': 12.8,
+    'male': 20.2,
+    'female': 5.5
+} {
+    'country': 'Eritrea',
+    'year': 2002,
+    'both_sexes': 13.7,
+    'male': 21.6,
+    'female': 5.9
+} {
+    'country': 'Eritrea',
+    'year': 2001,
+    'both_sexes': 14.0,
+    'male': 22.1,
+    'female': 5.9
+} {
+    'country': 'Eritrea',
+    'year': 2000,
+    'both_sexes': 14.5,
+    'male': 22.9,
+    'female': 6.1
+} {
+    'country': 'Estonia',
+    'year': 2019,
+    'both_sexes': 14.9,
+    'male': 24.3,
+    'female': 6.5
+} {
+    'country': 'Estonia',
+    'year': 2018,
+    'both_sexes': 15.3,
+    'male': 24.6,
+    'female': 7.1
+} {
+    'country': 'Estonia',
+    'year': 2017,
+    'both_sexes': 18.7,
+    'male': 30.7,
+    'female': 8.1
+} {
+    'country': 'Estonia',
+    'year': 2016,
+    'both_sexes': 15.7,
+    'male': 26.5,
+    'female': 6.2
+} {
+    'country': 'Estonia',
+    'year': 2015,
+    'both_sexes': 15.9,
+    'male': 27.9,
+    'female': 5.4
+} {
+    'country': 'Estonia',
+    'year': 2014,
+    'both_sexes': 19.5,
+    'male': 33.7,
+    'female': 7.2
+} {
+    'country': 'Estonia',
+    'year': 2013,
+    'both_sexes': 18.9,
+    'male': 32.4,
+    'female': 7.2
+} {
+    'country': 'Estonia',
+    'year': 2012,
+    'both_sexes': 21.1,
+    'male': 36.5,
+    'female': 7.6
+} {
+    'country': 'Estonia',
+    'year': 2011,
+    'both_sexes': 18.2,
+    'male': 32.3,
+    'female': 5.9
+} {
+    'country': 'Estonia',
+    'year': 2010,
+    'both_sexes': 18.8,
+    'male': 32.7,
+    'female': 6.6
+} {
+    'country': 'Estonia',
+    'year': 2009,
+    'both_sexes': 23.3,
+    'male': 41.7,
+    'female': 7.3
+} {
+    'country': 'Estonia',
+    'year': 2008,
+    'both_sexes': 19.4,
+    'male': 32.8,
+    'female': 7.9
+} {
+    'country': 'Estonia',
+    'year': 2007,
+    'both_sexes': 21.4,
+    'male': 37.8,
+    'female': 7.1
+} {
+    'country': 'Estonia',
+    'year': 2006,
+    'both_sexes': 20.9,
+    'male': 34.8,
+    'female': 8.8
+} {
+    'country': 'Estonia',
+    'year': 2005,
+    'both_sexes': 22.6,
+    'male': 39.2,
+    'female': 8.2
+} {
+    'country': 'Estonia',
+    'year': 2004,
+    'both_sexes': 26.5,
+    'male': 46.9,
+    'female': 8.9
+} {
+    'country': 'Estonia',
+    'year': 2003,
+    'both_sexes': 26.3,
+    'male': 45.9,
+    'female': 9.3
+} {
+    'country': 'Estonia',
+    'year': 2002,
+    'both_sexes': 29.3,
+    'male': 51.2,
+    'female': 10.2
+} {
+    'country': 'Estonia',
+    'year': 2001,
+    'both_sexes': 30.3,
+    'male': 51.4,
+    'female': 11.8
+} {
+    'country': 'Estonia',
+    'year': 2000,
+    'both_sexes': 29.1,
+    'male': 48.0,
+    'female': 12.6
+} {
+    'country': 'Eswatini',
+    'year': 2019,
+    'both_sexes': 29.4,
+    'male': 55.1,
+    'female': 4.7
+} {
+    'country': 'Eswatini',
+    'year': 2018,
+    'both_sexes': 28.5,
+    'male': 54.1,
+    'female': 4.2
+} {
+    'country': 'Eswatini',
+    'year': 2017,
+    'both_sexes': 30.4,
+    'male': 57.3,
+    'female': 5.0
+} {
+    'country': 'Eswatini',
+    'year': 2016,
+    'both_sexes': 32.8,
+    'male': 60.7,
+    'female': 6.7
+} {
+    'country': 'Eswatini',
+    'year': 2015,
+    'both_sexes': 35.1,
+    'male': 62.6,
+    'female': 9.5
+} {
+    'country': 'Eswatini',
+    'year': 2014,
+    'both_sexes': 39.2,
+    'male': 66.9,
+    'female': 13.8
+} {
+    'country': 'Eswatini',
+    'year': 2013,
+    'both_sexes': 44.6,
+    'male': 73.9,
+    'female': 17.9
+} {
+    'country': 'Eswatini',
+    'year': 2012,
+    'both_sexes': 47.6,
+    'male': 77.7,
+    'female': 20.4
+} {
+    'country': 'Eswatini',
+    'year': 2011,
+    'both_sexes': 47.0,
+    'male': 75.8,
+    'female': 21.3
+} {
+    'country': 'Eswatini',
+    'year': 2010,
+    'both_sexes': 50.4,
+    'male': 78.7,
+    'female': 25.1
+} {
+    'country': 'Eswatini',
+    'year': 2009,
+    'both_sexes': 54.2,
+    'male': 82.8,
+    'female': 28.8
+} {
+    'country': 'Eswatini',
+    'year': 2008,
+    'both_sexes': 55.0,
+    'male': 82.9,
+    'female': 30.1
+} {
+    'country': 'Eswatini',
+    'year': 2007,
+    'both_sexes': 53.9,
+    'male': 80.3,
+    'female': 30.2
+} {
+    'country': 'Eswatini',
+    'year': 2006,
+    'both_sexes': 47.3,
+    'male': 67.5,
+    'female': 29.1
+} {
+    'country': 'Eswatini',
+    'year': 2005,
+    'both_sexes': 43.9,
+    'male': 61.4,
+    'female': 28.0
+} {
+    'country': 'Eswatini',
+    'year': 2004,
+    'both_sexes': 42.4,
+    'male': 59.2,
+    'female': 27.1
+} {
+    'country': 'Eswatini',
+    'year': 2003,
+    'both_sexes': 40.5,
+    'male': 56.4,
+    'female': 26.0
+} {
+    'country': 'Eswatini',
+    'year': 2002,
+    'both_sexes': 37.2,
+    'male': 51.7,
+    'female': 23.9
+} {
+    'country': 'Eswatini',
+    'year': 2001,
+    'both_sexes': 32.2,
+    'male': 45.2,
+    'female': 20.2
+} {
+    'country': 'Eswatini',
+    'year': 2000,
+    'both_sexes': 28.4,
+    'male': 39.8,
+    'female': 17.9
+} {
+    'country': 'Ethiopia',
+    'year': 2019,
+    'both_sexes': 5.4,
+    'male': 7.7,
+    'female': 3.1
+} {
+    'country': 'Ethiopia',
+    'year': 2018,
+    'both_sexes': 5.4,
+    'male': 7.7,
+    'female': 3.1
+} {
+    'country': 'Ethiopia',
+    'year': 2017,
+    'both_sexes': 5.4,
+    'male': 7.7,
+    'female': 3.1
+} {
+    'country': 'Ethiopia',
+    'year': 2016,
+    'both_sexes': 5.5,
+    'male': 7.8,
+    'female': 3.1
+} {
+    'country': 'Ethiopia',
+    'year': 2015,
+    'both_sexes': 5.5,
+    'male': 7.9,
+    'female': 3.2
+} {
+    'country': 'Ethiopia',
+    'year': 2014,
+    'both_sexes': 5.5,
+    'male': 7.8,
+    'female': 3.2
+} {
+    'country': 'Ethiopia',
+    'year': 2013,
+    'both_sexes': 5.7,
+    'male': 8.1,
+    'female': 3.2
+} {
+    'country': 'Ethiopia',
+    'year': 2012,
+    'both_sexes': 6.1,
+    'male': 8.6,
+    'female': 3.6
+} {
+    'country': 'Ethiopia',
+    'year': 2011,
+    'both_sexes': 6.7,
+    'male': 9.3,
+    'female': 4.1
+} {
+    'country': 'Ethiopia',
+    'year': 2010,
+    'both_sexes': 7.1,
+    'male': 9.7,
+    'female': 4.4
+} {
+    'country': 'Ethiopia',
+    'year': 2009,
+    'both_sexes': 7.4,
+    'male': 10.0,
+    'female': 4.8
+} {
+    'country': 'Ethiopia',
+    'year': 2008,
+    'both_sexes': 7.6,
+    'male': 10.3,
+    'female': 5.0
+} {
+    'country': 'Ethiopia',
+    'year': 2007,
+    'both_sexes': 7.7,
+    'male': 10.4,
+    'female': 5.1
+} {
+    'country': 'Ethiopia',
+    'year': 2006,
+    'both_sexes': 7.8,
+    'male': 10.5,
+    'female': 5.2
+} {
+    'country': 'Ethiopia',
+    'year': 2005,
+    'both_sexes': 8.1,
+    'male': 10.7,
+    'female': 5.4
+} {
+    'country': 'Ethiopia',
+    'year': 2004,
+    'both_sexes': 8.3,
+    'male': 11.1,
+    'female': 5.5
+} {
+    'country': 'Ethiopia',
+    'year': 2003,
+    'both_sexes': 8.6,
+    'male': 11.5,
+    'female': 5.7
+} {
+    'country': 'Ethiopia',
+    'year': 2002,
+    'both_sexes': 8.9,
+    'male': 12.0,
+    'female': 5.8
+} {
+    'country': 'Ethiopia',
+    'year': 2001,
+    'both_sexes': 9.3,
+    'male': 12.5,
+    'female': 6.0
+} {
+    'country': 'Ethiopia',
+    'year': 2000,
+    'both_sexes': 9.7,
+    'male': 13.3,
+    'female': 6.1
+} {
+    'country': 'Fiji',
+    'year': 2019,
+    'both_sexes': 9.0,
+    'male': 12.2,
+    'female': 5.7
+} {
+    'country': 'Fiji',
+    'year': 2018,
+    'both_sexes': 9.1,
+    'male': 12.5,
+    'female': 5.7
+} {
+    'country': 'Fiji',
+    'year': 2017,
+    'both_sexes': 9.3,
+    'male': 12.7,
+    'female': 5.8
+} {
+    'country': 'Fiji',
+    'year': 2016,
+    'both_sexes': 9.4,
+    'male': 13.0,
+    'female': 5.7
+} {
+    'country': 'Fiji',
+    'year': 2015,
+    'both_sexes': 9.4,
+    'male': 13.0,
+    'female': 5.7
+} {
+    'country': 'Fiji',
+    'year': 2014,
+    'both_sexes': 9.7,
+    'male': 13.4,
+    'female': 5.8
+} {
+    'country': 'Fiji',
+    'year': 2013,
+    'both_sexes': 10.0,
+    'male': 13.9,
+    'female': 5.9
+} {
+    'country': 'Fiji',
+    'year': 2012,
+    'both_sexes': 10.0,
+    'male': 13.8,
+    'female': 6.0
+} {
+    'country': 'Fiji',
+    'year': 2011,
+    'both_sexes': 9.8,
+    'male': 13.5,
+    'female': 6.1
+} {
+    'country': 'Fiji',
+    'year': 2010,
+    'both_sexes': 9.6,
+    'male': 12.9,
+    'female': 6.2
+} {
+    'country': 'Fiji',
+    'year': 2009,
+    'both_sexes': 9.7,
+    'male': 12.8,
+    'female': 6.4
+} {
+    'country': 'Fiji',
+    'year': 2008,
+    'both_sexes': 9.6,
+    'male': 12.8,
+    'female': 6.3
+} {
+    'country': 'Fiji',
+    'year': 2007,
+    'both_sexes': 9.4,
+    'male': 12.8,
+    'female': 5.9
+} {
+    'country': 'Fiji',
+    'year': 2006,
+    'both_sexes': 9.2,
+    'male': 12.3,
+    'female': 6.0
+} {
+    'country': 'Fiji',
+    'year': 2005,
+    'both_sexes': 9.5,
+    'male': 12.4,
+    'female': 6.6
+} {
+    'country': 'Fiji',
+    'year': 2004,
+    'both_sexes': 9.4,
+    'male': 11.8,
+    'female': 6.8
+} {
+    'country': 'Fiji',
+    'year': 2003,
+    'both_sexes': 9.7,
+    'male': 12.1,
+    'female': 7.2
+} {
+    'country': 'Fiji',
+    'year': 2002,
+    'both_sexes': 10.1,
+    'male': 12.6,
+    'female': 7.6
+} {
+    'country': 'Fiji',
+    'year': 2001,
+    'both_sexes': 10.4,
+    'male': 13.2,
+    'female': 7.5
+} {
+    'country': 'Fiji',
+    'year': 2000,
+    'both_sexes': 10.6,
+    'male': 13.3,
+    'female': 7.8
+} {
+    'country': 'Finland',
+    'year': 2019,
+    'both_sexes': 15.3,
+    'male': 23.2,
+    'female': 7.6
+} {
+    'country': 'Finland',
+    'year': 2018,
+    'both_sexes': 16.2,
+    'male': 24.6,
+    'female': 8.0
+} {
+    'country': 'Finland',
+    'year': 2017,
+    'both_sexes': 15.9,
+    'male': 23.4,
+    'female': 8.7
+} {
+    'country': 'Finland',
+    'year': 2016,
+    'both_sexes': 15.2,
+    'male': 23.8,
+    'female': 7.0
+} {
+    'country': 'Finland',
+    'year': 2015,
+    'both_sexes': 14.0,
+    'male': 21.7,
+    'female': 6.6
+} {
+    'country': 'Finland',
+    'year': 2014,
+    'both_sexes': 15.4,
+    'male': 23.6,
+    'female': 7.5
+} {
+    'country': 'Finland',
+    'year': 2013,
+    'both_sexes': 17.2,
+    'male': 26.0,
+    'female': 8.7
+} {
+    'country': 'Finland',
+    'year': 2012,
+    'both_sexes': 17.0,
+    'male': 25.8,
+    'female': 8.4
+} {
+    'country': 'Finland',
+    'year': 2011,
+    'both_sexes': 17.9,
+    'male': 28.0,
+    'female': 8.2
+} {
+    'country': 'Finland',
+    'year': 2010,
+    'both_sexes': 18.6,
+    'male': 28.2,
+    'female': 9.3
+} {
+    'country': 'Finland',
+    'year': 2009,
+    'both_sexes': 20.4,
+    'male': 30.3,
+    'female': 10.9
+} {
+    'country': 'Finland',
+    'year': 2008,
+    'both_sexes': 20.6,
+    'male': 32.1,
+    'female': 9.5
+} {
+    'country': 'Finland',
+    'year': 2007,
+    'both_sexes': 19.7,
+    'male': 30.2,
+    'female': 9.6
+} {
+    'country': 'Finland',
+    'year': 2006,
+    'both_sexes': 21.0,
+    'male': 32.0,
+    'female': 10.5
+} {
+    'country': 'Finland',
+    'year': 2005,
+    'both_sexes': 19.9,
+    'male': 29.5,
+    'female': 10.7
+} {
+    'country': 'Finland',
+    'year': 2004,
+    'both_sexes': 21.2,
+    'male': 33.2,
+    'female': 9.8
+} {
+    'country': 'Finland',
+    'year': 2003,
+    'both_sexes': 21.7,
+    'male': 33.4,
+    'female': 10.6
+} {
+    'country': 'Finland',
+    'year': 2002,
+    'both_sexes': 22.0,
+    'male': 33.6,
+    'female': 11.0
+} {
+    'country': 'Finland',
+    'year': 2001,
+    'both_sexes': 24.1,
+    'male': 38.0,
+    'female': 10.9
+} {
+    'country': 'Finland',
+    'year': 2000,
+    'both_sexes': 24.3,
+    'male': 37.0,
+    'female': 12.2
+} {
+    'country': 'France',
+    'year': 2019,
+    'both_sexes': 13.8,
+    'male': 20.4,
+    'female': 7.6
+} {
+    'country': 'France',
+    'year': 2018,
+    'both_sexes': 14.2,
+    'male': 21.1,
+    'female': 7.8
+} {
+    'country': 'France',
+    'year': 2017,
+    'both_sexes': 14.6,
+    'male': 21.7,
+    'female': 8.0
+} {
+    'country': 'France',
+    'year': 2016,
+    'both_sexes': 14.9,
+    'male': 22.3,
+    'female': 8.0
+} {
+    'country': 'France',
+    'year': 2015,
+    'both_sexes': 15.8,
+    'male': 23.7,
+    'female': 8.4
+} {
+    'country': 'France',
+    'year': 2014,
+    'both_sexes': 15.6,
+    'male': 22.9,
+    'female': 8.8
+} {
+    'country': 'France',
+    'year': 2013,
+    'both_sexes': 17.0,
+    'male': 25.0,
+    'female': 9.4
+} {
+    'country': 'France',
+    'year': 2012,
+    'both_sexes': 17.8,
+    'male': 26.4,
+    'female': 9.7
+} {
+    'country': 'France',
+    'year': 2011,
+    'both_sexes': 18.0,
+    'male': 26.6,
+    'female': 9.9
+} {
+    'country': 'France',
+    'year': 2010,
+    'both_sexes': 18.2,
+    'male': 26.5,
+    'female': 10.4
+} {
+    'country': 'France',
+    'year': 2009,
+    'both_sexes': 18.4,
+    'male': 27.0,
+    'female': 10.4
+} {
+    'country': 'France',
+    'year': 2008,
+    'both_sexes': 18.2,
+    'male': 26.7,
+    'female': 10.4
+} {
+    'country': 'France',
+    'year': 2007,
+    'both_sexes': 17.9,
+    'male': 26.0,
+    'female': 10.4
+} {
+    'country': 'France',
+    'year': 2006,
+    'both_sexes': 18.5,
+    'male': 26.8,
+    'female': 10.6
+} {
+    'country': 'France',
+    'year': 2005,
+    'both_sexes': 19.1,
+    'male': 27.7,
+    'female': 11.1
+} {
+    'country': 'France',
+    'year': 2004,
+    'both_sexes': 19.5,
+    'male': 28.0,
+    'female': 11.5
+} {
+    'country': 'France',
+    'year': 2003,
+    'both_sexes': 20.1,
+    'male': 29.2,
+    'female': 11.6
+} {
+    'country': 'France',
+    'year': 2002,
+    'both_sexes': 19.8,
+    'male': 28.2,
+    'female': 11.9
+} {
+    'country': 'France',
+    'year': 2001,
+    'both_sexes': 19.5,
+    'male': 28.1,
+    'female': 11.3
+} {
+    'country': 'France',
+    'year': 2000,
+    'both_sexes': 20.2,
+    'male': 29.2,
+    'female': 11.7
+} {
+    'country': 'Gabon',
+    'year': 2019,
+    'both_sexes': 8.4,
+    'male': 14.2,
+    'female': 2.4
+} {
+    'country': 'Gabon',
+    'year': 2018,
+    'both_sexes': 8.6,
+    'male': 14.6,
+    'female': 2.5
+} {
+    'country': 'Gabon',
+    'year': 2017,
+    'both_sexes': 8.8,
+    'male': 14.8,
+    'female': 2.6
+} {
+    'country': 'Gabon',
+    'year': 2016,
+    'both_sexes': 9.2,
+    'male': 15.5,
+    'female': 2.7
+} {
+    'country': 'Gabon',
+    'year': 2015,
+    'both_sexes': 9.6,
+    'male': 16.0,
+    'female': 3.1
+} {
+    'country': 'Gabon',
+    'year': 2014,
+    'both_sexes': 9.8,
+    'male': 16.3,
+    'female': 3.1
+} {
+    'country': 'Gabon',
+    'year': 2013,
+    'both_sexes': 8.6,
+    'male': 14.6,
+    'female': 2.5
+} {
+    'country': 'Gabon',
+    'year': 2012,
+    'both_sexes': 8.9,
+    'male': 15.0,
+    'female': 2.7
+} {
+    'country': 'Gabon',
+    'year': 2011,
+    'both_sexes': 10.0,
+    'male': 16.5,
+    'female': 3.4
+} {
+    'country': 'Gabon',
+    'year': 2010,
+    'both_sexes': 10.1,
+    'male': 16.4,
+    'female': 3.6
+} {
+    'country': 'Gabon',
+    'year': 2009,
+    'both_sexes': 10.2,
+    'male': 16.5,
+    'female': 3.8
+} {
+    'country': 'Gabon',
+    'year': 2008,
+    'both_sexes': 11.3,
+    'male': 18.0,
+    'female': 4.5
+} {
+    'country': 'Gabon',
+    'year': 2007,
+    'both_sexes': 10.4,
+    'male': 16.5,
+    'female': 4.3
+} {
+    'country': 'Gabon',
+    'year': 2006,
+    'both_sexes': 10.6,
+    'male': 16.5,
+    'female': 4.7
+} {
+    'country': 'Gabon',
+    'year': 2005,
+    'both_sexes': 10.2,
+    'male': 16.4,
+    'female': 4.1
+} {
+    'country': 'Gabon',
+    'year': 2004,
+    'both_sexes': 10.1,
+    'male': 16.1,
+    'female': 4.1
+} {
+    'country': 'Gabon',
+    'year': 2003,
+    'both_sexes': 11.0,
+    'male': 17.6,
+    'female': 4.5
+} {
+    'country': 'Gabon',
+    'year': 2002,
+    'both_sexes': 11.2,
+    'male': 18.0,
+    'female': 4.6
+} {
+    'country': 'Gabon',
+    'year': 2001,
+    'both_sexes': 12.2,
+    'male': 19.4,
+    'female': 5.1
+} {
+    'country': 'Gabon',
+    'year': 2000,
+    'both_sexes': 13.0,
+    'male': 20.7,
+    'female': 5.3
+} {
+    'country': 'Gambia',
+    'year': 2019,
+    'both_sexes': 4.8,
+    'male': 6.6,
+    'female': 3.0
+} {
+    'country': 'Gambia',
+    'year': 2018,
+    'both_sexes': 4.8,
+    'male': 6.6,
+    'female': 3.0
+} {
+    'country': 'Gambia',
+    'year': 2017,
+    'both_sexes': 4.9,
+    'male': 6.8,
+    'female': 3.0
+} {
+    'country': 'Gambia',
+    'year': 2016,
+    'both_sexes': 4.9,
+    'male': 6.7,
+    'female': 3.1
+} {
+    'country': 'Gambia',
+    'year': 2015,
+    'both_sexes': 5.1,
+    'male': 6.9,
+    'female': 3.3
+} {
+    'country': 'Gambia',
+    'year': 2014,
+    'both_sexes': 5.3,
+    'male': 7.1,
+    'female': 3.4
+} {
+    'country': 'Gambia',
+    'year': 2013,
+    'both_sexes': 5.3,
+    'male': 7.1,
+    'female': 3.5
+} {
+    'country': 'Gambia',
+    'year': 2012,
+    'both_sexes': 5.3,
+    'male': 7.2,
+    'female': 3.5
+} {
+    'country': 'Gambia',
+    'year': 2011,
+    'both_sexes': 5.4,
+    'male': 7.4,
+    'female': 3.5
+} {
+    'country': 'Gambia',
+    'year': 2010,
+    'both_sexes': 5.3,
+    'male': 7.2,
+    'female': 3.4
+} {
+    'country': 'Gambia',
+    'year': 2009,
+    'both_sexes': 5.5,
+    'male': 7.4,
+    'female': 3.5
+} {
+    'country': 'Gambia',
+    'year': 2008,
+    'both_sexes': 5.6,
+    'male': 7.7,
+    'female': 3.6
+} {
+    'country': 'Gambia',
+    'year': 2007,
+    'both_sexes': 5.7,
+    'male': 7.7,
+    'female': 3.6
+} {
+    'country': 'Gambia',
+    'year': 2006,
+    'both_sexes': 5.7,
+    'male': 7.8,
+    'female': 3.7
+} {
+    'country': 'Gambia',
+    'year': 2005,
+    'both_sexes': 5.8,
+    'male': 8.0,
+    'female': 3.7
+} {
+    'country': 'Gambia',
+    'year': 2004,
+    'both_sexes': 5.9,
+    'male': 8.1,
+    'female': 3.7
+} {
+    'country': 'Gambia',
+    'year': 2003,
+    'both_sexes': 5.8,
+    'male': 7.9,
+    'female': 3.7
+} {
+    'country': 'Gambia',
+    'year': 2002,
+    'both_sexes': 5.8,
+    'male': 7.9,
+    'female': 3.7
+} {
+    'country': 'Gambia',
+    'year': 2001,
+    'both_sexes': 5.7,
+    'male': 7.7,
+    'female': 3.6
+} {
+    'country': 'Gambia',
+    'year': 2000,
+    'both_sexes': 5.6,
+    'male': 7.6,
+    'female': 3.6
+} {
+    'country': 'Georgia',
+    'year': 2019,
+    'both_sexes': 9.2,
+    'male': 16.0,
+    'female': 3.0
+} {
+    'country': 'Georgia',
+    'year': 2018,
+    'both_sexes': 9.4,
+    'male': 16.3,
+    'female': 3.1
+} {
+    'country': 'Georgia',
+    'year': 2017,
+    'both_sexes': 9.6,
+    'male': 16.7,
+    'female': 3.1
+} {
+    'country': 'Georgia',
+    'year': 2016,
+    'both_sexes': 10.7,
+    'male': 18.6,
+    'female': 3.5
+} {
+    'country': 'Georgia',
+    'year': 2015,
+    'both_sexes': 10.5,
+    'male': 18.1,
+    'female': 3.6
+} {
+    'country': 'Georgia',
+    'year': 2014,
+    'both_sexes': 10.3,
+    'male': 17.7,
+    'female': 3.5
+} {
+    'country': 'Georgia',
+    'year': 2013,
+    'both_sexes': 9.8,
+    'male': 17.0,
+    'female': 3.1
+} {
+    'country': 'Georgia',
+    'year': 2012,
+    'both_sexes': 9.2,
+    'male': 16.0,
+    'female': 2.9
+} {
+    'country': 'Georgia',
+    'year': 2011,
+    'both_sexes': 8.7,
+    'male': 14.8,
+    'female': 3.0
+} {
+    'country': 'Georgia',
+    'year': 2010,
+    'both_sexes': 8.3,
+    'male': 14.2,
+    'female': 2.9
+} {
+    'country': 'Georgia',
+    'year': 2009,
+    'both_sexes': 8.5,
+    'male': 14.0,
+    'female': 3.4
+} {
+    'country': 'Georgia',
+    'year': 2008,
+    'both_sexes': 7.5,
+    'male': 12.7,
+    'female': 2.7
+} {
+    'country': 'Georgia',
+    'year': 2007,
+    'both_sexes': 6.1,
+    'male': 10.1,
+    'female': 2.4
+} {
+    'country': 'Georgia',
+    'year': 2006,
+    'both_sexes': 6.2,
+    'male': 10.3,
+    'female': 2.3
+} {
+    'country': 'Georgia',
+    'year': 2005,
+    'both_sexes': 6.2,
+    'male': 10.2,
+    'female': 2.5
+} {
+    'country': 'Georgia',
+    'year': 2004,
+    'both_sexes': 7.4,
+    'male': 12.2,
+    'female': 3.1
+} {
+    'country': 'Georgia',
+    'year': 2003,
+    'both_sexes': 6.6,
+    'male': 10.5,
+    'female': 3.0
+} {
+    'country': 'Georgia',
+    'year': 2002,
+    'both_sexes': 8.2,
+    'male': 13.6,
+    'female': 3.4
+} {
+    'country': 'Georgia',
+    'year': 2001,
+    'both_sexes': 6.9,
+    'male': 11.4,
+    'female': 2.7
+} {
+    'country': 'Georgia',
+    'year': 2000,
+    'both_sexes': 7.4,
+    'male': 12.5,
+    'female': 2.8
+} {
+    'country': 'Germany',
+    'year': 2019,
+    'both_sexes': 12.3,
+    'male': 18.6,
+    'female': 6.2
+} {
+    'country': 'Germany',
+    'year': 2018,
+    'both_sexes': 12.9,
+    'male': 19.2,
+    'female': 6.8
+} {
+    'country': 'Germany',
+    'year': 2017,
+    'both_sexes': 12.6,
+    'male': 18.8,
+    'female': 6.6
+} {
+    'country': 'Germany',
+    'year': 2016,
+    'both_sexes': 13.0,
+    'male': 19.4,
+    'female': 6.8
+} {
+    'country': 'Germany',
+    'year': 2015,
+    'both_sexes': 13.3,
+    'male': 19.5,
+    'female': 7.3
+} {
+    'country': 'Germany',
+    'year': 2014,
+    'both_sexes': 13.4,
+    'male': 20.1,
+    'female': 6.9
+} {
+    'country': 'Germany',
+    'year': 2013,
+    'both_sexes': 13.4,
+    'male': 19.9,
+    'female': 7.2
+} {
+    'country': 'Germany',
+    'year': 2012,
+    'both_sexes': 12.9,
+    'male': 18.9,
+    'female': 7.0
+} {
+    'country': 'Germany',
+    'year': 2011,
+    'both_sexes': 13.2,
+    'male': 20.0,
+    'female': 6.7
+} {
+    'country': 'Germany',
+    'year': 2010,
+    'both_sexes': 13.2,
+    'male': 20.0,
+    'female': 6.8
+} {
+    'country': 'Germany',
+    'year': 2009,
+    'both_sexes': 12.8,
+    'male': 19.4,
+    'female': 6.4
+} {
+    'country': 'Germany',
+    'year': 2008,
+    'both_sexes': 12.5,
+    'male': 19.0,
+    'female': 6.4
+} {
+    'country': 'Germany',
+    'year': 2007,
+    'both_sexes': 12.4,
+    'male': 18.7,
+    'female': 6.3
+} {
+    'country': 'Germany',
+    'year': 2006,
+    'both_sexes': 12.8,
+    'male': 19.2,
+    'female': 6.6
+} {
+    'country': 'Germany',
+    'year': 2005,
+    'both_sexes': 13.3,
+    'male': 19.9,
+    'female': 7.0
+} {
+    'country': 'Germany',
+    'year': 2004,
+    'both_sexes': 14.0,
+    'male': 21.1,
+    'female': 7.2
+} {
+    'country': 'Germany',
+    'year': 2003,
+    'both_sexes': 14.4,
+    'male': 21.4,
+    'female': 7.7
+} {
+    'country': 'Germany',
+    'year': 2002,
+    'both_sexes': 14.6,
+    'male': 21.5,
+    'female': 7.9
+} {
+    'country': 'Germany',
+    'year': 2001,
+    'both_sexes': 14.5,
+    'male': 21.7,
+    'female': 7.7
+} {
+    'country': 'Germany',
+    'year': 2000,
+    'both_sexes': 14.5,
+    'male': 21.7,
+    'female': 7.6
+} {
+    'country': 'Ghana',
+    'year': 2019,
+    'both_sexes': 6.6,
+    'male': 11.8,
+    'female': 1.2
+} {
+    'country': 'Ghana',
+    'year': 2018,
+    'both_sexes': 6.6,
+    'male': 11.9,
+    'female': 1.2
+} {
+    'country': 'Ghana',
+    'year': 2017,
+    'both_sexes': 7.0,
+    'male': 12.5,
+    'female': 1.3
+} {
+    'country': 'Ghana',
+    'year': 2016,
+    'both_sexes': 7.2,
+    'male': 12.9,
+    'female': 1.4
+} {
+    'country': 'Ghana',
+    'year': 2015,
+    'both_sexes': 7.3,
+    'male': 13.0,
+    'female': 1.5
+} {
+    'country': 'Ghana',
+    'year': 2014,
+    'both_sexes': 7.5,
+    'male': 13.3,
+    'female': 1.6
+} {
+    'country': 'Ghana',
+    'year': 2013,
+    'both_sexes': 7.7,
+    'male': 13.6,
+    'female': 1.7
+} {
+    'country': 'Ghana',
+    'year': 2012,
+    'both_sexes': 7.8,
+    'male': 13.7,
+    'female': 1.8
+} {
+    'country': 'Ghana',
+    'year': 2011,
+    'both_sexes': 7.8,
+    'male': 13.6,
+    'female': 1.8
+} {
+    'country': 'Ghana',
+    'year': 2010,
+    'both_sexes': 7.8,
+    'male': 13.6,
+    'female': 2.0
+} {
+    'country': 'Ghana',
+    'year': 2009,
+    'both_sexes': 7.6,
+    'male': 13.1,
+    'female': 2.0
+} {
+    'country': 'Ghana',
+    'year': 2008,
+    'both_sexes': 7.5,
+    'male': 12.8,
+    'female': 2.0
+} {
+    'country': 'Ghana',
+    'year': 2007,
+    'both_sexes': 7.2,
+    'male': 12.2,
+    'female': 2.1
+} {
+    'country': 'Ghana',
+    'year': 2006,
+    'both_sexes': 7.0,
+    'male': 12.0,
+    'female': 2.0
+} {
+    'country': 'Ghana',
+    'year': 2005,
+    'both_sexes': 6.9,
+    'male': 11.6,
+    'female': 2.0
+} {
+    'country': 'Ghana',
+    'year': 2004,
+    'both_sexes': 6.6,
+    'male': 11.2,
+    'female': 2.0
+} {
+    'country': 'Ghana',
+    'year': 2003,
+    'both_sexes': 6.4,
+    'male': 10.7,
+    'female': 2.0
+} {
+    'country': 'Ghana',
+    'year': 2002,
+    'both_sexes': 6.1,
+    'male': 10.1,
+    'female': 1.9
+} {
+    'country': 'Ghana',
+    'year': 2001,
+    'both_sexes': 5.8,
+    'male': 9.6,
+    'female': 1.9
+} {
+    'country': 'Ghana',
+    'year': 2000,
+    'both_sexes': 5.4,
+    'male': 8.9,
+    'female': 1.8
+} {
+    'country': 'Greece',
+    'year': 2019,
+    'both_sexes': 5.1,
+    'male': 8.4,
+    'female': 1.9
+} {
+    'country': 'Greece',
+    'year': 2018,
+    'both_sexes': 5.1,
+    'male': 8.3,
+    'female': 1.9
+} {
+    'country': 'Greece',
+    'year': 2017,
+    'both_sexes': 5.1,
+    'male': 8.3,
+    'female': 2.0
+} {
+    'country': 'Greece',
+    'year': 2016,
+    'both_sexes': 4.7,
+    'male': 7.9,
+    'female': 1.6
+} {
+    'country': 'Greece',
+    'year': 2015,
+    'both_sexes': 5.0,
+    'male': 8.2,
+    'female': 2.0
+} {
+    'country': 'Greece',
+    'year': 2014,
+    'both_sexes': 5.3,
+    'male': 8.6,
+    'female': 2.2
+} {
+    'country': 'Greece',
+    'year': 2013,
+    'both_sexes': 5.0,
+    'male': 8.1,
+    'female': 2.0
+} {
+    'country': 'Greece',
+    'year': 2012,
+    'both_sexes': 4.8,
+    'male': 8.0,
+    'female': 1.7
+} {
+    'country': 'Greece',
+    'year': 2011,
+    'both_sexes': 4.4,
+    'male': 7.3,
+    'female': 1.5
+} {
+    'country': 'Greece',
+    'year': 2009,
+    'both_sexes': 3.6,
+    'male': 6.2,
+    'female': 1.1
+} {
+    'country': 'Greece',
+    'year': 2008,
+    'both_sexes': 3.4,
+    'male': 5.7,
+    'female': 1.2
+} {
+    'country': 'Greece',
+    'year': 2007,
+    'both_sexes': 3.0,
+    'male': 5.0,
+    'female': 1.1
+} {
+    'country': 'Greece',
+    'year': 2006,
+    'both_sexes': 3.7,
+    'male': 6.1,
+    'female': 1.2
+} {
+    'country': 'Greece',
+    'year': 2005,
+    'both_sexes': 3.7,
+    'male': 6.0,
+    'female': 1.4
+} {
+    'country': 'Greece',
+    'year': 2004,
+    'both_sexes': 3.1,
+    'male': 5.1,
+    'female': 1.2
+} {
+    'country': 'Greece',
+    'year': 2003,
+    'both_sexes': 3.3,
+    'male': 5.4,
+    'female': 1.2
+} {
+    'country': 'Greece',
+    'year': 2002,
+    'both_sexes': 2.9,
+    'male': 4.7,
+    'female': 1.2
+} {
+    'country': 'Greece',
+    'year': 2000,
+    'both_sexes': 3.5,
+    'male': 5.4,
+    'female': 1.5
+} {
+    'country': 'Grenada',
+    'year': 2006,
+    'both_sexes': 5.1,
+    'male': 8.8,
+    'female': 1.4
+} {
+    'country': 'Guatemala',
+    'year': 2019,
+    'both_sexes': 5.9,
+    'male': 9.3,
+    'female': 2.6
+} {
+    'country': 'Guatemala',
+    'year': 2018,
+    'both_sexes': 6.0,
+    'male': 9.4,
+    'female': 2.6
+} {
+    'country': 'Guatemala',
+    'year': 2017,
+    'both_sexes': 5.6,
+    'male': 8.6,
+    'female': 2.7
+} {
+    'country': 'Guatemala',
+    'year': 2016,
+    'both_sexes': 5.7,
+    'male': 8.7,
+    'female': 2.8
+} {
+    'country': 'Guatemala',
+    'year': 2015,
+    'both_sexes': 5.8,
+    'male': 8.9,
+    'female': 2.9
+} {
+    'country': 'Guatemala',
+    'year': 2014,
+    'both_sexes': 5.8,
+    'male': 8.8,
+    'female': 2.9
+} {
+    'country': 'Guatemala',
+    'year': 2013,
+    'both_sexes': 5.9,
+    'male': 9.0,
+    'female': 2.9
+} {
+    'country': 'Guatemala',
+    'year': 2012,
+    'both_sexes': 6.1,
+    'male': 9.4,
+    'female': 2.9
+} {
+    'country': 'Guatemala',
+    'year': 2011,
+    'both_sexes': 6.6,
+    'male': 10.3,
+    'female': 3.0
+} {
+    'country': 'Guatemala',
+    'year': 2010,
+    'both_sexes': 7.3,
+    'male': 11.5,
+    'female': 3.2
+} {
+    'country': 'Guatemala',
+    'year': 2009,
+    'both_sexes': 7.9,
+    'male': 12.5,
+    'female': 3.5
+} {
+    'country': 'Guatemala',
+    'year': 2008,
+    'both_sexes': 8.0,
+    'male': 12.9,
+    'female': 3.3
+} {
+    'country': 'Guatemala',
+    'year': 2007,
+    'both_sexes': 8.3,
+    'male': 13.3,
+    'female': 3.5
+} {
+    'country': 'Guatemala',
+    'year': 2006,
+    'both_sexes': 10.7,
+    'male': 17.9,
+    'female': 3.9
+} {
+    'country': 'Guatemala',
+    'year': 2005,
+    'both_sexes': 11.4,
+    'male': 19.0,
+    'female': 4.0
+} {
+    'country': 'Guatemala',
+    'year': 2004,
+    'both_sexes': 11.0,
+    'male': 18.2,
+    'female': 4.0
+} {
+    'country': 'Guatemala',
+    'year': 2003,
+    'both_sexes': 10.8,
+    'male': 17.9,
+    'female': 3.9
+} {
+    'country': 'Guatemala',
+    'year': 2002,
+    'both_sexes': 10.5,
+    'male': 17.4,
+    'female': 3.9
+} {
+    'country': 'Guatemala',
+    'year': 2001,
+    'both_sexes': 10.7,
+    'male': 18.0,
+    'female': 3.8
+} {
+    'country': 'Guatemala',
+    'year': 2000,
+    'both_sexes': 10.2,
+    'male': 17.2,
+    'female': 3.5
+} {
+    'country': 'Guinea',
+    'year': 2019,
+    'both_sexes': 7.0,
+    'male': 9.2,
+    'female': 4.9
+} {
+    'country': 'Guinea',
+    'year': 2018,
+    'both_sexes': 6.9,
+    'male': 9.0,
+    'female': 4.8
+} {
+    'country': 'Guinea',
+    'year': 2017,
+    'both_sexes': 7.0,
+    'male': 9.0,
+    'female': 5.0
+} {
+    'country': 'Guinea',
+    'year': 2016,
+    'both_sexes': 7.1,
+    'male': 9.3,
+    'female': 5.1
+} {
+    'country': 'Guinea',
+    'year': 2015,
+    'both_sexes': 7.2,
+    'male': 9.5,
+    'female': 5.1
+} {
+    'country': 'Guinea',
+    'year': 2014,
+    'both_sexes': 7.1,
+    'male': 9.5,
+    'female': 4.9
+} {
+    'country': 'Guinea',
+    'year': 2013,
+    'both_sexes': 7.3,
+    'male': 9.7,
+    'female': 5.1
+} {
+    'country': 'Guinea',
+    'year': 2012,
+    'both_sexes': 7.1,
+    'male': 9.4,
+    'female': 5.0
+} {
+    'country': 'Guinea',
+    'year': 2011,
+    'both_sexes': 7.0,
+    'male': 9.2,
+    'female': 5.0
+} {
+    'country': 'Guinea',
+    'year': 2010,
+    'both_sexes': 6.8,
+    'male': 8.9,
+    'female': 4.8
+} {
+    'country': 'Guinea',
+    'year': 2009,
+    'both_sexes': 6.4,
+    'male': 8.4,
+    'female': 4.6
+} {
+    'country': 'Guinea',
+    'year': 2008,
+    'both_sexes': 6.3,
+    'male': 8.4,
+    'female': 4.5
+} {
+    'country': 'Guinea',
+    'year': 2007,
+    'both_sexes': 6.3,
+    'male': 8.3,
+    'female': 4.5
+} {
+    'country': 'Guinea',
+    'year': 2006,
+    'both_sexes': 6.0,
+    'male': 7.8,
+    'female': 4.3
+} {
+    'country': 'Guinea',
+    'year': 2005,
+    'both_sexes': 5.6,
+    'male': 7.3,
+    'female': 4.0
+} {
+    'country': 'Guinea',
+    'year': 2004,
+    'both_sexes': 5.7,
+    'male': 7.5,
+    'female': 4.0
+} {
+    'country': 'Guinea',
+    'year': 2003,
+    'both_sexes': 5.6,
+    'male': 7.4,
+    'female': 4.0
+} {
+    'country': 'Guinea',
+    'year': 2002,
+    'both_sexes': 5.6,
+    'male': 7.3,
+    'female': 4.0
+} {
+    'country': 'Guinea',
+    'year': 2001,
+    'both_sexes': 5.4,
+    'male': 7.1,
+    'female': 3.9
+} {
+    'country': 'Guinea',
+    'year': 2000,
+    'both_sexes': 5.4,
+    'male': 7.0,
+    'female': 4.0
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2019,
+    'both_sexes': 7.0,
+    'male': 10.2,
+    'female': 3.9
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2018,
+    'both_sexes': 7.2,
+    'male': 10.7,
+    'female': 3.9
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2017,
+    'both_sexes': 7.3,
+    'male': 10.7,
+    'female': 4.1
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2016,
+    'both_sexes': 7.3,
+    'male': 10.7,
+    'female': 4.1
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2015,
+    'both_sexes': 7.3,
+    'male': 10.5,
+    'female': 4.1
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2014,
+    'both_sexes': 7.8,
+    'male': 11.4,
+    'female': 4.3
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2013,
+    'both_sexes': 8.1,
+    'male': 11.9,
+    'female': 4.4
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2012,
+    'both_sexes': 8.0,
+    'male': 11.9,
+    'female': 4.3
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2011,
+    'both_sexes': 8.2,
+    'male': 12.1,
+    'female': 4.5
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2010,
+    'both_sexes': 8.4,
+    'male': 12.4,
+    'female': 4.6
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2009,
+    'both_sexes': 8.5,
+    'male': 12.7,
+    'female': 4.6
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2008,
+    'both_sexes': 8.4,
+    'male': 12.5,
+    'female': 4.7
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2007,
+    'both_sexes': 8.4,
+    'male': 12.4,
+    'female': 4.6
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2006,
+    'both_sexes': 8.4,
+    'male': 12.5,
+    'female': 4.6
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2005,
+    'both_sexes': 8.4,
+    'male': 12.6,
+    'female': 4.6
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2004,
+    'both_sexes': 8.8,
+    'male': 13.1,
+    'female': 4.7
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2003,
+    'both_sexes': 8.8,
+    'male': 13.2,
+    'female': 4.7
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2002,
+    'both_sexes': 9.1,
+    'male': 13.6,
+    'female': 4.8
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2001,
+    'both_sexes': 9.3,
+    'male': 14.0,
+    'female': 4.9
+} {
+    'country': 'Guinea-Bissau',
+    'year': 2000,
+    'both_sexes': 9.5,
+    'male': 14.3,
+    'female': 5.0
+} {
+    'country': 'Guyana',
+    'year': 2019,
+    'both_sexes': 40.3,
+    'male': 63.0,
+    'female': 17.4
+} {
+    'country': 'Guyana',
+    'year': 2018,
+    'both_sexes': 39.5,
+    'male': 61.6,
+    'female': 17.1
+} {
+    'country': 'Guyana',
+    'year': 2017,
+    'both_sexes': 38.5,
+    'male': 60.1,
+    'female': 16.7
+} {
+    'country': 'Guyana',
+    'year': 2016,
+    'both_sexes': 37.9,
+    'male': 59.3,
+    'female': 16.4
+} {
+    'country': 'Guyana',
+    'year': 2015,
+    'both_sexes': 37.3,
+    'male': 58.5,
+    'female': 16.2
+} {
+    'country': 'Guyana',
+    'year': 2014,
+    'both_sexes': 37.2,
+    'male': 60.6,
+    'female': 13.9
+} {
+    'country': 'Guyana',
+    'year': 2013,
+    'both_sexes': 38.2,
+    'male': 59.3,
+    'female': 17.4
+} {
+    'country': 'Guyana',
+    'year': 2012,
+    'both_sexes': 35.0,
+    'male': 54.6,
+    'female': 15.7
+} {
+    'country': 'Guyana',
+    'year': 2011,
+    'both_sexes': 32.6,
+    'male': 51.0,
+    'female': 14.5
+} {
+    'country': 'Guyana',
+    'year': 2010,
+    'both_sexes': 33.3,
+    'male': 51.7,
+    'female': 15.2
+} {
+    'country': 'Guyana',
+    'year': 2009,
+    'both_sexes': 32.9,
+    'male': 47.5,
+    'female': 18.3
+} {
+    'country': 'Guyana',
+    'year': 2008,
+    'both_sexes': 30.0,
+    'male': 46.0,
+    'female': 14.1
+} {
+    'country': 'Guyana',
+    'year': 2007,
+    'both_sexes': 30.9,
+    'male': 47.3,
+    'female': 14.6
+} {
+    'country': 'Guyana',
+    'year': 2006,
+    'both_sexes': 30.7,
+    'male': 46.7,
+    'female': 14.6
+} {
+    'country': 'Guyana',
+    'year': 2005,
+    'both_sexes': 30.9,
+    'male': 47.7,
+    'female': 14.0
+} {
+    'country': 'Guyana',
+    'year': 2004,
+    'both_sexes': 32.5,
+    'male': 50.3,
+    'female': 14.7
+} {
+    'country': 'Guyana',
+    'year': 2003,
+    'both_sexes': 33.2,
+    'male': 50.8,
+    'female': 15.5
+} {
+    'country': 'Guyana',
+    'year': 2002,
+    'both_sexes': 34.5,
+    'male': 55.4,
+    'female': 13.5
+} {
+    'country': 'Guyana',
+    'year': 2001,
+    'both_sexes': 34.7,
+    'male': 54.6,
+    'female': 14.9
+} {
+    'country': 'Guyana',
+    'year': 2000,
+    'both_sexes': 31.4,
+    'male': 49.1,
+    'female': 13.8
+} {
+    'country': 'Haiti',
+    'year': 2019,
+    'both_sexes': 9.6,
+    'male': 11.8,
+    'female': 7.6
+} {
+    'country': 'Haiti',
+    'year': 2018,
+    'both_sexes': 9.7,
+    'male': 11.8,
+    'female': 7.7
+} {
+    'country': 'Haiti',
+    'year': 2017,
+    'both_sexes': 9.7,
+    'male': 11.7,
+    'female': 7.8
+} {
+    'country': 'Haiti',
+    'year': 2016,
+    'both_sexes': 9.8,
+    'male': 11.5,
+    'female': 8.2
+} {
+    'country': 'Haiti',
+    'year': 2015,
+    'both_sexes': 10.0,
+    'male': 11.6,
+    'female': 8.5
+} {
+    'country': 'Haiti',
+    'year': 2014,
+    'both_sexes': 10.0,
+    'male': 11.4,
+    'female': 8.6
+} {
+    'country': 'Haiti',
+    'year': 2013,
+    'both_sexes': 9.9,
+    'male': 11.2,
+    'female': 8.7
+} {
+    'country': 'Haiti',
+    'year': 2012,
+    'both_sexes': 10.0,
+    'male': 11.1,
+    'female': 8.8
+} {
+    'country': 'Haiti',
+    'year': 2011,
+    'both_sexes': 10.1,
+    'male': 11.0,
+    'female': 9.2
+} {
+    'country': 'Haiti',
+    'year': 2010,
+    'both_sexes': 10.9,
+    'male': 11.8,
+    'female': 10.1
+} {
+    'country': 'Haiti',
+    'year': 2009,
+    'both_sexes': 10.3,
+    'male': 10.9,
+    'female': 9.7
+} {
+    'country': 'Haiti',
+    'year': 2008,
+    'both_sexes': 10.1,
+    'male': 10.6,
+    'female': 9.6
+} {
+    'country': 'Haiti',
+    'year': 2007,
+    'both_sexes': 10.0,
+    'male': 10.3,
+    'female': 9.7
+} {
+    'country': 'Haiti',
+    'year': 2006,
+    'both_sexes': 9.6,
+    'male': 9.7,
+    'female': 9.5
+} {
+    'country': 'Haiti',
+    'year': 2005,
+    'both_sexes': 9.4,
+    'male': 9.4,
+    'female': 9.4
+} {
+    'country': 'Haiti',
+    'year': 2004,
+    'both_sexes': 9.0,
+    'male': 9.2,
+    'female': 8.9
+} {
+    'country': 'Haiti',
+    'year': 2003,
+    'both_sexes': 9.3,
+    'male': 9.3,
+    'female': 9.3
+} {
+    'country': 'Haiti',
+    'year': 2002,
+    'both_sexes': 9.3,
+    'male': 9.3,
+    'female': 9.4
+} {
+    'country': 'Haiti',
+    'year': 2001,
+    'both_sexes': 9.5,
+    'male': 9.5,
+    'female': 9.5
+} {
+    'country': 'Haiti',
+    'year': 2000,
+    'both_sexes': 9.7,
+    'male': 9.8,
+    'female': 9.7
+} {
+    'country': 'Hungary',
+    'year': 2019,
+    'both_sexes': 16.6,
+    'male': 25.9,
+    'female': 8.3
+} {
+    'country': 'Hungary',
+    'year': 2018,
+    'both_sexes': 17.7,
+    'male': 28.4,
+    'female': 8.1
+} {
+    'country': 'Hungary',
+    'year': 2017,
+    'both_sexes': 17.5,
+    'male': 27.7,
+    'female': 8.2
+} {
+    'country': 'Hungary',
+    'year': 2016,
+    'both_sexes': 18.7,
+    'male': 29.1,
+    'female': 9.3
+} {
+    'country': 'Hungary',
+    'year': 2015,
+    'both_sexes': 19.9,
+    'male': 31.0,
+    'female': 9.9
+} {
+    'country': 'Hungary',
+    'year': 2014,
+    'both_sexes': 20.4,
+    'male': 32.7,
+    'female': 9.3
+} {
+    'country': 'Hungary',
+    'year': 2013,
+    'both_sexes': 22.1,
+    'male': 35.0,
+    'female': 10.4
+} {
+    'country': 'Hungary',
+    'year': 2012,
+    'both_sexes': 24.8,
+    'male': 39.7,
+    'female': 11.4
+} {
+    'country': 'Hungary',
+    'year': 2011,
+    'both_sexes': 25.1,
+    'male': 40.3,
+    'female': 11.5
+} {
+    'country': 'Hungary',
+    'year': 2010,
+    'both_sexes': 25.5,
+    'male': 41.6,
+    'female': 11.0
+} {
+    'country': 'Hungary',
+    'year': 2009,
+    'both_sexes': 25.4,
+    'male': 41.1,
+    'female': 11.1
+} {
+    'country': 'Hungary',
+    'year': 2008,
+    'both_sexes': 25.4,
+    'male': 41.0,
+    'female': 11.3
+} {
+    'country': 'Hungary',
+    'year': 2007,
+    'both_sexes': 25.0,
+    'male': 40.1,
+    'female': 11.3
+} {
+    'country': 'Hungary',
+    'year': 2006,
+    'both_sexes': 24.9,
+    'male': 39.5,
+    'female': 11.8
+} {
+    'country': 'Hungary',
+    'year': 2005,
+    'both_sexes': 26.4,
+    'male': 42.8,
+    'female': 11.6
+} {
+    'country': 'Hungary',
+    'year': 2004,
+    'both_sexes': 27.5,
+    'male': 44.1,
+    'female': 12.5
+} {
+    'country': 'Hungary',
+    'year': 2003,
+    'both_sexes': 28.0,
+    'male': 45.5,
+    'female': 12.2
+} {
+    'country': 'Hungary',
+    'year': 2002,
+    'both_sexes': 28.6,
+    'male': 46.4,
+    'female': 12.5
+} {
+    'country': 'Hungary',
+    'year': 2001,
+    'both_sexes': 29.8,
+    'male': 48.2,
+    'female': 13.2
+} {
+    'country': 'Hungary',
+    'year': 2000,
+    'both_sexes': 33.4,
+    'male': 52.6,
+    'female': 15.9
+} {
+    'country': 'Iceland',
+    'year': 2019,
+    'both_sexes': 11.9,
+    'male': 19.8,
+    'female': 3.9
+} {
+    'country': 'Iceland',
+    'year': 2018,
+    'both_sexes': 10.8,
+    'male': 17.8,
+    'female': 3.8
+} {
+    'country': 'Iceland',
+    'year': 2017,
+    'both_sexes': 12.2,
+    'male': 21.7,
+    'female': 2.7
+} {
+    'country': 'Iceland',
+    'year': 2016,
+    'both_sexes': 13.0,
+    'male': 21.2,
+    'female': 4.6
+} {
+    'country': 'Iceland',
+    'year': 2015,
+    'both_sexes': 14.3,
+    'male': 22.5,
+    'female': 5.9
+} {
+    'country': 'Iceland',
+    'year': 2014,
+    'both_sexes': 15.7,
+    'male': 22.0,
+    'female': 9.4
+} {
+    'country': 'Iceland',
+    'year': 2013,
+    'both_sexes': 13.9,
+    'male': 20.3,
+    'female': 7.3
+} {
+    'country': 'Iceland',
+    'year': 2012,
+    'both_sexes': 13.5,
+    'male': 18.3,
+    'female': 8.6
+} {
+    'country': 'Iceland',
+    'year': 2011,
+    'both_sexes': 11.6,
+    'male': 17.7,
+    'female': 5.4
+} {
+    'country': 'Iceland',
+    'year': 2010,
+    'both_sexes': 12.8,
+    'male': 19.7,
+    'female': 5.8
+} {
+    'country': 'Iceland',
+    'year': 2009,
+    'both_sexes': 14.3,
+    'male': 19.9,
+    'female': 8.5
+} {
+    'country': 'Iceland',
+    'year': 2008,
+    'both_sexes': 14.8,
+    'male': 20.7,
+    'female': 8.9
+} {
+    'country': 'Iceland',
+    'year': 2007,
+    'both_sexes': 14.8,
+    'male': 19.3,
+    'female': 10.3
+} {
+    'country': 'Iceland',
+    'year': 2006,
+    'both_sexes': 12.5,
+    'male': 17.1,
+    'female': 7.8
+} {
+    'country': 'Iceland',
+    'year': 2005,
+    'both_sexes': 11.8,
+    'male': 15.4,
+    'female': 8.3
+} {
+    'country': 'Iceland',
+    'year': 2004,
+    'both_sexes': 12.4,
+    'male': 17.4,
+    'female': 7.3
+} {
+    'country': 'Iceland',
+    'year': 2003,
+    'both_sexes': 12.5,
+    'male': 19.2,
+    'female': 5.7
+} {
+    'country': 'Iceland',
+    'year': 2002,
+    'both_sexes': 12.2,
+    'male': 18.3,
+    'female': 6.2
+} {
+    'country': 'Iceland',
+    'year': 2001,
+    'both_sexes': 12.8,
+    'male': 19.1,
+    'female': 6.4
+} {
+    'country': 'Iceland',
+    'year': 2000,
+    'both_sexes': 13.1,
+    'male': 19.8,
+    'female': 6.3
+} {
+    'country': 'India',
+    'year': 2019,
+    'both_sexes': 12.7,
+    'male': 14.1,
+    'female': 11.1
+} {
+    'country': 'India',
+    'year': 2018,
+    'both_sexes': 12.6,
+    'male': 14.0,
+    'female': 11.0
+} {
+    'country': 'India',
+    'year': 2017,
+    'both_sexes': 12.0,
+    'male': 13.4,
+    'female': 10.5
+} {
+    'country': 'India',
+    'year': 2016,
+    'both_sexes': 12.1,
+    'male': 13.4,
+    'female': 10.6
+} {
+    'country': 'India',
+    'year': 2015,
+    'both_sexes': 12.3,
+    'male': 13.7,
+    'female': 10.8
+} {
+    'country': 'India',
+    'year': 2014,
+    'both_sexes': 12.8,
+    'male': 14.4,
+    'female': 11.0
+} {
+    'country': 'India',
+    'year': 2013,
+    'both_sexes': 13.7,
+    'male': 15.5,
+    'female': 11.8
+} {
+    'country': 'India',
+    'year': 2012,
+    'both_sexes': 14.3,
+    'male': 16.2,
+    'female': 12.2
+} {
+    'country': 'India',
+    'year': 2011,
+    'both_sexes': 14.7,
+    'male': 16.3,
+    'female': 12.8
+} {
+    'country': 'India',
+    'year': 2010,
+    'both_sexes': 14.6,
+    'male': 16.3,
+    'female': 12.9
+} {
+    'country': 'India',
+    'year': 2009,
+    'both_sexes': 14.5,
+    'male': 16.5,
+    'female': 12.4
+} {
+    'country': 'India',
+    'year': 2008,
+    'both_sexes': 15.1,
+    'male': 17.3,
+    'female': 12.6
+} {
+    'country': 'India',
+    'year': 2007,
+    'both_sexes': 15.3,
+    'male': 17.4,
+    'female': 12.9
+} {
+    'country': 'India',
+    'year': 2006,
+    'both_sexes': 15.6,
+    'male': 17.6,
+    'female': 13.5
+} {
+    'country': 'India',
+    'year': 2005,
+    'both_sexes': 15.5,
+    'male': 17.1,
+    'female': 13.7
+} {
+    'country': 'India',
+    'year': 2004,
+    'both_sexes': 15.2,
+    'male': 16.6,
+    'female': 13.6
+} {
+    'country': 'India',
+    'year': 2003,
+    'both_sexes': 15.3,
+    'male': 16.6,
+    'female': 14.0
+} {
+    'country': 'India',
+    'year': 2002,
+    'both_sexes': 16.1,
+    'male': 17.1,
+    'female': 15.0
+} {
+    'country': 'India',
+    'year': 2001,
+    'both_sexes': 16.6,
+    'male': 17.2,
+    'female': 15.9
+} {
+    'country': 'India',
+    'year': 2000,
+    'both_sexes': 17.0,
+    'male': 17.5,
+    'female': 16.4
+} {
+    'country': 'Indonesia',
+    'year': 2019,
+    'both_sexes': 2.4,
+    'male': 3.7,
+    'female': 1.1
+} {
+    'country': 'Indonesia',
+    'year': 2018,
+    'both_sexes': 2.4,
+    'male': 3.7,
+    'female': 1.1
+} {
+    'country': 'Indonesia',
+    'year': 2017,
+    'both_sexes': 2.4,
+    'male': 3.7,
+    'female': 1.1
+} {
+    'country': 'Indonesia',
+    'year': 2016,
+    'both_sexes': 2.4,
+    'male': 3.7,
+    'female': 1.1
+} {
+    'country': 'Indonesia',
+    'year': 2015,
+    'both_sexes': 2.4,
+    'male': 3.6,
+    'female': 1.1
+} {
+    'country': 'Indonesia',
+    'year': 2014,
+    'both_sexes': 2.4,
+    'male': 3.6,
+    'female': 1.2
+} {
+    'country': 'Indonesia',
+    'year': 2013,
+    'both_sexes': 2.5,
+    'male': 3.7,
+    'female': 1.2
+} {
+    'country': 'Indonesia',
+    'year': 2012,
+    'both_sexes': 2.5,
+    'male': 3.8,
+    'female': 1.2
+} {
+    'country': 'Indonesia',
+    'year': 2011,
+    'both_sexes': 2.6,
+    'male': 3.9,
+    'female': 1.3
+} {
+    'country': 'Indonesia',
+    'year': 2010,
+    'both_sexes': 2.6,
+    'male': 3.9,
+    'female': 1.3
+} {
+    'country': 'Indonesia',
+    'year': 2009,
+    'both_sexes': 2.7,
+    'male': 4.0,
+    'female': 1.4
+} {
+    'country': 'Indonesia',
+    'year': 2008,
+    'both_sexes': 2.8,
+    'male': 4.1,
+    'female': 1.4
+} {
+    'country': 'Indonesia',
+    'year': 2007,
+    'both_sexes': 2.9,
+    'male': 4.3,
+    'female': 1.4
+} {
+    'country': 'Indonesia',
+    'year': 2006,
+    'both_sexes': 2.9,
+    'male': 4.3,
+    'female': 1.5
+} {
+    'country': 'Indonesia',
+    'year': 2005,
+    'both_sexes': 3.0,
+    'male': 4.5,
+    'female': 1.5
+} {
+    'country': 'Indonesia',
+    'year': 2004,
+    'both_sexes': 3.2,
+    'male': 4.7,
+    'female': 1.6
+} {
+    'country': 'Indonesia',
+    'year': 2003,
+    'both_sexes': 3.2,
+    'male': 4.8,
+    'female': 1.7
+} {
+    'country': 'Indonesia',
+    'year': 2002,
+    'both_sexes': 3.3,
+    'male': 4.9,
+    'female': 1.8
+} {
+    'country': 'Indonesia',
+    'year': 2001,
+    'both_sexes': 3.4,
+    'male': 4.9,
+    'female': 1.8
+} {
+    'country': 'Indonesia',
+    'year': 2000,
+    'both_sexes': 3.5,
+    'male': 5.0,
+    'female': 1.9
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2019,
+    'both_sexes': 5.2,
+    'male': 7.7,
+    'female': 2.8
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2018,
+    'both_sexes': 5.7,
+    'male': 8.4,
+    'female': 2.9
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2017,
+    'both_sexes': 6.0,
+    'male': 9.0,
+    'female': 3.0
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2016,
+    'both_sexes': 6.2,
+    'male': 9.2,
+    'female': 3.2
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2015,
+    'both_sexes': 6.3,
+    'male': 9.3,
+    'female': 3.3
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2014,
+    'both_sexes': 6.5,
+    'male': 9.3,
+    'female': 3.6
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2013,
+    'both_sexes': 6.6,
+    'male': 9.4,
+    'female': 3.8
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2012,
+    'both_sexes': 6.7,
+    'male': 9.4,
+    'female': 4.1
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2011,
+    'both_sexes': 6.8,
+    'male': 9.2,
+    'female': 4.3
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2010,
+    'both_sexes': 6.3,
+    'male': 8.3,
+    'female': 4.3
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2009,
+    'both_sexes': 6.2,
+    'male': 8.0,
+    'female': 4.3
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2008,
+    'both_sexes': 6.2,
+    'male': 7.8,
+    'female': 4.5
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2007,
+    'both_sexes': 6.4,
+    'male': 8.0,
+    'female': 4.8
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2006,
+    'both_sexes': 6.0,
+    'male': 7.3,
+    'female': 4.6
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2005,
+    'both_sexes': 6.3,
+    'male': 7.6,
+    'female': 4.9
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2004,
+    'both_sexes': 6.7,
+    'male': 8.1,
+    'female': 5.3
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2003,
+    'both_sexes': 7.0,
+    'male': 8.3,
+    'female': 5.5
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2002,
+    'both_sexes': 7.5,
+    'male': 9.1,
+    'female': 5.9
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2001,
+    'both_sexes': 7.8,
+    'male': 9.3,
+    'female': 6.1
+} {
+    'country': 'Iran (Islamic Republic of)',
+    'year': 2000,
+    'both_sexes': 8.0,
+    'male': 9.7,
+    'female': 6.2
+} {
+    'country': 'Iraq',
+    'year': 2019,
+    'both_sexes': 3.6,
+    'male': 5.2,
+    'female': 2.0
+} {
+    'country': 'Iraq',
+    'year': 2018,
+    'both_sexes': 3.7,
+    'male': 5.4,
+    'female': 2.1
+} {
+    'country': 'Iraq',
+    'year': 2017,
+    'both_sexes': 3.9,
+    'male': 5.6,
+    'female': 2.2
+} {
+    'country': 'Iraq',
+    'year': 2016,
+    'both_sexes': 4.0,
+    'male': 5.7,
+    'female': 2.3
+} {
+    'country': 'Iraq',
+    'year': 2015,
+    'both_sexes': 4.1,
+    'male': 5.8,
+    'female': 2.4
+} {
+    'country': 'Iraq',
+    'year': 2014,
+    'both_sexes': 4.1,
+    'male': 5.8,
+    'female': 2.4
+} {
+    'country': 'Iraq',
+    'year': 2013,
+    'both_sexes': 4.2,
+    'male': 5.9,
+    'female': 2.5
+} {
+    'country': 'Iraq',
+    'year': 2012,
+    'both_sexes': 4.1,
+    'male': 5.6,
+    'female': 2.6
+} {
+    'country': 'Iraq',
+    'year': 2011,
+    'both_sexes': 4.1,
+    'male': 5.5,
+    'female': 2.6
+} {
+    'country': 'Iraq',
+    'year': 2010,
+    'both_sexes': 3.9,
+    'male': 5.2,
+    'female': 2.5
+} {
+    'country': 'Iraq',
+    'year': 2009,
+    'both_sexes': 3.7,
+    'male': 5.0,
+    'female': 2.4
+} {
+    'country': 'Iraq',
+    'year': 2008,
+    'both_sexes': 3.6,
+    'male': 4.8,
+    'female': 2.3
+} {
+    'country': 'Iraq',
+    'year': 2007,
+    'both_sexes': 3.7,
+    'male': 5.1,
+    'female': 2.3
+} {
+    'country': 'Iraq',
+    'year': 2006,
+    'both_sexes': 3.8,
+    'male': 5.2,
+    'female': 2.4
+} {
+    'country': 'Iraq',
+    'year': 2005,
+    'both_sexes': 3.8,
+    'male': 5.1,
+    'female': 2.5
+} {
+    'country': 'Iraq',
+    'year': 2004,
+    'both_sexes': 3.8,
+    'male': 5.0,
+    'female': 2.5
+} {
+    'country': 'Iraq',
+    'year': 2003,
+    'both_sexes': 3.8,
+    'male': 5.1,
+    'female': 2.5
+} {
+    'country': 'Iraq',
+    'year': 2002,
+    'both_sexes': 3.8,
+    'male': 4.8,
+    'female': 2.7
+} {
+    'country': 'Iraq',
+    'year': 2001,
+    'both_sexes': 3.8,
+    'male': 4.8,
+    'female': 2.7
+} {
+    'country': 'Iraq',
+    'year': 2000,
+    'both_sexes': 3.8,
+    'male': 4.9,
+    'female': 2.7
+} {
+    'country': 'Ireland',
+    'year': 2019,
+    'both_sexes': 9.6,
+    'male': 15.4,
+    'female': 3.9
+} {
+    'country': 'Ireland',
+    'year': 2018,
+    'both_sexes': 9.9,
+    'male': 15.8,
+    'female': 4.0
+} {
+    'country': 'Ireland',
+    'year': 2017,
+    'both_sexes': 10.0,
+    'male': 16.1,
+    'female': 4.1
+} {
+    'country': 'Ireland',
+    'year': 2016,
+    'both_sexes': 10.0,
+    'male': 16.1,
+    'female': 4.0
+} {
+    'country': 'Ireland',
+    'year': 2015,
+    'both_sexes': 9.3,
+    'male': 14.7,
+    'female': 4.0
+} {
+    'country': 'Ireland',
+    'year': 2014,
+    'both_sexes': 11.0,
+    'male': 18.1,
+    'female': 4.0
+} {
+    'country': 'Ireland',
+    'year': 2013,
+    'both_sexes': 11.4,
+    'male': 18.2,
+    'female': 4.7
+} {
+    'country': 'Ireland',
+    'year': 2012,
+    'both_sexes': 12.4,
+    'male': 20.3,
+    'female': 4.5
+} {
+    'country': 'Ireland',
+    'year': 2011,
+    'both_sexes': 12.5,
+    'male': 20.6,
+    'female': 4.6
+} {
+    'country': 'Ireland',
+    'year': 2010,
+    'both_sexes': 11.9,
+    'male': 18.5,
+    'female': 5.4
+} {
+    'country': 'Ireland',
+    'year': 2009,
+    'both_sexes': 14.0,
+    'male': 22.8,
+    'female': 5.4
+} {
+    'country': 'Ireland',
+    'year': 2008,
+    'both_sexes': 12.2,
+    'male': 18.6,
+    'female': 5.9
+} {
+    'country': 'Ireland',
+    'year': 2007,
+    'both_sexes': 11.5,
+    'male': 18.0,
+    'female': 5.0
+} {
+    'country': 'Ireland',
+    'year': 2006,
+    'both_sexes': 10.9,
+    'male': 17.3,
+    'female': 4.5
+} {
+    'country': 'Ireland',
+    'year': 2005,
+    'both_sexes': 11.8,
+    'male': 18.6,
+    'female': 5.1
+} {
+    'country': 'Ireland',
+    'year': 2004,
+    'both_sexes': 11.9,
+    'male': 19.7,
+    'female': 4.2
+} {
+    'country': 'Ireland',
+    'year': 2003,
+    'both_sexes': 12.1,
+    'male': 18.7,
+    'female': 5.6
+} {
+    'country': 'Ireland',
+    'year': 2002,
+    'both_sexes': 12.2,
+    'male': 20.0,
+    'female': 4.5
+} {
+    'country': 'Ireland',
+    'year': 2001,
+    'both_sexes': 13.2,
+    'male': 22.0,
+    'female': 4.5
+} {
+    'country': 'Ireland',
+    'year': 2000,
+    'both_sexes': 12.7,
+    'male': 20.7,
+    'female': 4.8
+} {
+    'country': 'Israel',
+    'year': 2019,
+    'both_sexes': 5.3,
+    'male': 8.4,
+    'female': 2.3
+} {
+    'country': 'Israel',
+    'year': 2018,
+    'both_sexes': 5.4,
+    'male': 8.5,
+    'female': 2.4
+} {
+    'country': 'Israel',
+    'year': 2017,
+    'both_sexes': 5.1,
+    'male': 7.8,
+    'female': 2.5
+} {
+    'country': 'Israel',
+    'year': 2016,
+    'both_sexes': 5.2,
+    'male': 8.4,
+    'female': 2.1
+} {
+    'country': 'Israel',
+    'year': 2015,
+    'both_sexes': 4.5,
+    'male': 7.1,
+    'female': 2.1
+} {
+    'country': 'Israel',
+    'year': 2014,
+    'both_sexes': 5.1,
+    'male': 7.8,
+    'female': 2.5
+} {
+    'country': 'Israel',
+    'year': 2013,
+    'both_sexes': 5.2,
+    'male': 7.9,
+    'female': 2.6
+} {
+    'country': 'Israel',
+    'year': 2012,
+    'both_sexes': 6.1,
+    'male': 10.0,
+    'female': 2.3
+} {
+    'country': 'Israel',
+    'year': 2011,
+    'both_sexes': 5.7,
+    'male': 9.0,
+    'female': 2.4
+} {
+    'country': 'Israel',
+    'year': 2010,
+    'both_sexes': 6.7,
+    'male': 11.0,
+    'female': 2.5
+} {
+    'country': 'Israel',
+    'year': 2009,
+    'both_sexes': 6.0,
+    'male': 9.3,
+    'female': 2.7
+} {
+    'country': 'Israel',
+    'year': 2008,
+    'both_sexes': 5.3,
+    'male': 8.7,
+    'female': 2.0
+} {
+    'country': 'Israel',
+    'year': 2007,
+    'both_sexes': 5.2,
+    'male': 8.4,
+    'female': 2.0
+} {
+    'country': 'Israel',
+    'year': 2006,
+    'both_sexes': 5.5,
+    'male': 8.3,
+    'female': 2.7
+} {
+    'country': 'Israel',
+    'year': 2005,
+    'both_sexes': 6.7,
+    'male': 9.8,
+    'female': 3.8
+} {
+    'country': 'Israel',
+    'year': 2004,
+    'both_sexes': 6.1,
+    'male': 9.7,
+    'female': 2.7
+} {
+    'country': 'Israel',
+    'year': 2003,
+    'both_sexes': 6.4,
+    'male': 10.5,
+    'female': 2.5
+} {
+    'country': 'Israel',
+    'year': 2002,
+    'both_sexes': 5.9,
+    'male': 8.9,
+    'female': 2.9
+} {
+    'country': 'Israel',
+    'year': 2001,
+    'both_sexes': 6.4,
+    'male': 10.4,
+    'female': 2.5
+} {
+    'country': 'Israel',
+    'year': 2000,
+    'both_sexes': 6.8,
+    'male': 10.7,
+    'female': 3.0
+} {
+    'country': 'Italy',
+    'year': 2019,
+    'both_sexes': 6.7,
+    'male': 10.1,
+    'female': 3.5
+} {
+    'country': 'Italy',
+    'year': 2018,
+    'both_sexes': 6.7,
+    'male': 10.2,
+    'female': 3.5
+} {
+    'country': 'Italy',
+    'year': 2017,
+    'both_sexes': 7.1,
+    'male': 10.8,
+    'female': 3.5
+} {
+    'country': 'Italy',
+    'year': 2016,
+    'both_sexes': 6.6,
+    'male': 10.1,
+    'female': 3.2
+} {
+    'country': 'Italy',
+    'year': 2015,
+    'both_sexes': 7.1,
+    'male': 10.9,
+    'female': 3.6
+} {
+    'country': 'Italy',
+    'year': 2014,
+    'both_sexes': 7.2,
+    'male': 11.2,
+    'female': 3.5
+} {
+    'country': 'Italy',
+    'year': 2013,
+    'both_sexes': 7.5,
+    'male': 11.6,
+    'female': 3.7
+} {
+    'country': 'Italy',
+    'year': 2012,
+    'both_sexes': 7.6,
+    'male': 11.8,
+    'female': 3.6
+} {
+    'country': 'Italy',
+    'year': 2011,
+    'both_sexes': 7.4,
+    'male': 11.6,
+    'female': 3.3
+} {
+    'country': 'Italy',
+    'year': 2010,
+    'both_sexes': 6.9,
+    'male': 10.8,
+    'female': 3.2
+} {
+    'country': 'Italy',
+    'year': 2009,
+    'both_sexes': 7.0,
+    'male': 10.8,
+    'female': 3.4
+} {
+    'country': 'Italy',
+    'year': 2008,
+    'both_sexes': 6.9,
+    'male': 10.5,
+    'female': 3.4
+} {
+    'country': 'Italy',
+    'year': 2007,
+    'both_sexes': 6.7,
+    'male': 10.2,
+    'female': 3.3
+} {
+    'country': 'Italy',
+    'year': 2006,
+    'both_sexes': 6.7,
+    'male': 10.2,
+    'female': 3.4
+} {
+    'country': 'Italy',
+    'year': 2005,
+    'both_sexes': 6.7,
+    'male': 10.1,
+    'female': 3.5
+} {
+    'country': 'Italy',
+    'year': 2004,
+    'both_sexes': 7.2,
+    'male': 11.0,
+    'female': 3.5
+} {
+    'country': 'Italy',
+    'year': 2003,
+    'both_sexes': 7.4,
+    'male': 11.2,
+    'female': 3.8
+} {
+    'country': 'Italy',
+    'year': 2002,
+    'both_sexes': 7.4,
+    'male': 11.6,
+    'female': 3.5
+} {
+    'country': 'Italy',
+    'year': 2001,
+    'both_sexes': 7.3,
+    'male': 11.3,
+    'female': 3.6
+} {
+    'country': 'Italy',
+    'year': 2000,
+    'both_sexes': 7.5,
+    'male': 11.4,
+    'female': 3.9
+} {
+    'country': 'Jamaica',
+    'year': 2019,
+    'both_sexes': 2.4,
+    'male': 3.7,
+    'female': 1.1
+} {
+    'country': 'Jamaica',
+    'year': 2015,
+    'both_sexes': 2.2,
+    'male': 3.4,
+    'female': 1.1
+} {
+    'country': 'Japan',
+    'year': 2019,
+    'both_sexes': 15.3,
+    'male': 21.8,
+    'female': 9.2
+} {
+    'country': 'Japan',
+    'year': 2018,
+    'both_sexes': 16.7,
+    'male': 23.5,
+    'female': 10.2
+} {
+    'country': 'Japan',
+    'year': 2017,
+    'both_sexes': 17.0,
+    'male': 24.2,
+    'female': 10.1
+} {
+    'country': 'Japan',
+    'year': 2016,
+    'both_sexes': 17.5,
+    'male': 24.8,
+    'female': 10.5
+} {
+    'country': 'Japan',
+    'year': 2015,
+    'both_sexes': 19.1,
+    'male': 27.2,
+    'female': 11.4
+} {
+    'country': 'Japan',
+    'year': 2014,
+    'both_sexes': 20.1,
+    'male': 28.2,
+    'female': 12.3
+} {
+    'country': 'Japan',
+    'year': 2013,
+    'both_sexes': 21.4,
+    'male': 30.2,
+    'female': 12.9
+} {
+    'country': 'Japan',
+    'year': 2012,
+    'both_sexes': 21.6,
+    'male': 30.7,
+    'female': 12.9
+} {
+    'country': 'Japan',
+    'year': 2011,
+    'both_sexes': 23.4,
+    'male': 32.8,
+    'female': 14.3
+} {
+    'country': 'Japan',
+    'year': 2010,
+    'both_sexes': 24.1,
+    'male': 34.9,
+    'female': 13.8
+} {
+    'country': 'Japan',
+    'year': 2009,
+    'both_sexes': 24.9,
+    'male': 36.6,
+    'female': 13.8
+} {
+    'country': 'Japan',
+    'year': 2008,
+    'both_sexes': 24.4,
+    'male': 35.4,
+    'female': 13.9
+} {
+    'country': 'Japan',
+    'year': 2007,
+    'both_sexes': 25.0,
+    'male': 36.2,
+    'female': 14.2
+} {
+    'country': 'Japan',
+    'year': 2006,
+    'both_sexes': 23.9,
+    'male': 34.7,
+    'female': 13.5
+} {
+    'country': 'Japan',
+    'year': 2005,
+    'both_sexes': 24.3,
+    'male': 35.9,
+    'female': 13.2
+} {
+    'country': 'Japan',
+    'year': 2004,
+    'both_sexes': 24.1,
+    'male': 35.5,
+    'female': 13.2
+} {
+    'country': 'Japan',
+    'year': 2003,
+    'both_sexes': 25.6,
+    'male': 37.8,
+    'female': 13.8
+} {
+    'country': 'Japan',
+    'year': 2002,
+    'both_sexes': 23.8,
+    'male': 34.9,
+    'female': 13.1
+} {
+    'country': 'Japan',
+    'year': 2001,
+    'both_sexes': 23.2,
+    'male': 33.7,
+    'female': 13.0
+} {
+    'country': 'Japan',
+    'year': 2000,
+    'both_sexes': 23.9,
+    'male': 34.6,
+    'female': 13.6
+} {
+    'country': 'Jordan',
+    'year': 2006,
+    'both_sexes': 1.9,
+    'male': 2.5,
+    'female': 1.2
+} {
+    'country': 'Jordan',
+    'year': 2005,
+    'both_sexes': 2.0,
+    'male': 2.6,
+    'female': 1.3
+} {
+    'country': 'Jordan',
+    'year': 2004,
+    'both_sexes': 2.2,
+    'male': 2.9,
+    'female': 1.6
+} {
+    'country': 'Jordan',
+    'year': 2003,
+    'both_sexes': 2.3,
+    'male': 3.0,
+    'female': 1.6
+} {
+    'country': 'Jordan',
+    'year': 2002,
+    'both_sexes': 2.3,
+    'male': 3.0,
+    'female': 1.6
+} {
+    'country': 'Jordan',
+    'year': 2001,
+    'both_sexes': 2.4,
+    'male': 3.2,
+    'female': 1.7
+} {
+    'country': 'Jordan',
+    'year': 2000,
+    'both_sexes': 2.5,
+    'male': 3.2,
+    'female': 1.8
+} {
+    'country': 'Kazakhstan',
+    'year': 2019,
+    'both_sexes': 17.6,
+    'male': 29.0,
+    'female': 6.8
+} {
+    'country': 'Kazakhstan',
+    'year': 2018,
+    'both_sexes': 19.0,
+    'male': 31.5,
+    'female': 7.1
+} {
+    'country': 'Kazakhstan',
+    'year': 2017,
+    'both_sexes': 20.8,
+    'male': 34.9,
+    'female': 7.6
+} {
+    'country': 'Kazakhstan',
+    'year': 2016,
+    'both_sexes': 21.7,
+    'male': 36.6,
+    'female': 7.8
+} {
+    'country': 'Kazakhstan',
+    'year': 2015,
+    'both_sexes': 23.2,
+    'male': 39.3,
+    'female': 8.2
+} {
+    'country': 'Kazakhstan',
+    'year': 2014,
+    'both_sexes': 24.2,
+    'male': 40.9,
+    'female': 8.5
+} {
+    'country': 'Kazakhstan',
+    'year': 2013,
+    'both_sexes': 26.3,
+    'male': 44.6,
+    'female': 9.2
+} {
+    'country': 'Kazakhstan',
+    'year': 2012,
+    'both_sexes': 27.6,
+    'male': 46.8,
+    'female': 9.6
+} {
+    'country': 'Kazakhstan',
+    'year': 2011,
+    'both_sexes': 28.7,
+    'male': 48.7,
+    'female': 10.0
+} {
+    'country': 'Kazakhstan',
+    'year': 2010,
+    'both_sexes': 29.9,
+    'male': 50.7,
+    'female': 10.5
+} {
+    'country': 'Kazakhstan',
+    'year': 2009,
+    'both_sexes': 30.3,
+    'male': 51.0,
+    'female': 10.9
+} {
+    'country': 'Kazakhstan',
+    'year': 2008,
+    'both_sexes': 34.6,
+    'male': 58.8,
+    'female': 12.0
+} {
+    'country': 'Kazakhstan',
+    'year': 2007,
+    'both_sexes': 38.0,
+    'male': 65.7,
+    'female': 12.3
+} {
+    'country': 'Kazakhstan',
+    'year': 2006,
+    'both_sexes': 38.0,
+    'male': 65.6,
+    'female': 12.3
+} {
+    'country': 'Kazakhstan',
+    'year': 2005,
+    'both_sexes': 39.2,
+    'male': 68.2,
+    'female': 12.3
+} {
+    'country': 'Kazakhstan',
+    'year': 2004,
+    'both_sexes': 39.7,
+    'male': 69.2,
+    'female': 12.4
+} {
+    'country': 'Kazakhstan',
+    'year': 2003,
+    'both_sexes': 39.2,
+    'male': 68.1,
+    'female': 12.4
+} {
+    'country': 'Kazakhstan',
+    'year': 2002,
+    'both_sexes': 38.2,
+    'male': 66.4,
+    'female': 12.1
+} {
+    'country': 'Kazakhstan',
+    'year': 2001,
+    'both_sexes': 39.0,
+    'male': 68.4,
+    'female': 11.8
+} {
+    'country': 'Kazakhstan',
+    'year': 2000,
+    'both_sexes': 38.7,
+    'male': 68.1,
+    'female': 11.5
+} {
+    'country': 'Kenya',
+    'year': 2019,
+    'both_sexes': 6.1,
+    'male': 9.1,
+    'female': 3.2
+} {
+    'country': 'Kenya',
+    'year': 2018,
+    'both_sexes': 6.0,
+    'male': 9.0,
+    'female': 3.1
+} {
+    'country': 'Kenya',
+    'year': 2017,
+    'both_sexes': 5.6,
+    'male': 8.4,
+    'female': 2.8
+} {
+    'country': 'Kenya',
+    'year': 2016,
+    'both_sexes': 5.4,
+    'male': 8.1,
+    'female': 2.8
+} {
+    'country': 'Kenya',
+    'year': 2015,
+    'both_sexes': 5.5,
+    'male': 8.0,
+    'female': 2.9
+} {
+    'country': 'Kenya',
+    'year': 2014,
+    'both_sexes': 5.7,
+    'male': 8.3,
+    'female': 3.1
+} {
+    'country': 'Kenya',
+    'year': 2013,
+    'both_sexes': 5.9,
+    'male': 8.7,
+    'female': 3.2
+} {
+    'country': 'Kenya',
+    'year': 2012,
+    'both_sexes': 5.9,
+    'male': 8.8,
+    'female': 3.0
+} {
+    'country': 'Kenya',
+    'year': 2011,
+    'both_sexes': 5.9,
+    'male': 8.7,
+    'female': 3.1
+} {
+    'country': 'Kenya',
+    'year': 2010,
+    'both_sexes': 6.0,
+    'male': 8.6,
+    'female': 3.4
+} {
+    'country': 'Kenya',
+    'year': 2009,
+    'both_sexes': 6.0,
+    'male': 8.7,
+    'female': 3.3
+} {
+    'country': 'Kenya',
+    'year': 2008,
+    'both_sexes': 6.2,
+    'male': 9.1,
+    'female': 3.4
+} {
+    'country': 'Kenya',
+    'year': 2007,
+    'both_sexes': 6.3,
+    'male': 9.3,
+    'female': 3.4
+} {
+    'country': 'Kenya',
+    'year': 2006,
+    'both_sexes': 6.0,
+    'male': 9.1,
+    'female': 3.0
+} {
+    'country': 'Kenya',
+    'year': 2005,
+    'both_sexes': 6.0,
+    'male': 9.2,
+    'female': 3.0
+} {
+    'country': 'Kenya',
+    'year': 2004,
+    'both_sexes': 5.7,
+    'male': 8.6,
+    'female': 2.7
+} {
+    'country': 'Kenya',
+    'year': 2003,
+    'both_sexes': 6.1,
+    'male': 9.0,
+    'female': 3.2
+} {
+    'country': 'Kenya',
+    'year': 2002,
+    'both_sexes': 6.4,
+    'male': 9.4,
+    'female': 3.6
+} {
+    'country': 'Kenya',
+    'year': 2001,
+    'both_sexes': 6.9,
+    'male': 10.0,
+    'female': 3.9
+} {
+    'country': 'Kenya',
+    'year': 2000,
+    'both_sexes': 7.6,
+    'male': 10.8,
+    'female': 4.4
+} {
+    'country': 'Kiribati',
+    'year': 2019,
+    'both_sexes': 28.3,
+    'male': 48.6,
+    'female': 8.7
+} {
+    'country': 'Kiribati',
+    'year': 2018,
+    'both_sexes': 28.1,
+    'male': 48.2,
+    'female': 8.6
+} {
+    'country': 'Kiribati',
+    'year': 2017,
+    'both_sexes': 29.6,
+    'male': 50.8,
+    'female': 9.1
+} {
+    'country': 'Kiribati',
+    'year': 2016,
+    'both_sexes': 29.5,
+    'male': 50.5,
+    'female': 9.3
+} {
+    'country': 'Kiribati',
+    'year': 2015,
+    'both_sexes': 29.7,
+    'male': 50.8,
+    'female': 9.4
+} {
+    'country': 'Kiribati',
+    'year': 2014,
+    'both_sexes': 29.8,
+    'male': 50.7,
+    'female': 9.5
+} {
+    'country': 'Kiribati',
+    'year': 2013,
+    'both_sexes': 30.5,
+    'male': 52.0,
+    'female': 9.6
+} {
+    'country': 'Kiribati',
+    'year': 2012,
+    'both_sexes': 30.0,
+    'male': 51.1,
+    'female': 9.6
+} {
+    'country': 'Kiribati',
+    'year': 2011,
+    'both_sexes': 30.8,
+    'male': 52.6,
+    'female': 9.7
+} {
+    'country': 'Kiribati',
+    'year': 2010,
+    'both_sexes': 30.7,
+    'male': 52.4,
+    'female': 9.7
+} {
+    'country': 'Kiribati',
+    'year': 2009,
+    'both_sexes': 30.9,
+    'male': 52.8,
+    'female': 9.8
+} {
+    'country': 'Kiribati',
+    'year': 2008,
+    'both_sexes': 31.5,
+    'male': 53.8,
+    'female': 9.9
+} {
+    'country': 'Kiribati',
+    'year': 2007,
+    'both_sexes': 30.9,
+    'male': 52.7,
+    'female': 9.8
+} {
+    'country': 'Kiribati',
+    'year': 2006,
+    'both_sexes': 29.4,
+    'male': 49.7,
+    'female': 9.6
+} {
+    'country': 'Kiribati',
+    'year': 2005,
+    'both_sexes': 30.1,
+    'male': 51.2,
+    'female': 9.6
+} {
+    'country': 'Kiribati',
+    'year': 2004,
+    'both_sexes': 29.3,
+    'male': 49.6,
+    'female': 9.6
+} {
+    'country': 'Kiribati',
+    'year': 2003,
+    'both_sexes': 29.4,
+    'male': 49.8,
+    'female': 9.6
+} {
+    'country': 'Kiribati',
+    'year': 2002,
+    'both_sexes': 30.9,
+    'male': 52.6,
+    'female': 9.8
+} {
+    'country': 'Kiribati',
+    'year': 2001,
+    'both_sexes': 31.1,
+    'male': 53.1,
+    'female': 9.8
+} {
+    'country': 'Kiribati',
+    'year': 2000,
+    'both_sexes': 31.2,
+    'male': 53.1,
+    'female': 9.9
+} {
+    'country': 'Kuwait',
+    'year': 2009,
+    'both_sexes': 2.7,
+    'male': 3.8,
+    'female': 1.1
+} {
+    'country': 'Kuwait',
+    'year': 2008,
+    'both_sexes': 2.9,
+    'male': 4.1,
+    'female': 1.2
+} {
+    'country': 'Kuwait',
+    'year': 2007,
+    'both_sexes': 2.6,
+    'male': 3.6,
+    'female': 1.2
+} {
+    'country': 'Kuwait',
+    'year': 2006,
+    'both_sexes': 2.7,
+    'male': 3.7,
+    'female': 1.2
+} {
+    'country': 'Kuwait',
+    'year': 2005,
+    'both_sexes': 2.6,
+    'male': 3.6,
+    'female': 1.3
+} {
+    'country': 'Kuwait',
+    'year': 2004,
+    'both_sexes': 2.7,
+    'male': 3.6,
+    'female': 1.3
+} {
+    'country': 'Kuwait',
+    'year': 2003,
+    'both_sexes': 2.6,
+    'male': 3.5,
+    'female': 1.3
+} {
+    'country': 'Kuwait',
+    'year': 2002,
+    'both_sexes': 2.8,
+    'male': 3.7,
+    'female': 1.4
+} {
+    'country': 'Kuwait',
+    'year': 2001,
+    'both_sexes': 2.6,
+    'male': 3.4,
+    'female': 1.5
+} {
+    'country': 'Kuwait',
+    'year': 2000,
+    'both_sexes': 3.0,
+    'male': 4.0,
+    'female': 1.6
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2019,
+    'both_sexes': 7.4,
+    'male': 11.7,
+    'female': 3.2
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2018,
+    'both_sexes': 8.0,
+    'male': 12.7,
+    'female': 3.4
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2017,
+    'both_sexes': 8.3,
+    'male': 13.2,
+    'female': 3.5
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2016,
+    'both_sexes': 8.6,
+    'male': 13.7,
+    'female': 3.7
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2015,
+    'both_sexes': 9.9,
+    'male': 16.1,
+    'female': 3.9
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2014,
+    'both_sexes': 10.5,
+    'male': 17.0,
+    'female': 4.1
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2013,
+    'both_sexes': 10.5,
+    'male': 17.1,
+    'female': 4.0
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2012,
+    'both_sexes': 10.9,
+    'male': 17.6,
+    'female': 4.4
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2011,
+    'both_sexes': 11.3,
+    'male': 17.9,
+    'female': 4.8
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2010,
+    'both_sexes': 11.4,
+    'male': 18.3,
+    'female': 4.6
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2009,
+    'both_sexes': 11.9,
+    'male': 19.2,
+    'female': 4.8
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2008,
+    'both_sexes': 12.3,
+    'male': 20.1,
+    'female': 4.6
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2007,
+    'both_sexes': 12.6,
+    'male': 20.7,
+    'female': 4.7
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2006,
+    'both_sexes': 13.1,
+    'male': 21.7,
+    'female': 4.7
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2005,
+    'both_sexes': 13.2,
+    'male': 21.7,
+    'female': 4.8
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2004,
+    'both_sexes': 12.6,
+    'male': 20.9,
+    'female': 4.4
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2003,
+    'both_sexes': 13.2,
+    'male': 22.0,
+    'female': 4.6
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2002,
+    'both_sexes': 14.0,
+    'male': 23.5,
+    'female': 4.7
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2001,
+    'both_sexes': 14.1,
+    'male': 24.0,
+    'female': 4.3
+} {
+    'country': 'Kyrgyzstan',
+    'year': 2000,
+    'both_sexes': 14.8,
+    'male': 25.0,
+    'female': 4.8
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2019,
+    'both_sexes': 5.4,
+    'male': 7.6,
+    'female': 3.2
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2018,
+    'both_sexes': 5.6,
+    'male': 7.9,
+    'female': 3.3
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2017,
+    'both_sexes': 5.6,
+    'male': 7.9,
+    'female': 3.4
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2016,
+    'both_sexes': 5.6,
+    'male': 7.7,
+    'female': 3.4
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2015,
+    'both_sexes': 5.6,
+    'male': 7.7,
+    'female': 3.5
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2014,
+    'both_sexes': 5.5,
+    'male': 7.5,
+    'female': 3.5
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2013,
+    'both_sexes': 5.7,
+    'male': 7.7,
+    'female': 3.7
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2012,
+    'both_sexes': 5.7,
+    'male': 7.6,
+    'female': 3.8
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2011,
+    'both_sexes': 5.9,
+    'male': 7.8,
+    'female': 4.1
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2010,
+    'both_sexes': 6.0,
+    'male': 7.8,
+    'female': 4.2
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2009,
+    'both_sexes': 6.1,
+    'male': 8.0,
+    'female': 4.3
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2008,
+    'both_sexes': 6.3,
+    'male': 8.1,
+    'female': 4.5
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2007,
+    'both_sexes': 6.3,
+    'male': 8.1,
+    'female': 4.6
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2006,
+    'both_sexes': 6.4,
+    'male': 8.1,
+    'female': 4.8
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2005,
+    'both_sexes': 6.5,
+    'male': 8.1,
+    'female': 5.0
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2004,
+    'both_sexes': 6.5,
+    'male': 8.0,
+    'female': 5.0
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2003,
+    'both_sexes': 6.5,
+    'male': 7.9,
+    'female': 5.2
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2002,
+    'both_sexes': 6.7,
+    'male': 8.0,
+    'female': 5.4
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2001,
+    'both_sexes': 6.9,
+    'male': 8.2,
+    'female': 5.6
+} {
+    'country': "Lao People's Democratic Republic",
+    'year': 2000,
+    'both_sexes': 6.9,
+    'male': 8.2,
+    'female': 5.6
+} {
+    'country': 'Latvia',
+    'year': 2019,
+    'both_sexes': 20.1,
+    'male': 35.5,
+    'female': 7.0
+} {
+    'country': 'Latvia',
+    'year': 2018,
+    'both_sexes': 18.1,
+    'male': 34.3,
+    'female': 4.3
+} {
+    'country': 'Latvia',
+    'year': 2017,
+    'both_sexes': 21.4,
+    'male': 36.9,
+    'female': 8.3
+} {
+    'country': 'Latvia',
+    'year': 2016,
+    'both_sexes': 21.3,
+    'male': 36.7,
+    'female': 8.2
+} {
+    'country': 'Latvia',
+    'year': 2015,
+    'both_sexes': 21.6,
+    'male': 37.2,
+    'female': 8.4
+} {
+    'country': 'Latvia',
+    'year': 2014,
+    'both_sexes': 20.7,
+    'male': 36.9,
+    'female': 7.1
+} {
+    'country': 'Latvia',
+    'year': 2013,
+    'both_sexes': 20.6,
+    'male': 37.7,
+    'female': 6.2
+} {
+    'country': 'Latvia',
+    'year': 2012,
+    'both_sexes': 23.5,
+    'male': 42.8,
+    'female': 7.3
+} {
+    'country': 'Latvia',
+    'year': 2011,
+    'both_sexes': 22.7,
+    'male': 41.0,
+    'female': 7.2
+} {
+    'country': 'Latvia',
+    'year': 2010,
+    'both_sexes': 22.5,
+    'male': 42.1,
+    'female': 5.9
+} {
+    'country': 'Latvia',
+    'year': 2009,
+    'both_sexes': 26.3,
+    'male': 46.6,
+    'female': 9.2
+} {
+    'country': 'Latvia',
+    'year': 2008,
+    'both_sexes': 26.4,
+    'male': 46.6,
+    'female': 9.3
+} {
+    'country': 'Latvia',
+    'year': 2007,
+    'both_sexes': 20.9,
+    'male': 36.1,
+    'female': 8.1
+} {
+    'country': 'Latvia',
+    'year': 2006,
+    'both_sexes': 23.2,
+    'male': 42.2,
+    'female': 7.1
+} {
+    'country': 'Latvia',
+    'year': 2005,
+    'both_sexes': 26.5,
+    'male': 45.9,
+    'female': 10.2
+} {
+    'country': 'Latvia',
+    'year': 2004,
+    'both_sexes': 26.8,
+    'male': 47.2,
+    'female': 9.5
+} {
+    'country': 'Latvia',
+    'year': 2003,
+    'both_sexes': 29.1,
+    'male': 50.3,
+    'female': 11.0
+} {
+    'country': 'Latvia',
+    'year': 2002,
+    'both_sexes': 31.5,
+    'male': 53.6,
+    'female': 12.8
+} {
+    'country': 'Latvia',
+    'year': 2001,
+    'both_sexes': 32.2,
+    'male': 56.5,
+    'female': 11.5
+} {
+    'country': 'Latvia',
+    'year': 2000,
+    'both_sexes': 34.7,
+    'male': 60.4,
+    'female': 12.8
+} {
+    'country': 'Lebanon',
+    'year': 2019,
+    'both_sexes': 2.8,
+    'male': 3.8,
+    'female': 1.7
+} {
+    'country': 'Lebanon',
+    'year': 2018,
+    'both_sexes': 2.5,
+    'male': 3.4,
+    'female': 1.6
+} {
+    'country': 'Lebanon',
+    'year': 2017,
+    'both_sexes': 3.0,
+    'male': 4.2,
+    'female': 1.8
+} {
+    'country': 'Lebanon',
+    'year': 2016,
+    'both_sexes': 2.7,
+    'male': 3.7,
+    'female': 1.7
+} {
+    'country': 'Lebanon',
+    'year': 2015,
+    'both_sexes': 2.8,
+    'male': 3.8,
+    'female': 1.7
+} {
+    'country': 'Lebanon',
+    'year': 2014,
+    'both_sexes': 2.8,
+    'male': 3.8,
+    'female': 1.8
+} {
+    'country': 'Lebanon',
+    'year': 2013,
+    'both_sexes': 3.0,
+    'male': 4.1,
+    'female': 1.8
+} {
+    'country': 'Lebanon',
+    'year': 2012,
+    'both_sexes': 3.0,
+    'male': 4.0,
+    'female': 1.8
+} {
+    'country': 'Lebanon',
+    'year': 2011,
+    'both_sexes': 3.0,
+    'male': 4.1,
+    'female': 1.9
+} {
+    'country': 'Lebanon',
+    'year': 2010,
+    'both_sexes': 3.0,
+    'male': 4.1,
+    'female': 1.9
+} {
+    'country': 'Lebanon',
+    'year': 2009,
+    'both_sexes': 3.0,
+    'male': 4.0,
+    'female': 1.9
+} {
+    'country': 'Lebanon',
+    'year': 2008,
+    'both_sexes': 2.9,
+    'male': 3.9,
+    'female': 1.9
+} {
+    'country': 'Lebanon',
+    'year': 2007,
+    'both_sexes': 2.9,
+    'male': 3.7,
+    'female': 1.9
+} {
+    'country': 'Lebanon',
+    'year': 2006,
+    'both_sexes': 2.5,
+    'male': 3.1,
+    'female': 1.8
+} {
+    'country': 'Lebanon',
+    'year': 2005,
+    'both_sexes': 2.7,
+    'male': 3.4,
+    'female': 1.9
+} {
+    'country': 'Lebanon',
+    'year': 2004,
+    'both_sexes': 2.7,
+    'male': 3.3,
+    'female': 2.0
+} {
+    'country': 'Lebanon',
+    'year': 2003,
+    'both_sexes': 2.6,
+    'male': 3.2,
+    'female': 2.0
+} {
+    'country': 'Lebanon',
+    'year': 2002,
+    'both_sexes': 2.7,
+    'male': 3.2,
+    'female': 2.1
+} {
+    'country': 'Lebanon',
+    'year': 2001,
+    'both_sexes': 2.7,
+    'male': 3.2,
+    'female': 2.2
+} {
+    'country': 'Lebanon',
+    'year': 2000,
+    'both_sexes': 2.8,
+    'male': 3.3,
+    'female': 2.3
+} {
+    'country': 'Lesotho',
+    'year': 2019,
+    'both_sexes': 72.4,
+    'male': 116.0,
+    'female': 30.1
+} {
+    'country': 'Lesotho',
+    'year': 2018,
+    'both_sexes': 76.6,
+    'male': 124.6,
+    'female': 29.9
+} {
+    'country': 'Lesotho',
+    'year': 2017,
+    'both_sexes': 78.3,
+    'male': 127.2,
+    'female': 30.8
+} {
+    'country': 'Lesotho',
+    'year': 2016,
+    'both_sexes': 87.0,
+    'male': 139.6,
+    'female': 36.0
+} {
+    'country': 'Lesotho',
+    'year': 2015,
+    'both_sexes': 92.4,
+    'male': 147.3,
+    'female': 39.3
+} {
+    'country': 'Lesotho',
+    'year': 2014,
+    'both_sexes': 92.6,
+    'male': 147.8,
+    'female': 39.5
+} {
+    'country': 'Lesotho',
+    'year': 2013,
+    'both_sexes': 87.6,
+    'male': 139.9,
+    'female': 37.5
+} {
+    'country': 'Lesotho',
+    'year': 2012,
+    'both_sexes': 79.1,
+    'male': 125.9,
+    'female': 34.5
+} {
+    'country': 'Lesotho',
+    'year': 2011,
+    'both_sexes': 69.5,
+    'male': 111.8,
+    'female': 29.4
+} {
+    'country': 'Lesotho',
+    'year': 2010,
+    'both_sexes': 65.4,
+    'male': 107.2,
+    'female': 25.9
+} {
+    'country': 'Lesotho',
+    'year': 2009,
+    'both_sexes': 63.3,
+    'male': 102.8,
+    'female': 26.0
+} {
+    'country': 'Lesotho',
+    'year': 2008,
+    'both_sexes': 57.8,
+    'male': 91.6,
+    'female': 25.9
+} {
+    'country': 'Lesotho',
+    'year': 2007,
+    'both_sexes': 45.0,
+    'male': 72.5,
+    'female': 19.1
+} {
+    'country': 'Lesotho',
+    'year': 2006,
+    'both_sexes': 40.3,
+    'male': 63.2,
+    'female': 18.8
+} {
+    'country': 'Lesotho',
+    'year': 2005,
+    'both_sexes': 33.6,
+    'male': 54.1,
+    'female': 14.4
+} {
+    'country': 'Lesotho',
+    'year': 2004,
+    'both_sexes': 33.5,
+    'male': 53.4,
+    'female': 15.0
+} {
+    'country': 'Lesotho',
+    'year': 2003,
+    'both_sexes': 31.9,
+    'male': 50.6,
+    'female': 14.7
+} {
+    'country': 'Lesotho',
+    'year': 2002,
+    'both_sexes': 29.2,
+    'male': 46.8,
+    'female': 12.9
+} {
+    'country': 'Lesotho',
+    'year': 2001,
+    'both_sexes': 27.3,
+    'male': 43.7,
+    'female': 12.3
+} {
+    'country': 'Lesotho',
+    'year': 2000,
+    'both_sexes': 28.6,
+    'male': 45.7,
+    'female': 12.7
+} {
+    'country': 'Liberia',
+    'year': 2019,
+    'both_sexes': 4.5,
+    'male': 5.6,
+    'female': 3.3
+} {
+    'country': 'Liberia',
+    'year': 2018,
+    'both_sexes': 4.4,
+    'male': 5.3,
+    'female': 3.5
+} {
+    'country': 'Liberia',
+    'year': 2017,
+    'both_sexes': 4.5,
+    'male': 5.3,
+    'female': 3.7
+} {
+    'country': 'Liberia',
+    'year': 2016,
+    'both_sexes': 4.5,
+    'male': 5.3,
+    'female': 3.7
+} {
+    'country': 'Liberia',
+    'year': 2015,
+    'both_sexes': 4.5,
+    'male': 5.3,
+    'female': 3.7
+} {
+    'country': 'Liberia',
+    'year': 2014,
+    'both_sexes': 4.9,
+    'male': 5.8,
+    'female': 4.0
+} {
+    'country': 'Liberia',
+    'year': 2013,
+    'both_sexes': 4.9,
+    'male': 5.9,
+    'female': 3.9
+} {
+    'country': 'Liberia',
+    'year': 2012,
+    'both_sexes': 5.0,
+    'male': 6.0,
+    'female': 4.0
+} {
+    'country': 'Liberia',
+    'year': 2011,
+    'both_sexes': 5.0,
+    'male': 6.0,
+    'female': 4.0
+} {
+    'country': 'Liberia',
+    'year': 2010,
+    'both_sexes': 4.9,
+    'male': 5.9,
+    'female': 3.9
+} {
+    'country': 'Liberia',
+    'year': 2009,
+    'both_sexes': 4.8,
+    'male': 5.7,
+    'female': 3.9
+} {
+    'country': 'Liberia',
+    'year': 2008,
+    'both_sexes': 4.8,
+    'male': 5.5,
+    'female': 4.1
+} {
+    'country': 'Liberia',
+    'year': 2007,
+    'both_sexes': 4.9,
+    'male': 5.6,
+    'female': 4.2
+} {
+    'country': 'Liberia',
+    'year': 2006,
+    'both_sexes': 4.8,
+    'male': 5.5,
+    'female': 4.0
+} {
+    'country': 'Liberia',
+    'year': 2005,
+    'both_sexes': 4.7,
+    'male': 5.4,
+    'female': 3.9
+} {
+    'country': 'Liberia',
+    'year': 2004,
+    'both_sexes': 4.8,
+    'male': 5.4,
+    'female': 4.2
+} {
+    'country': 'Liberia',
+    'year': 2003,
+    'both_sexes': 4.8,
+    'male': 5.6,
+    'female': 3.9
+} {
+    'country': 'Liberia',
+    'year': 2002,
+    'both_sexes': 4.8,
+    'male': 5.7,
+    'female': 3.8
+} {
+    'country': 'Liberia',
+    'year': 2001,
+    'both_sexes': 4.8,
+    'male': 5.8,
+    'female': 3.8
+} {
+    'country': 'Liberia',
+    'year': 2000,
+    'both_sexes': 5.1,
+    'male': 6.2,
+    'female': 3.9
+} {
+    'country': 'Libya',
+    'year': 2019,
+    'both_sexes': 4.5,
+    'male': 6.0,
+    'female': 2.9
+} {
+    'country': 'Libya',
+    'year': 2018,
+    'both_sexes': 5.8,
+    'male': 8.1,
+    'female': 3.4
+} {
+    'country': 'Libya',
+    'year': 2017,
+    'both_sexes': 5.5,
+    'male': 7.8,
+    'female': 3.2
+} {
+    'country': 'Libya',
+    'year': 2016,
+    'both_sexes': 5.0,
+    'male': 6.8,
+    'female': 3.0
+} {
+    'country': 'Libya',
+    'year': 2015,
+    'both_sexes': 5.6,
+    'male': 7.9,
+    'female': 3.1
+} {
+    'country': 'Libya',
+    'year': 2014,
+    'both_sexes': 6.3,
+    'male': 9.2,
+    'female': 3.2
+} {
+    'country': 'Libya',
+    'year': 2013,
+    'both_sexes': 4.8,
+    'male': 6.4,
+    'female': 3.1
+} {
+    'country': 'Libya',
+    'year': 2012,
+    'both_sexes': 5.7,
+    'male': 8.0,
+    'female': 3.4
+} {
+    'country': 'Libya',
+    'year': 2011,
+    'both_sexes': 5.1,
+    'male': 6.8,
+    'female': 3.2
+} {
+    'country': 'Libya',
+    'year': 2010,
+    'both_sexes': 5.6,
+    'male': 7.4,
+    'female': 3.7
+} {
+    'country': 'Libya',
+    'year': 2009,
+    'both_sexes': 5.7,
+    'male': 7.4,
+    'female': 3.9
+} {
+    'country': 'Libya',
+    'year': 2008,
+    'both_sexes': 5.4,
+    'male': 7.2,
+    'female': 3.4
+} {
+    'country': 'Libya',
+    'year': 2007,
+    'both_sexes': 4.9,
+    'male': 6.5,
+    'female': 3.2
+} {
+    'country': 'Libya',
+    'year': 2006,
+    'both_sexes': 4.2,
+    'male': 5.9,
+    'female': 2.5
+} {
+    'country': 'Libya',
+    'year': 2005,
+    'both_sexes': 4.3,
+    'male': 6.1,
+    'female': 2.5
+} {
+    'country': 'Libya',
+    'year': 2004,
+    'both_sexes': 4.4,
+    'male': 6.3,
+    'female': 2.5
+} {
+    'country': 'Libya',
+    'year': 2003,
+    'both_sexes': 5.1,
+    'male': 7.4,
+    'female': 2.7
+} {
+    'country': 'Libya',
+    'year': 2002,
+    'both_sexes': 5.2,
+    'male': 7.4,
+    'female': 2.9
+} {
+    'country': 'Libya',
+    'year': 2001,
+    'both_sexes': 5.1,
+    'male': 7.0,
+    'female': 2.9
+} {
+    'country': 'Libya',
+    'year': 2000,
+    'both_sexes': 4.9,
+    'male': 6.7,
+    'female': 3.0
+} {
+    'country': 'Lithuania',
+    'year': 2019,
+    'both_sexes': 26.1,
+    'male': 45.4,
+    'female': 9.6
+} {
+    'country': 'Lithuania',
+    'year': 2018,
+    'both_sexes': 27.4,
+    'male': 47.5,
+    'female': 10.1
+} {
+    'country': 'Lithuania',
+    'year': 2017,
+    'both_sexes': 29.7,
+    'male': 50.9,
+    'female': 11.5
+} {
+    'country': 'Lithuania',
+    'year': 2016,
+    'both_sexes': 32.8,
+    'male': 59.9,
+    'female': 9.6
+} {
+    'country': 'Lithuania',
+    'year': 2015,
+    'both_sexes': 34.9,
+    'male': 61.7,
+    'female': 11.9
+} {
+    'country': 'Lithuania',
+    'year': 2014,
+    'both_sexes': 35.6,
+    'male': 63.8,
+    'female': 11.6
+} {
+    'country': 'Lithuania',
+    'year': 2013,
+    'both_sexes': 40.5,
+    'male': 71.6,
+    'female': 13.9
+} {
+    'country': 'Lithuania',
+    'year': 2012,
+    'both_sexes': 35.0,
+    'male': 61.6,
+    'female': 12.5
+} {
+    'country': 'Lithuania',
+    'year': 2011,
+    'both_sexes': 38.1,
+    'male': 66.2,
+    'female': 14.2
+} {
+    'country': 'Lithuania',
+    'year': 2010,
+    'both_sexes': 37.2,
+    'male': 65.8,
+    'female': 12.9
+} {
+    'country': 'Lithuania',
+    'year': 2009,
+    'both_sexes': 39.2,
+    'male': 70.7,
+    'female': 12.2
+} {
+    'country': 'Lithuania',
+    'year': 2008,
+    'both_sexes': 37.8,
+    'male': 67.5,
+    'female': 12.4
+} {
+    'country': 'Lithuania',
+    'year': 2007,
+    'both_sexes': 34.5,
+    'male': 61.3,
+    'female': 11.4
+} {
+    'country': 'Lithuania',
+    'year': 2006,
+    'both_sexes': 35.2,
+    'male': 61.8,
+    'female': 12.3
+} {
+    'country': 'Lithuania',
+    'year': 2005,
+    'both_sexes': 42.7,
+    'male': 75.3,
+    'female': 14.4
+} {
+    'country': 'Lithuania',
+    'year': 2004,
+    'both_sexes': 43.3,
+    'male': 75.4,
+    'female': 15.3
+} {
+    'country': 'Lithuania',
+    'year': 2003,
+    'both_sexes': 45.4,
+    'male': 79.9,
+    'female': 15.3
+} {
+    'country': 'Lithuania',
+    'year': 2002,
+    'both_sexes': 47.0,
+    'male': 84.7,
+    'female': 14.0
+} {
+    'country': 'Lithuania',
+    'year': 2001,
+    'both_sexes': 47.1,
+    'male': 82.2,
+    'female': 16.3
+} {
+    'country': 'Lithuania',
+    'year': 2000,
+    'both_sexes': 50.1,
+    'male': 86.2,
+    'female': 18.4
+} {
+    'country': 'Luxembourg',
+    'year': 2019,
+    'both_sexes': 11.3,
+    'male': 15.3,
+    'female': 7.1
+} {
+    'country': 'Luxembourg',
+    'year': 2018,
+    'both_sexes': 10.6,
+    'male': 14.5,
+    'female': 6.7
+} {
+    'country': 'Luxembourg',
+    'year': 2017,
+    'both_sexes': 9.8,
+    'male': 13.6,
+    'female': 6.0
+} {
+    'country': 'Luxembourg',
+    'year': 2016,
+    'both_sexes': 10.2,
+    'male': 13.9,
+    'female': 6.4
+} {
+    'country': 'Luxembourg',
+    'year': 2015,
+    'both_sexes': 12.2,
+    'male': 16.6,
+    'female': 7.7
+} {
+    'country': 'Luxembourg',
+    'year': 2014,
+    'both_sexes': 12.7,
+    'male': 16.2,
+    'female': 9.1
+} {
+    'country': 'Luxembourg',
+    'year': 2013,
+    'both_sexes': 11.3,
+    'male': 15.5,
+    'female': 7.0
+} {
+    'country': 'Luxembourg',
+    'year': 2012,
+    'both_sexes': 11.3,
+    'male': 15.1,
+    'female': 7.7
+} {
+    'country': 'Luxembourg',
+    'year': 2011,
+    'both_sexes': 11.9,
+    'male': 16.5,
+    'female': 7.4
+} {
+    'country': 'Luxembourg',
+    'year': 2010,
+    'both_sexes': 12.0,
+    'male': 17.3,
+    'female': 6.8
+} {
+    'country': 'Luxembourg',
+    'year': 2009,
+    'both_sexes': 11.3,
+    'male': 16.3,
+    'female': 6.4
+} {
+    'country': 'Luxembourg',
+    'year': 2008,
+    'both_sexes': 13.4,
+    'male': 19.2,
+    'female': 7.8
+} {
+    'country': 'Luxembourg',
+    'year': 2007,
+    'both_sexes': 14.0,
+    'male': 20.4,
+    'female': 7.8
+} {
+    'country': 'Luxembourg',
+    'year': 2006,
+    'both_sexes': 15.2,
+    'male': 23.1,
+    'female': 7.5
+} {
+    'country': 'Luxembourg',
+    'year': 2005,
+    'both_sexes': 13.4,
+    'male': 20.3,
+    'female': 6.7
+} {
+    'country': 'Luxembourg',
+    'year': 2004,
+    'both_sexes': 12.1,
+    'male': 18.6,
+    'female': 5.7
+} {
+    'country': 'Luxembourg',
+    'year': 2003,
+    'both_sexes': 15.3,
+    'male': 21.9,
+    'female': 8.9
+} {
+    'country': 'Luxembourg',
+    'year': 2002,
+    'both_sexes': 16.1,
+    'male': 24.0,
+    'female': 8.3
+} {
+    'country': 'Luxembourg',
+    'year': 2001,
+    'both_sexes': 16.7,
+    'male': 24.4,
+    'female': 9.2
+} {
+    'country': 'Luxembourg',
+    'year': 2000,
+    'both_sexes': 16.1,
+    'male': 23.1,
+    'female': 9.2
+} {
+    'country': 'Madagascar',
+    'year': 2019,
+    'both_sexes': 5.5,
+    'male': 7.6,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2018,
+    'both_sexes': 5.5,
+    'male': 7.6,
+    'female': 3.3
+} {
+    'country': 'Madagascar',
+    'year': 2017,
+    'both_sexes': 5.5,
+    'male': 7.6,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2016,
+    'both_sexes': 5.5,
+    'male': 7.7,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2015,
+    'both_sexes': 5.5,
+    'male': 7.6,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2014,
+    'both_sexes': 5.6,
+    'male': 7.8,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2013,
+    'both_sexes': 5.6,
+    'male': 7.7,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2012,
+    'both_sexes': 5.6,
+    'male': 7.8,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2011,
+    'both_sexes': 5.7,
+    'male': 7.9,
+    'female': 3.5
+} {
+    'country': 'Madagascar',
+    'year': 2010,
+    'both_sexes': 5.7,
+    'male': 7.9,
+    'female': 3.5
+} {
+    'country': 'Madagascar',
+    'year': 2009,
+    'both_sexes': 5.7,
+    'male': 7.9,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2008,
+    'both_sexes': 5.7,
+    'male': 7.9,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2007,
+    'both_sexes': 5.7,
+    'male': 8.0,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2006,
+    'both_sexes': 5.8,
+    'male': 8.1,
+    'female': 3.5
+} {
+    'country': 'Madagascar',
+    'year': 2005,
+    'both_sexes': 5.8,
+    'male': 8.1,
+    'female': 3.5
+} {
+    'country': 'Madagascar',
+    'year': 2004,
+    'both_sexes': 5.9,
+    'male': 8.3,
+    'female': 3.6
+} {
+    'country': 'Madagascar',
+    'year': 2003,
+    'both_sexes': 5.9,
+    'male': 8.3,
+    'female': 3.6
+} {
+    'country': 'Madagascar',
+    'year': 2002,
+    'both_sexes': 5.8,
+    'male': 8.2,
+    'female': 3.5
+} {
+    'country': 'Madagascar',
+    'year': 2001,
+    'both_sexes': 5.7,
+    'male': 8.0,
+    'female': 3.4
+} {
+    'country': 'Madagascar',
+    'year': 2000,
+    'both_sexes': 5.8,
+    'male': 8.2,
+    'female': 3.5
+} {
+    'country': 'Malawi',
+    'year': 2019,
+    'both_sexes': 5.4,
+    'male': 9.2,
+    'female': 1.7
+} {
+    'country': 'Malawi',
+    'year': 2018,
+    'both_sexes': 5.6,
+    'male': 9.5,
+    'female': 1.8
+} {
+    'country': 'Malawi',
+    'year': 2017,
+    'both_sexes': 5.9,
+    'male': 9.8,
+    'female': 2.0
+} {
+    'country': 'Malawi',
+    'year': 2016,
+    'both_sexes': 6.1,
+    'male': 10.2,
+    'female': 2.1
+} {
+    'country': 'Malawi',
+    'year': 2015,
+    'both_sexes': 6.2,
+    'male': 10.3,
+    'female': 2.2
+} {
+    'country': 'Malawi',
+    'year': 2014,
+    'both_sexes': 6.3,
+    'male': 10.4,
+    'female': 2.2
+} {
+    'country': 'Malawi',
+    'year': 2013,
+    'both_sexes': 6.4,
+    'male': 10.6,
+    'female': 2.4
+} {
+    'country': 'Malawi',
+    'year': 2012,
+    'both_sexes': 6.8,
+    'male': 10.9,
+    'female': 2.8
+} {
+    'country': 'Malawi',
+    'year': 2011,
+    'both_sexes': 7.3,
+    'male': 11.3,
+    'female': 3.3
+} {
+    'country': 'Malawi',
+    'year': 2010,
+    'both_sexes': 8.2,
+    'male': 12.4,
+    'female': 4.0
+} {
+    'country': 'Malawi',
+    'year': 2009,
+    'both_sexes': 8.0,
+    'male': 12.2,
+    'female': 4.0
+} {
+    'country': 'Malawi',
+    'year': 2008,
+    'both_sexes': 7.6,
+    'male': 11.6,
+    'female': 3.8
+} {
+    'country': 'Malawi',
+    'year': 2007,
+    'both_sexes': 7.8,
+    'male': 11.8,
+    'female': 3.8
+} {
+    'country': 'Malawi',
+    'year': 2006,
+    'both_sexes': 7.5,
+    'male': 11.6,
+    'female': 3.5
+} {
+    'country': 'Malawi',
+    'year': 2005,
+    'both_sexes': 7.2,
+    'male': 11.5,
+    'female': 3.1
+} {
+    'country': 'Malawi',
+    'year': 2004,
+    'both_sexes': 7.8,
+    'male': 12.2,
+    'female': 3.4
+} {
+    'country': 'Malawi',
+    'year': 2003,
+    'both_sexes': 8.2,
+    'male': 12.8,
+    'female': 3.7
+} {
+    'country': 'Malawi',
+    'year': 2002,
+    'both_sexes': 8.8,
+    'male': 13.7,
+    'female': 4.1
+} {
+    'country': 'Malawi',
+    'year': 2001,
+    'both_sexes': 9.8,
+    'male': 15.0,
+    'female': 4.7
+} {
+    'country': 'Malawi',
+    'year': 2000,
+    'both_sexes': 10.8,
+    'male': 16.4,
+    'female': 5.3
+} {
+    'country': 'Malaysia',
+    'year': 2019,
+    'both_sexes': 5.7,
+    'male': 8.9,
+    'female': 2.3
+} {
+    'country': 'Malaysia',
+    'year': 2018,
+    'both_sexes': 5.4,
+    'male': 8.5,
+    'female': 2.3
+} {
+    'country': 'Malaysia',
+    'year': 2017,
+    'both_sexes': 5.4,
+    'male': 8.3,
+    'female': 2.2
+} {
+    'country': 'Malaysia',
+    'year': 2016,
+    'both_sexes': 5.1,
+    'male': 7.8,
+    'female': 2.2
+} {
+    'country': 'Malaysia',
+    'year': 2015,
+    'both_sexes': 4.8,
+    'male': 7.3,
+    'female': 2.2
+} {
+    'country': 'Malaysia',
+    'year': 2014,
+    'both_sexes': 4.6,
+    'male': 7.0,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2013,
+    'both_sexes': 4.4,
+    'male': 6.6,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2012,
+    'both_sexes': 4.6,
+    'male': 6.9,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2011,
+    'both_sexes': 4.6,
+    'male': 6.9,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2010,
+    'both_sexes': 4.5,
+    'male': 6.8,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2009,
+    'both_sexes': 4.6,
+    'male': 7.0,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2008,
+    'both_sexes': 4.5,
+    'male': 6.8,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2007,
+    'both_sexes': 4.4,
+    'male': 6.6,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2006,
+    'both_sexes': 4.5,
+    'male': 6.7,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2005,
+    'both_sexes': 4.6,
+    'male': 6.9,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2004,
+    'both_sexes': 4.7,
+    'male': 7.0,
+    'female': 2.2
+} {
+    'country': 'Malaysia',
+    'year': 2003,
+    'both_sexes': 4.7,
+    'male': 7.0,
+    'female': 2.2
+} {
+    'country': 'Malaysia',
+    'year': 2002,
+    'both_sexes': 4.5,
+    'male': 6.7,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2001,
+    'both_sexes': 4.5,
+    'male': 6.7,
+    'female': 2.1
+} {
+    'country': 'Malaysia',
+    'year': 2000,
+    'both_sexes': 4.7,
+    'male': 7.0,
+    'female': 2.3
+} {
+    'country': 'Maldives',
+    'year': 2005,
+    'both_sexes': 3.0,
+    'male': 4.8,
+    'female': 1.1
+} {
+    'country': 'Maldives',
+    'year': 2004,
+    'both_sexes': 2.9,
+    'male': 4.5,
+    'female': 1.1
+} {
+    'country': 'Maldives',
+    'year': 2003,
+    'both_sexes': 3.5,
+    'male': 5.6,
+    'female': 1.3
+} {
+    'country': 'Maldives',
+    'year': 2002,
+    'both_sexes': 3.5,
+    'male': 5.5,
+    'female': 1.4
+} {
+    'country': 'Maldives',
+    'year': 2001,
+    'both_sexes': 3.7,
+    'male': 5.8,
+    'female': 1.6
+} {
+    'country': 'Maldives',
+    'year': 2000,
+    'both_sexes': 3.8,
+    'male': 5.8,
+    'female': 1.6
+} {
+    'country': 'Mali',
+    'year': 2019,
+    'both_sexes': 4.1,
+    'male': 5.3,
+    'female': 2.9
+} {
+    'country': 'Mali',
+    'year': 2018,
+    'both_sexes': 4.1,
+    'male': 5.2,
+    'female': 3.0
+} {
+    'country': 'Mali',
+    'year': 2017,
+    'both_sexes': 4.1,
+    'male': 5.2,
+    'female': 3.0
+} {
+    'country': 'Mali',
+    'year': 2016,
+    'both_sexes': 4.2,
+    'male': 5.3,
+    'female': 3.2
+} {
+    'country': 'Mali',
+    'year': 2015,
+    'both_sexes': 4.3,
+    'male': 5.3,
+    'female': 3.2
+} {
+    'country': 'Mali',
+    'year': 2014,
+    'both_sexes': 4.4,
+    'male': 5.5,
+    'female': 3.3
+} {
+    'country': 'Mali',
+    'year': 2013,
+    'both_sexes': 4.5,
+    'male': 5.6,
+    'female': 3.4
+} {
+    'country': 'Mali',
+    'year': 2012,
+    'both_sexes': 4.5,
+    'male': 5.6,
+    'female': 3.4
+} {
+    'country': 'Mali',
+    'year': 2011,
+    'both_sexes': 4.5,
+    'male': 5.6,
+    'female': 3.3
+} {
+    'country': 'Mali',
+    'year': 2010,
+    'both_sexes': 4.5,
+    'male': 5.5,
+    'female': 3.4
+} {
+    'country': 'Mali',
+    'year': 2009,
+    'both_sexes': 4.6,
+    'male': 5.7,
+    'female': 3.5
+} {
+    'country': 'Mali',
+    'year': 2008,
+    'both_sexes': 4.6,
+    'male': 5.7,
+    'female': 3.6
+} {
+    'country': 'Mali',
+    'year': 2007,
+    'both_sexes': 4.6,
+    'male': 5.6,
+    'female': 3.5
+} {
+    'country': 'Mali',
+    'year': 2006,
+    'both_sexes': 4.5,
+    'male': 5.5,
+    'female': 3.6
+} {
+    'country': 'Mali',
+    'year': 2005,
+    'both_sexes': 4.6,
+    'male': 5.5,
+    'female': 3.7
+} {
+    'country': 'Mali',
+    'year': 2004,
+    'both_sexes': 4.5,
+    'male': 5.4,
+    'female': 3.7
+} {
+    'country': 'Mali',
+    'year': 2003,
+    'both_sexes': 4.6,
+    'male': 5.4,
+    'female': 3.7
+} {
+    'country': 'Mali',
+    'year': 2002,
+    'both_sexes': 4.7,
+    'male': 5.4,
+    'female': 3.9
+} {
+    'country': 'Mali',
+    'year': 2001,
+    'both_sexes': 4.7,
+    'male': 5.5,
+    'female': 4.0
+} {
+    'country': 'Mali',
+    'year': 2000,
+    'both_sexes': 4.8,
+    'male': 5.5,
+    'female': 4.1
+} {
+    'country': 'Malta',
+    'year': 2019,
+    'both_sexes': 6.1,
+    'male': 9.8,
+    'female': 2.3
+} {
+    'country': 'Malta',
+    'year': 2018,
+    'both_sexes': 6.0,
+    'male': 9.7,
+    'female': 2.3
+} {
+    'country': 'Malta',
+    'year': 2017,
+    'both_sexes': 5.5,
+    'male': 8.9,
+    'female': 2.0
+} {
+    'country': 'Malta',
+    'year': 2016,
+    'both_sexes': 5.8,
+    'male': 9.4,
+    'female': 2.2
+} {
+    'country': 'Malta',
+    'year': 2015,
+    'both_sexes': 7.2,
+    'male': 11.6,
+    'female': 2.7
+} {
+    'country': 'Malta',
+    'year': 2014,
+    'both_sexes': 7.1,
+    'male': 11.9,
+    'female': 2.4
+} {
+    'country': 'Malta',
+    'year': 2013,
+    'both_sexes': 6.8,
+    'male': 11.0,
+    'female': 2.7
+} {
+    'country': 'Malta',
+    'year': 2012,
+    'both_sexes': 6.0,
+    'male': 10.1,
+    'female': 2.0
+} {
+    'country': 'Malta',
+    'year': 2011,
+    'both_sexes': 6.8,
+    'male': 11.4,
+    'female': 2.2
+} {
+    'country': 'Malta',
+    'year': 2010,
+    'both_sexes': 7.5,
+    'male': 13.6,
+    'female': 1.6
+} {
+    'country': 'Malta',
+    'year': 2009,
+    'both_sexes': 6.9,
+    'male': 12.2,
+    'female': 1.6
+} {
+    'country': 'Malta',
+    'year': 2008,
+    'both_sexes': 6.4,
+    'male': 11.4,
+    'female': 1.6
+} {
+    'country': 'Malta',
+    'year': 2007,
+    'both_sexes': 5.5,
+    'male': 9.2,
+    'female': 1.9
+} {
+    'country': 'Malta',
+    'year': 2006,
+    'both_sexes': 6.8,
+    'male': 11.8,
+    'female': 1.8
+} {
+    'country': 'Malta',
+    'year': 2005,
+    'both_sexes': 5.6,
+    'male': 8.3,
+    'female': 2.9
+} {
+    'country': 'Malta',
+    'year': 2004,
+    'both_sexes': 5.9,
+    'male': 8.7,
+    'female': 3.1
+} {
+    'country': 'Malta',
+    'year': 2003,
+    'both_sexes': 5.4,
+    'male': 7.1,
+    'female': 3.8
+} {
+    'country': 'Malta',
+    'year': 2002,
+    'both_sexes': 5.7,
+    'male': 8.1,
+    'female': 3.3
+} {
+    'country': 'Malta',
+    'year': 2001,
+    'both_sexes': 7.2,
+    'male': 10.0,
+    'female': 4.5
+} {
+    'country': 'Malta',
+    'year': 2000,
+    'both_sexes': 6.8,
+    'male': 10.8,
+    'female': 2.9
+} {
+    'country': 'Mauritania',
+    'year': 2019,
+    'both_sexes': 3.1,
+    'male': 4.0,
+    'female': 2.2
+} {
+    'country': 'Mauritania',
+    'year': 2018,
+    'both_sexes': 3.1,
+    'male': 4.0,
+    'female': 2.2
+} {
+    'country': 'Mauritania',
+    'year': 2017,
+    'both_sexes': 3.1,
+    'male': 4.0,
+    'female': 2.2
+} {
+    'country': 'Mauritania',
+    'year': 2016,
+    'both_sexes': 3.0,
+    'male': 3.9,
+    'female': 2.2
+} {
+    'country': 'Mauritania',
+    'year': 2015,
+    'both_sexes': 3.0,
+    'male': 3.9,
+    'female': 2.2
+} {
+    'country': 'Mauritania',
+    'year': 2014,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.2
+} {
+    'country': 'Mauritania',
+    'year': 2013,
+    'both_sexes': 3.1,
+    'male': 4.0,
+    'female': 2.3
+} {
+    'country': 'Mauritania',
+    'year': 2012,
+    'both_sexes': 3.1,
+    'male': 4.0,
+    'female': 2.3
+} {
+    'country': 'Mauritania',
+    'year': 2011,
+    'both_sexes': 3.0,
+    'male': 3.8,
+    'female': 2.3
+} {
+    'country': 'Mauritania',
+    'year': 2010,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.3
+} {
+    'country': 'Mauritania',
+    'year': 2009,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.4
+} {
+    'country': 'Mauritania',
+    'year': 2008,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.4
+} {
+    'country': 'Mauritania',
+    'year': 2007,
+    'both_sexes': 3.2,
+    'male': 4.0,
+    'female': 2.4
+} {
+    'country': 'Mauritania',
+    'year': 2006,
+    'both_sexes': 3.2,
+    'male': 4.0,
+    'female': 2.5
+} {
+    'country': 'Mauritania',
+    'year': 2005,
+    'both_sexes': 3.2,
+    'male': 4.0,
+    'female': 2.5
+} {
+    'country': 'Mauritania',
+    'year': 2004,
+    'both_sexes': 3.3,
+    'male': 4.1,
+    'female': 2.6
+} {
+    'country': 'Mauritania',
+    'year': 2003,
+    'both_sexes': 3.3,
+    'male': 4.0,
+    'female': 2.6
+} {
+    'country': 'Mauritania',
+    'year': 2002,
+    'both_sexes': 3.4,
+    'male': 4.1,
+    'female': 2.6
+} {
+    'country': 'Mauritania',
+    'year': 2001,
+    'both_sexes': 3.4,
+    'male': 4.2,
+    'female': 2.7
+} {
+    'country': 'Mauritania',
+    'year': 2000,
+    'both_sexes': 3.5,
+    'male': 4.2,
+    'female': 2.8
+} {
+    'country': 'Mauritius',
+    'year': 2019,
+    'both_sexes': 9.5,
+    'male': 16.3,
+    'female': 2.8
+} {
+    'country': 'Mauritius',
+    'year': 2018,
+    'both_sexes': 8.7,
+    'male': 13.1,
+    'female': 4.4
+} {
+    'country': 'Mauritius',
+    'year': 2017,
+    'both_sexes': 9.6,
+    'male': 15.3,
+    'female': 4.1
+} {
+    'country': 'Mauritius',
+    'year': 2016,
+    'both_sexes': 8.1,
+    'male': 13.6,
+    'female': 2.7
+} {
+    'country': 'Mauritius',
+    'year': 2015,
+    'both_sexes': 7.9,
+    'male': 12.1,
+    'female': 3.8
+} {
+    'country': 'Mauritius',
+    'year': 2014,
+    'both_sexes': 10.2,
+    'male': 16.6,
+    'female': 4.0
+} {
+    'country': 'Mauritius',
+    'year': 2013,
+    'both_sexes': 8.2,
+    'male': 13.7,
+    'female': 2.7
+} {
+    'country': 'Mauritius',
+    'year': 2012,
+    'both_sexes': 9.6,
+    'male': 14.9,
+    'female': 4.4
+} {
+    'country': 'Mauritius',
+    'year': 2011,
+    'both_sexes': 9.0,
+    'male': 14.3,
+    'female': 3.9
+} {
+    'country': 'Mauritius',
+    'year': 2010,
+    'both_sexes': 7.8,
+    'male': 12.5,
+    'female': 3.1
+} {
+    'country': 'Mauritius',
+    'year': 2009,
+    'both_sexes': 9.1,
+    'male': 14.7,
+    'female': 3.5
+} {
+    'country': 'Mauritius',
+    'year': 2008,
+    'both_sexes': 6.7,
+    'male': 11.4,
+    'female': 2.0
+} {
+    'country': 'Mauritius',
+    'year': 2007,
+    'both_sexes': 10.3,
+    'male': 15.6,
+    'female': 5.2
+} {
+    'country': 'Mauritius',
+    'year': 2006,
+    'both_sexes': 9.2,
+    'male': 14.3,
+    'female': 4.2
+} {
+    'country': 'Mauritius',
+    'year': 2005,
+    'both_sexes': 9.0,
+    'male': 13.9,
+    'female': 4.1
+} {
+    'country': 'Mauritius',
+    'year': 2004,
+    'both_sexes': 8.2,
+    'male': 12.6,
+    'female': 3.9
+} {
+    'country': 'Mauritius',
+    'year': 2003,
+    'both_sexes': 7.7,
+    'male': 11.4,
+    'female': 4.0
+} {
+    'country': 'Mauritius',
+    'year': 2002,
+    'both_sexes': 11.3,
+    'male': 17.8,
+    'female': 4.8
+} {
+    'country': 'Mauritius',
+    'year': 2001,
+    'both_sexes': 10.1,
+    'male': 13.8,
+    'female': 6.4
+} {
+    'country': 'Mauritius',
+    'year': 2000,
+    'both_sexes': 11.8,
+    'male': 18.7,
+    'female': 5.1
+} {
+    'country': 'Mexico',
+    'year': 2019,
+    'both_sexes': 5.3,
+    'male': 8.5,
+    'female': 2.2
+} {
+    'country': 'Mexico',
+    'year': 2018,
+    'both_sexes': 5.4,
+    'male': 8.7,
+    'female': 2.2
+} {
+    'country': 'Mexico',
+    'year': 2017,
+    'both_sexes': 5.9,
+    'male': 9.8,
+    'female': 2.2
+} {
+    'country': 'Mexico',
+    'year': 2016,
+    'both_sexes': 5.6,
+    'male': 9.2,
+    'female': 2.1
+} {
+    'country': 'Mexico',
+    'year': 2015,
+    'both_sexes': 5.6,
+    'male': 9.0,
+    'female': 2.3
+} {
+    'country': 'Mexico',
+    'year': 2014,
+    'both_sexes': 5.7,
+    'male': 9.2,
+    'female': 2.3
+} {
+    'country': 'Mexico',
+    'year': 2013,
+    'both_sexes': 5.2,
+    'male': 8.5,
+    'female': 2.0
+} {
+    'country': 'Mexico',
+    'year': 2012,
+    'both_sexes': 4.9,
+    'male': 7.9,
+    'female': 1.9
+} {
+    'country': 'Mexico',
+    'year': 2011,
+    'both_sexes': 5.2,
+    'male': 8.6,
+    'female': 2.0
+} {
+    'country': 'Mexico',
+    'year': 2010,
+    'both_sexes': 4.5,
+    'male': 7.5,
+    'female': 1.7
+} {
+    'country': 'Mexico',
+    'year': 2009,
+    'both_sexes': 4.6,
+    'male': 7.5,
+    'female': 1.8
+} {
+    'country': 'Mexico',
+    'year': 2008,
+    'both_sexes': 4.4,
+    'male': 7.1,
+    'female': 1.7
+} {
+    'country': 'Mexico',
+    'year': 2007,
+    'both_sexes': 4.1,
+    'male': 6.7,
+    'female': 1.5
+} {
+    'country': 'Mexico',
+    'year': 2006,
+    'both_sexes': 4.0,
+    'male': 6.8,
+    'female': 1.3
+} {
+    'country': 'Mexico',
+    'year': 2005,
+    'both_sexes': 4.1,
+    'male': 6.9,
+    'female': 1.4
+} {
+    'country': 'Mexico',
+    'year': 2004,
+    'both_sexes': 4.0,
+    'male': 6.7,
+    'female': 1.3
+} {
+    'country': 'Mexico',
+    'year': 2003,
+    'both_sexes': 4.0,
+    'male': 6.7,
+    'female': 1.4
+} {
+    'country': 'Mexico',
+    'year': 2002,
+    'both_sexes': 3.9,
+    'male': 6.5,
+    'female': 1.3
+} {
+    'country': 'Mexico',
+    'year': 2001,
+    'both_sexes': 3.8,
+    'male': 6.3,
+    'female': 1.4
+} {
+    'country': 'Mexico',
+    'year': 2000,
+    'both_sexes': 3.5,
+    'male': 6.0,
+    'female': 1.1
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2019,
+    'both_sexes': 28.2,
+    'male': 43.2,
+    'female': 12.7
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2018,
+    'both_sexes': 28.2,
+    'male': 43.3,
+    'female': 12.6
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2017,
+    'both_sexes': 27.7,
+    'male': 42.6,
+    'female': 12.3
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2016,
+    'both_sexes': 27.0,
+    'male': 41.4,
+    'female': 12.0
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2015,
+    'both_sexes': 27.0,
+    'male': 41.3,
+    'female': 12.2
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2014,
+    'both_sexes': 25.8,
+    'male': 39.5,
+    'female': 11.6
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2013,
+    'both_sexes': 25.6,
+    'male': 39.1,
+    'female': 11.6
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2012,
+    'both_sexes': 25.5,
+    'male': 39.1,
+    'female': 11.5
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2011,
+    'both_sexes': 25.2,
+    'male': 38.6,
+    'female': 11.3
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2010,
+    'both_sexes': 24.5,
+    'male': 37.5,
+    'female': 11.0
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2009,
+    'both_sexes': 24.5,
+    'male': 37.6,
+    'female': 11.0
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2008,
+    'both_sexes': 24.5,
+    'male': 37.5,
+    'female': 11.0
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2007,
+    'both_sexes': 24.4,
+    'male': 37.4,
+    'female': 11.0
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2006,
+    'both_sexes': 24.6,
+    'male': 37.6,
+    'female': 11.1
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2005,
+    'both_sexes': 24.6,
+    'male': 37.6,
+    'female': 11.1
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2004,
+    'both_sexes': 23.8,
+    'male': 36.4,
+    'female': 10.8
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2003,
+    'both_sexes': 22.8,
+    'male': 34.7,
+    'female': 10.5
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2002,
+    'both_sexes': 22.5,
+    'male': 34.5,
+    'female': 10.3
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2001,
+    'both_sexes': 23.4,
+    'male': 35.5,
+    'female': 11.0
+} {
+    'country': 'Micronesia (Federated States of)',
+    'year': 2000,
+    'both_sexes': 24.0,
+    'male': 36.3,
+    'female': 11.4
+} {
+    'country': 'Mongolia',
+    'year': 2019,
+    'both_sexes': 17.9,
+    'male': 30.7,
+    'female': 5.4
+} {
+    'country': 'Mongolia',
+    'year': 2018,
+    'both_sexes': 18.6,
+    'male': 32.0,
+    'female': 5.6
+} {
+    'country': 'Mongolia',
+    'year': 2017,
+    'both_sexes': 19.2,
+    'male': 32.9,
+    'female': 5.9
+} {
+    'country': 'Mongolia',
+    'year': 2016,
+    'both_sexes': 20.1,
+    'male': 34.3,
+    'female': 6.2
+} {
+    'country': 'Mongolia',
+    'year': 2015,
+    'both_sexes': 20.0,
+    'male': 33.9,
+    'female': 6.4
+} {
+    'country': 'Mongolia',
+    'year': 2014,
+    'both_sexes': 20.0,
+    'male': 33.7,
+    'female': 6.6
+} {
+    'country': 'Mongolia',
+    'year': 2013,
+    'both_sexes': 21.0,
+    'male': 35.2,
+    'female': 7.1
+} {
+    'country': 'Mongolia',
+    'year': 2012,
+    'both_sexes': 21.7,
+    'male': 36.2,
+    'female': 7.5
+} {
+    'country': 'Mongolia',
+    'year': 2011,
+    'both_sexes': 22.7,
+    'male': 37.9,
+    'female': 7.8
+} {
+    'country': 'Mongolia',
+    'year': 2010,
+    'both_sexes': 23.4,
+    'male': 38.7,
+    'female': 8.2
+} {
+    'country': 'Mongolia',
+    'year': 2009,
+    'both_sexes': 23.6,
+    'male': 39.2,
+    'female': 8.3
+} {
+    'country': 'Mongolia',
+    'year': 2008,
+    'both_sexes': 23.8,
+    'male': 39.8,
+    'female': 8.0
+} {
+    'country': 'Mongolia',
+    'year': 2007,
+    'both_sexes': 23.6,
+    'male': 39.3,
+    'female': 8.1
+} {
+    'country': 'Mongolia',
+    'year': 2006,
+    'both_sexes': 23.7,
+    'male': 38.8,
+    'female': 8.7
+} {
+    'country': 'Mongolia',
+    'year': 2005,
+    'both_sexes': 24.0,
+    'male': 39.2,
+    'female': 9.0
+} {
+    'country': 'Mongolia',
+    'year': 2004,
+    'both_sexes': 23.7,
+    'male': 38.3,
+    'female': 9.2
+} {
+    'country': 'Mongolia',
+    'year': 2003,
+    'both_sexes': 23.1,
+    'male': 37.1,
+    'female': 9.2
+} {
+    'country': 'Mongolia',
+    'year': 2002,
+    'both_sexes': 21.7,
+    'male': 34.4,
+    'female': 9.1
+} {
+    'country': 'Mongolia',
+    'year': 2001,
+    'both_sexes': 22.3,
+    'male': 35.2,
+    'female': 9.5
+} {
+    'country': 'Mongolia',
+    'year': 2000,
+    'both_sexes': 22.0,
+    'male': 34.1,
+    'female': 10.0
+} {
+    'country': 'Montenegro',
+    'year': 2019,
+    'both_sexes': 21.0,
+    'male': 31.7,
+    'female': 10.4
+} {
+    'country': 'Montenegro',
+    'year': 2018,
+    'both_sexes': 21.2,
+    'male': 31.9,
+    'female': 10.7
+} {
+    'country': 'Montenegro',
+    'year': 2017,
+    'both_sexes': 21.1,
+    'male': 31.8,
+    'female': 10.7
+} {
+    'country': 'Montenegro',
+    'year': 2016,
+    'both_sexes': 20.8,
+    'male': 31.1,
+    'female': 10.7
+} {
+    'country': 'Montenegro',
+    'year': 2015,
+    'both_sexes': 20.7,
+    'male': 30.7,
+    'female': 10.9
+} {
+    'country': 'Montenegro',
+    'year': 2014,
+    'both_sexes': 20.6,
+    'male': 30.5,
+    'female': 10.9
+} {
+    'country': 'Montenegro',
+    'year': 2013,
+    'both_sexes': 20.4,
+    'male': 30.4,
+    'female': 10.7
+} {
+    'country': 'Montenegro',
+    'year': 2012,
+    'both_sexes': 21.0,
+    'male': 31.3,
+    'female': 10.9
+} {
+    'country': 'Montenegro',
+    'year': 2011,
+    'both_sexes': 20.9,
+    'male': 31.4,
+    'female': 10.7
+} {
+    'country': 'Montenegro',
+    'year': 2010,
+    'both_sexes': 20.3,
+    'male': 30.4,
+    'female': 10.5
+} {
+    'country': 'Montenegro',
+    'year': 2009,
+    'both_sexes': 20.9,
+    'male': 31.3,
+    'female': 10.8
+} {
+    'country': 'Montenegro',
+    'year': 2008,
+    'both_sexes': 20.9,
+    'male': 31.2,
+    'female': 10.8
+} {
+    'country': 'Montenegro',
+    'year': 2007,
+    'both_sexes': 21.0,
+    'male': 31.6,
+    'female': 10.7
+} {
+    'country': 'Montenegro',
+    'year': 2006,
+    'both_sexes': 22.3,
+    'male': 33.9,
+    'female': 11.2
+} {
+    'country': 'Montenegro',
+    'year': 2005,
+    'both_sexes': 21.7,
+    'male': 32.7,
+    'female': 11.1
+} {
+    'country': 'Montenegro',
+    'year': 2004,
+    'both_sexes': 21.2,
+    'male': 31.4,
+    'female': 11.4
+} {
+    'country': 'Montenegro',
+    'year': 2003,
+    'both_sexes': 20.9,
+    'male': 30.7,
+    'female': 11.4
+} {
+    'country': 'Montenegro',
+    'year': 2002,
+    'both_sexes': 20.2,
+    'male': 29.6,
+    'female': 11.1
+} {
+    'country': 'Montenegro',
+    'year': 2001,
+    'both_sexes': 19.9,
+    'male': 29.1,
+    'female': 10.9
+} {
+    'country': 'Montenegro',
+    'year': 2000,
+    'both_sexes': 20.8,
+    'male': 30.7,
+    'female': 11.2
+} {
+    'country': 'Morocco',
+    'year': 2019,
+    'both_sexes': 7.2,
+    'male': 9.7,
+    'female': 4.7
+} {
+    'country': 'Morocco',
+    'year': 2018,
+    'both_sexes': 7.2,
+    'male': 9.5,
+    'female': 4.8
+} {
+    'country': 'Morocco',
+    'year': 2017,
+    'both_sexes': 7.1,
+    'male': 9.3,
+    'female': 5.0
+} {
+    'country': 'Morocco',
+    'year': 2016,
+    'both_sexes': 7.2,
+    'male': 9.3,
+    'female': 5.1
+} {
+    'country': 'Morocco',
+    'year': 2015,
+    'both_sexes': 7.4,
+    'male': 9.5,
+    'female': 5.3
+} {
+    'country': 'Morocco',
+    'year': 2014,
+    'both_sexes': 7.7,
+    'male': 9.8,
+    'female': 5.5
+} {
+    'country': 'Morocco',
+    'year': 2013,
+    'both_sexes': 8.0,
+    'male': 10.2,
+    'female': 5.8
+} {
+    'country': 'Morocco',
+    'year': 2012,
+    'both_sexes': 8.9,
+    'male': 11.8,
+    'female': 6.0
+} {
+    'country': 'Morocco',
+    'year': 2011,
+    'both_sexes': 9.2,
+    'male': 12.2,
+    'female': 6.2
+} {
+    'country': 'Morocco',
+    'year': 2010,
+    'both_sexes': 9.2,
+    'male': 12.0,
+    'female': 6.4
+} {
+    'country': 'Morocco',
+    'year': 2009,
+    'both_sexes': 9.2,
+    'male': 12.0,
+    'female': 6.6
+} {
+    'country': 'Morocco',
+    'year': 2008,
+    'both_sexes': 9.3,
+    'male': 11.9,
+    'female': 6.7
+} {
+    'country': 'Morocco',
+    'year': 2007,
+    'both_sexes': 9.3,
+    'male': 11.8,
+    'female': 6.9
+} {
+    'country': 'Morocco',
+    'year': 2006,
+    'both_sexes': 9.3,
+    'male': 11.7,
+    'female': 6.9
+} {
+    'country': 'Morocco',
+    'year': 2005,
+    'both_sexes': 9.4,
+    'male': 11.8,
+    'female': 7.1
+} {
+    'country': 'Morocco',
+    'year': 2004,
+    'both_sexes': 9.5,
+    'male': 12.0,
+    'female': 7.1
+} {
+    'country': 'Morocco',
+    'year': 2003,
+    'both_sexes': 9.6,
+    'male': 12.0,
+    'female': 7.3
+} {
+    'country': 'Morocco',
+    'year': 2002,
+    'both_sexes': 9.6,
+    'male': 11.9,
+    'female': 7.4
+} {
+    'country': 'Morocco',
+    'year': 2001,
+    'both_sexes': 9.9,
+    'male': 12.3,
+    'female': 7.5
+} {
+    'country': 'Morocco',
+    'year': 2000,
+    'both_sexes': 9.9,
+    'male': 12.2,
+    'female': 7.6
+} {
+    'country': 'Mozambique',
+    'year': 2019,
+    'both_sexes': 13.6,
+    'male': 22.0,
+    'female': 5.7
+} {
+    'country': 'Mozambique',
+    'year': 2018,
+    'both_sexes': 13.5,
+    'male': 21.9,
+    'female': 5.7
+} {
+    'country': 'Mozambique',
+    'year': 2017,
+    'both_sexes': 13.4,
+    'male': 21.8,
+    'female': 5.5
+} {
+    'country': 'Mozambique',
+    'year': 2016,
+    'both_sexes': 13.6,
+    'male': 22.0,
+    'female': 5.6
+} {
+    'country': 'Mozambique',
+    'year': 2015,
+    'both_sexes': 13.9,
+    'male': 22.4,
+    'female': 5.9
+} {
+    'country': 'Mozambique',
+    'year': 2014,
+    'both_sexes': 14.4,
+    'male': 23.2,
+    'female': 6.1
+} {
+    'country': 'Mozambique',
+    'year': 2013,
+    'both_sexes': 15.3,
+    'male': 24.1,
+    'female': 7.1
+} {
+    'country': 'Mozambique',
+    'year': 2012,
+    'both_sexes': 15.7,
+    'male': 24.4,
+    'female': 7.6
+} {
+    'country': 'Mozambique',
+    'year': 2011,
+    'both_sexes': 15.3,
+    'male': 23.9,
+    'female': 7.2
+} {
+    'country': 'Mozambique',
+    'year': 2010,
+    'both_sexes': 14.9,
+    'male': 23.5,
+    'female': 6.9
+} {
+    'country': 'Mozambique',
+    'year': 2009,
+    'both_sexes': 14.5,
+    'male': 23.0,
+    'female': 6.6
+} {
+    'country': 'Mozambique',
+    'year': 2008,
+    'both_sexes': 13.5,
+    'male': 21.6,
+    'female': 5.9
+} {
+    'country': 'Mozambique',
+    'year': 2007,
+    'both_sexes': 12.6,
+    'male': 20.5,
+    'female': 5.3
+} {
+    'country': 'Mozambique',
+    'year': 2006,
+    'both_sexes': 12.6,
+    'male': 20.4,
+    'female': 5.4
+} {
+    'country': 'Mozambique',
+    'year': 2005,
+    'both_sexes': 12.6,
+    'male': 20.2,
+    'female': 5.5
+} {
+    'country': 'Mozambique',
+    'year': 2004,
+    'both_sexes': 12.4,
+    'male': 19.9,
+    'female': 5.5
+} {
+    'country': 'Mozambique',
+    'year': 2003,
+    'both_sexes': 12.3,
+    'male': 19.7,
+    'female': 5.5
+} {
+    'country': 'Mozambique',
+    'year': 2002,
+    'both_sexes': 12.3,
+    'male': 19.7,
+    'female': 5.5
+} {
+    'country': 'Mozambique',
+    'year': 2001,
+    'both_sexes': 12.4,
+    'male': 19.7,
+    'female': 5.7
+} {
+    'country': 'Mozambique',
+    'year': 2000,
+    'both_sexes': 12.5,
+    'male': 19.9,
+    'female': 5.8
+} {
+    'country': 'Myanmar',
+    'year': 2019,
+    'both_sexes': 2.9,
+    'male': 4.9,
+    'female': 1.1
+} {
+    'country': 'Myanmar',
+    'year': 2018,
+    'both_sexes': 2.9,
+    'male': 4.8,
+    'female': 1.1
+} {
+    'country': 'Myanmar',
+    'year': 2017,
+    'both_sexes': 3.0,
+    'male': 5.0,
+    'female': 1.1
+} {
+    'country': 'Myanmar',
+    'year': 2016,
+    'both_sexes': 3.2,
+    'male': 5.3,
+    'female': 1.2
+} {
+    'country': 'Myanmar',
+    'year': 2015,
+    'both_sexes': 3.2,
+    'male': 5.3,
+    'female': 1.2
+} {
+    'country': 'Myanmar',
+    'year': 2014,
+    'both_sexes': 3.2,
+    'male': 5.4,
+    'female': 1.3
+} {
+    'country': 'Myanmar',
+    'year': 2013,
+    'both_sexes': 3.3,
+    'male': 5.4,
+    'female': 1.3
+} {
+    'country': 'Myanmar',
+    'year': 2012,
+    'both_sexes': 3.3,
+    'male': 5.4,
+    'female': 1.3
+} {
+    'country': 'Myanmar',
+    'year': 2011,
+    'both_sexes': 3.4,
+    'male': 5.5,
+    'female': 1.5
+} {
+    'country': 'Myanmar',
+    'year': 2010,
+    'both_sexes': 3.5,
+    'male': 5.5,
+    'female': 1.5
+} {
+    'country': 'Myanmar',
+    'year': 2009,
+    'both_sexes': 3.6,
+    'male': 5.7,
+    'female': 1.7
+} {
+    'country': 'Myanmar',
+    'year': 2008,
+    'both_sexes': 3.6,
+    'male': 5.6,
+    'female': 1.7
+} {
+    'country': 'Myanmar',
+    'year': 2007,
+    'both_sexes': 3.9,
+    'male': 6.0,
+    'female': 1.9
+} {
+    'country': 'Myanmar',
+    'year': 2006,
+    'both_sexes': 4.1,
+    'male': 6.2,
+    'female': 2.1
+} {
+    'country': 'Myanmar',
+    'year': 2005,
+    'both_sexes': 4.1,
+    'male': 6.3,
+    'female': 2.1
+} {
+    'country': 'Myanmar',
+    'year': 2004,
+    'both_sexes': 4.2,
+    'male': 6.4,
+    'female': 2.2
+} {
+    'country': 'Myanmar',
+    'year': 2003,
+    'both_sexes': 4.3,
+    'male': 6.5,
+    'female': 2.2
+} {
+    'country': 'Myanmar',
+    'year': 2002,
+    'both_sexes': 4.4,
+    'male': 6.6,
+    'female': 2.2
+} {
+    'country': 'Myanmar',
+    'year': 2001,
+    'both_sexes': 4.4,
+    'male': 6.7,
+    'female': 2.3
+} {
+    'country': 'Myanmar',
+    'year': 2000,
+    'both_sexes': 4.7,
+    'male': 7.1,
+    'female': 2.4
+} {
+    'country': 'Namibia',
+    'year': 2019,
+    'both_sexes': 9.7,
+    'male': 16.7,
+    'female': 3.2
+} {
+    'country': 'Namibia',
+    'year': 2018,
+    'both_sexes': 9.9,
+    'male': 17.0,
+    'female': 3.1
+} {
+    'country': 'Namibia',
+    'year': 2017,
+    'both_sexes': 10.9,
+    'male': 18.4,
+    'female': 3.9
+} {
+    'country': 'Namibia',
+    'year': 2016,
+    'both_sexes': 10.7,
+    'male': 17.2,
+    'female': 4.6
+} {
+    'country': 'Namibia',
+    'year': 2015,
+    'both_sexes': 11.6,
+    'male': 18.4,
+    'female': 5.3
+} {
+    'country': 'Namibia',
+    'year': 2014,
+    'both_sexes': 10.9,
+    'male': 17.7,
+    'female': 4.6
+} {
+    'country': 'Namibia',
+    'year': 2013,
+    'both_sexes': 10.2,
+    'male': 17.3,
+    'female': 3.5
+} {
+    'country': 'Namibia',
+    'year': 2012,
+    'both_sexes': 10.2,
+    'male': 17.6,
+    'female': 3.3
+} {
+    'country': 'Namibia',
+    'year': 2011,
+    'both_sexes': 11.4,
+    'male': 19.5,
+    'female': 3.8
+} {
+    'country': 'Namibia',
+    'year': 2010,
+    'both_sexes': 12.9,
+    'male': 21.3,
+    'female': 5.0
+} {
+    'country': 'Namibia',
+    'year': 2009,
+    'both_sexes': 13.1,
+    'male': 21.3,
+    'female': 5.5
+} {
+    'country': 'Namibia',
+    'year': 2008,
+    'both_sexes': 14.1,
+    'male': 23.3,
+    'female': 5.4
+} {
+    'country': 'Namibia',
+    'year': 2007,
+    'both_sexes': 17.3,
+    'male': 28.3,
+    'female': 7.1
+} {
+    'country': 'Namibia',
+    'year': 2006,
+    'both_sexes': 17.7,
+    'male': 28.4,
+    'female': 7.8
+} {
+    'country': 'Namibia',
+    'year': 2005,
+    'both_sexes': 17.8,
+    'male': 28.8,
+    'female': 7.5
+} {
+    'country': 'Namibia',
+    'year': 2004,
+    'both_sexes': 16.7,
+    'male': 27.6,
+    'female': 6.5
+} {
+    'country': 'Namibia',
+    'year': 2003,
+    'both_sexes': 18.2,
+    'male': 29.3,
+    'female': 7.9
+} {
+    'country': 'Namibia',
+    'year': 2002,
+    'both_sexes': 18.7,
+    'male': 29.6,
+    'female': 8.5
+} {
+    'country': 'Namibia',
+    'year': 2001,
+    'both_sexes': 18.8,
+    'male': 29.9,
+    'female': 8.5
+} {
+    'country': 'Namibia',
+    'year': 2000,
+    'both_sexes': 19.3,
+    'male': 30.5,
+    'female': 8.8
+} {
+    'country': 'Nepal',
+    'year': 2019,
+    'both_sexes': 9.0,
+    'male': 16.4,
+    'female': 2.7
+} {
+    'country': 'Nepal',
+    'year': 2018,
+    'both_sexes': 8.8,
+    'male': 16.1,
+    'female': 2.7
+} {
+    'country': 'Nepal',
+    'year': 2017,
+    'both_sexes': 8.7,
+    'male': 15.8,
+    'female': 2.7
+} {
+    'country': 'Nepal',
+    'year': 2016,
+    'both_sexes': 8.5,
+    'male': 15.6,
+    'female': 2.7
+} {
+    'country': 'Nepal',
+    'year': 2015,
+    'both_sexes': 8.5,
+    'male': 15.4,
+    'female': 2.7
+} {
+    'country': 'Nepal',
+    'year': 2014,
+    'both_sexes': 8.5,
+    'male': 15.3,
+    'female': 2.6
+} {
+    'country': 'Nepal',
+    'year': 2013,
+    'both_sexes': 8.7,
+    'male': 15.4,
+    'female': 2.7
+} {
+    'country': 'Nepal',
+    'year': 2012,
+    'both_sexes': 8.9,
+    'male': 15.6,
+    'female': 2.6
+} {
+    'country': 'Nepal',
+    'year': 2011,
+    'both_sexes': 8.9,
+    'male': 15.6,
+    'female': 2.6
+} {
+    'country': 'Nepal',
+    'year': 2010,
+    'both_sexes': 8.7,
+    'male': 15.0,
+    'female': 2.5
+} {
+    'country': 'Nepal',
+    'year': 2009,
+    'both_sexes': 8.5,
+    'male': 14.7,
+    'female': 2.5
+} {
+    'country': 'Nepal',
+    'year': 2008,
+    'both_sexes': 8.3,
+    'male': 14.1,
+    'female': 2.5
+} {
+    'country': 'Nepal',
+    'year': 2007,
+    'both_sexes': 8.0,
+    'male': 13.7,
+    'female': 2.4
+} {
+    'country': 'Nepal',
+    'year': 2006,
+    'both_sexes': 7.7,
+    'male': 13.2,
+    'female': 2.3
+} {
+    'country': 'Nepal',
+    'year': 2005,
+    'both_sexes': 7.9,
+    'male': 13.5,
+    'female': 2.4
+} {
+    'country': 'Nepal',
+    'year': 2004,
+    'both_sexes': 7.7,
+    'male': 13.4,
+    'female': 2.1
+} {
+    'country': 'Nepal',
+    'year': 2003,
+    'both_sexes': 7.8,
+    'male': 13.5,
+    'female': 2.3
+} {
+    'country': 'Nepal',
+    'year': 2002,
+    'both_sexes': 8.0,
+    'male': 13.8,
+    'female': 2.3
+} {
+    'country': 'Nepal',
+    'year': 2001,
+    'both_sexes': 8.1,
+    'male': 14.3,
+    'female': 2.0
+} {
+    'country': 'Nepal',
+    'year': 2000,
+    'both_sexes': 8.5,
+    'male': 14.8,
+    'female': 2.3
+} {
+    'country': 'Netherlands',
+    'year': 2019,
+    'both_sexes': 11.8,
+    'male': 15.5,
+    'female': 8.3
+} {
+    'country': 'Netherlands',
+    'year': 2018,
+    'both_sexes': 11.4,
+    'male': 14.3,
+    'female': 8.5
+} {
+    'country': 'Netherlands',
+    'year': 2017,
+    'both_sexes': 12.1,
+    'male': 16.1,
+    'female': 8.1
+} {
+    'country': 'Netherlands',
+    'year': 2016,
+    'both_sexes': 11.9,
+    'male': 15.8,
+    'female': 8.0
+} {
+    'country': 'Netherlands',
+    'year': 2015,
+    'both_sexes': 11.8,
+    'male': 15.7,
+    'female': 7.9
+} {
+    'country': 'Netherlands',
+    'year': 2014,
+    'both_sexes': 11.6,
+    'male': 15.5,
+    'female': 7.7
+} {
+    'country': 'Netherlands',
+    'year': 2013,
+    'both_sexes': 11.8,
+    'male': 16.3,
+    'female': 7.5
+} {
+    'country': 'Netherlands',
+    'year': 2012,
+    'both_sexes': 10.7,
+    'male': 14.5,
+    'female': 7.0
+} {
+    'country': 'Netherlands',
+    'year': 2011,
+    'both_sexes': 10.1,
+    'male': 14.0,
+    'female': 6.2
+} {
+    'country': 'Netherlands',
+    'year': 2010,
+    'both_sexes': 9.8,
+    'male': 13.9,
+    'female': 5.8
+} {
+    'country': 'Netherlands',
+    'year': 2009,
+    'both_sexes': 9.5,
+    'male': 13.3,
+    'female': 5.7
+} {
+    'country': 'Netherlands',
+    'year': 2008,
+    'both_sexes': 9.0,
+    'male': 12.4,
+    'female': 5.6
+} {
+    'country': 'Netherlands',
+    'year': 2007,
+    'both_sexes': 8.4,
+    'male': 11.8,
+    'female': 5.1
+} {
+    'country': 'Netherlands',
+    'year': 2006,
+    'both_sexes': 9.6,
+    'male': 13.2,
+    'female': 6.0
+} {
+    'country': 'Netherlands',
+    'year': 2005,
+    'both_sexes': 9.8,
+    'male': 13.4,
+    'female': 6.3
+} {
+    'country': 'Netherlands',
+    'year': 2004,
+    'both_sexes': 9.7,
+    'male': 13.3,
+    'female': 6.3
+} {
+    'country': 'Netherlands',
+    'year': 2003,
+    'both_sexes': 9.6,
+    'male': 13.0,
+    'female': 6.3
+} {
+    'country': 'Netherlands',
+    'year': 2002,
+    'both_sexes': 10.0,
+    'male': 13.6,
+    'female': 6.5
+} {
+    'country': 'Netherlands',
+    'year': 2001,
+    'both_sexes': 9.6,
+    'male': 13.0,
+    'female': 6.3
+} {
+    'country': 'Netherlands',
+    'year': 2000,
+    'both_sexes': 9.6,
+    'male': 12.9,
+    'female': 6.4
+} {
+    'country': 'New Zealand',
+    'year': 2019,
+    'both_sexes': 11.0,
+    'male': 16.5,
+    'female': 5.8
+} {
+    'country': 'New Zealand',
+    'year': 2018,
+    'both_sexes': 11.4,
+    'male': 16.9,
+    'female': 6.0
+} {
+    'country': 'New Zealand',
+    'year': 2017,
+    'both_sexes': 12.7,
+    'male': 19.1,
+    'female': 6.6
+} {
+    'country': 'New Zealand',
+    'year': 2016,
+    'both_sexes': 12.2,
+    'male': 18.2,
+    'female': 6.3
+} {
+    'country': 'New Zealand',
+    'year': 2015,
+    'both_sexes': 11.7,
+    'male': 17.1,
+    'female': 6.5
+} {
+    'country': 'New Zealand',
+    'year': 2014,
+    'both_sexes': 11.3,
+    'male': 17.0,
+    'female': 5.8
+} {
+    'country': 'New Zealand',
+    'year': 2013,
+    'both_sexes': 12.2,
+    'male': 17.6,
+    'female': 7.0
+} {
+    'country': 'New Zealand',
+    'year': 2012,
+    'both_sexes': 12.7,
+    'male': 18.8,
+    'female': 6.8
+} {
+    'country': 'New Zealand',
+    'year': 2011,
+    'both_sexes': 11.4,
+    'male': 17.4,
+    'female': 5.5
+} {
+    'country': 'New Zealand',
+    'year': 2010,
+    'both_sexes': 12.6,
+    'male': 18.3,
+    'female': 7.2
+} {
+    'country': 'New Zealand',
+    'year': 2009,
+    'both_sexes': 11.5,
+    'male': 17.8,
+    'female': 5.5
+} {
+    'country': 'New Zealand',
+    'year': 2008,
+    'both_sexes': 12.4,
+    'male': 18.6,
+    'female': 6.5
+} {
+    'country': 'New Zealand',
+    'year': 2007,
+    'both_sexes': 12.3,
+    'male': 18.7,
+    'female': 6.3
+} {
+    'country': 'New Zealand',
+    'year': 2006,
+    'both_sexes': 13.1,
+    'male': 19.4,
+    'female': 7.0
+} {
+    'country': 'New Zealand',
+    'year': 2005,
+    'both_sexes': 12.9,
+    'male': 19.4,
+    'female': 6.7
+} {
+    'country': 'New Zealand',
+    'year': 2004,
+    'both_sexes': 12.6,
+    'male': 19.7,
+    'female': 5.9
+} {
+    'country': 'New Zealand',
+    'year': 2003,
+    'both_sexes': 13.7,
+    'male': 19.8,
+    'female': 7.8
+} {
+    'country': 'New Zealand',
+    'year': 2002,
+    'both_sexes': 12.5,
+    'male': 19.0,
+    'female': 6.3
+} {
+    'country': 'New Zealand',
+    'year': 2001,
+    'both_sexes': 13.9,
+    'male': 21.1,
+    'female': 7.0
+} {
+    'country': 'New Zealand',
+    'year': 2000,
+    'both_sexes': 12.5,
+    'male': 20.7,
+    'female': 4.6
+} {
+    'country': 'Nicaragua',
+    'year': 2019,
+    'both_sexes': 4.4,
+    'male': 6.9,
+    'female': 1.9
+} {
+    'country': 'Nicaragua',
+    'year': 2018,
+    'both_sexes': 4.5,
+    'male': 7.0,
+    'female': 2.2
+} {
+    'country': 'Nicaragua',
+    'year': 2017,
+    'both_sexes': 4.4,
+    'male': 6.8,
+    'female': 2.1
+} {
+    'country': 'Nicaragua',
+    'year': 2016,
+    'both_sexes': 4.4,
+    'male': 7.0,
+    'female': 1.8
+} {
+    'country': 'Nicaragua',
+    'year': 2015,
+    'both_sexes': 4.2,
+    'male': 6.3,
+    'female': 2.2
+} {
+    'country': 'Nicaragua',
+    'year': 2014,
+    'both_sexes': 4.5,
+    'male': 6.9,
+    'female': 2.2
+} {
+    'country': 'Nicaragua',
+    'year': 2013,
+    'both_sexes': 5.3,
+    'male': 8.1,
+    'female': 2.5
+} {
+    'country': 'Nicaragua',
+    'year': 2012,
+    'both_sexes': 4.4,
+    'male': 6.4,
+    'female': 2.5
+} {
+    'country': 'Nicaragua',
+    'year': 2011,
+    'both_sexes': 5.5,
+    'male': 8.1,
+    'female': 2.9
+} {
+    'country': 'Nicaragua',
+    'year': 2010,
+    'both_sexes': 4.8,
+    'male': 7.3,
+    'female': 2.3
+} {
+    'country': 'Nicaragua',
+    'year': 2009,
+    'both_sexes': 5.0,
+    'male': 7.1,
+    'female': 3.0
+} {
+    'country': 'Nicaragua',
+    'year': 2008,
+    'both_sexes': 5.1,
+    'male': 7.4,
+    'female': 2.8
+} {
+    'country': 'Nicaragua',
+    'year': 2007,
+    'both_sexes': 4.9,
+    'male': 7.4,
+    'female': 2.4
+} {
+    'country': 'Nicaragua',
+    'year': 2006,
+    'both_sexes': 4.6,
+    'male': 7.2,
+    'female': 2.1
+} {
+    'country': 'Nicaragua',
+    'year': 2005,
+    'both_sexes': 5.2,
+    'male': 8.2,
+    'female': 2.3
+} {
+    'country': 'Nicaragua',
+    'year': 2004,
+    'both_sexes': 5.4,
+    'male': 8.1,
+    'female': 2.8
+} {
+    'country': 'Nicaragua',
+    'year': 2003,
+    'both_sexes': 5.6,
+    'male': 8.2,
+    'female': 3.0
+} {
+    'country': 'Nicaragua',
+    'year': 2002,
+    'both_sexes': 5.0,
+    'male': 7.3,
+    'female': 2.9
+} {
+    'country': 'Nicaragua',
+    'year': 2001,
+    'both_sexes': 5.2,
+    'male': 7.1,
+    'female': 3.3
+} {
+    'country': 'Nicaragua',
+    'year': 2000,
+    'both_sexes': 5.5,
+    'male': 7.5,
+    'female': 3.6
+} {
+    'country': 'Niger',
+    'year': 2019,
+    'both_sexes': 5.3,
+    'male': 7.2,
+    'female': 3.3
+} {
+    'country': 'Niger',
+    'year': 2018,
+    'both_sexes': 5.3,
+    'male': 7.2,
+    'female': 3.3
+} {
+    'country': 'Niger',
+    'year': 2017,
+    'both_sexes': 5.3,
+    'male': 7.2,
+    'female': 3.3
+} {
+    'country': 'Niger',
+    'year': 2016,
+    'both_sexes': 5.3,
+    'male': 7.3,
+    'female': 3.3
+} {
+    'country': 'Niger',
+    'year': 2015,
+    'both_sexes': 5.4,
+    'male': 7.4,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2014,
+    'both_sexes': 5.5,
+    'male': 7.6,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2013,
+    'both_sexes': 5.5,
+    'male': 7.6,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2012,
+    'both_sexes': 5.5,
+    'male': 7.5,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2011,
+    'both_sexes': 5.4,
+    'male': 7.4,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2010,
+    'both_sexes': 5.3,
+    'male': 7.3,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2009,
+    'both_sexes': 5.3,
+    'male': 7.2,
+    'female': 3.3
+} {
+    'country': 'Niger',
+    'year': 2008,
+    'both_sexes': 5.2,
+    'male': 7.1,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2007,
+    'both_sexes': 5.3,
+    'male': 7.2,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2006,
+    'both_sexes': 5.2,
+    'male': 7.1,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2005,
+    'both_sexes': 5.3,
+    'male': 7.1,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2004,
+    'both_sexes': 5.1,
+    'male': 6.8,
+    'female': 3.4
+} {
+    'country': 'Niger',
+    'year': 2003,
+    'both_sexes': 5.2,
+    'male': 6.9,
+    'female': 3.5
+} {
+    'country': 'Niger',
+    'year': 2002,
+    'both_sexes': 5.1,
+    'male': 6.7,
+    'female': 3.5
+} {
+    'country': 'Niger',
+    'year': 2001,
+    'both_sexes': 5.1,
+    'male': 6.7,
+    'female': 3.6
+} {
+    'country': 'Niger',
+    'year': 2000,
+    'both_sexes': 5.0,
+    'male': 6.5,
+    'female': 3.5
+} {
+    'country': 'Nigeria',
+    'year': 2019,
+    'both_sexes': 3.5,
+    'male': 5.0,
+    'female': 1.9
+} {
+    'country': 'Nigeria',
+    'year': 2018,
+    'both_sexes': 3.5,
+    'male': 5.1,
+    'female': 2.0
+} {
+    'country': 'Nigeria',
+    'year': 2017,
+    'both_sexes': 3.6,
+    'male': 5.2,
+    'female': 2.0
+} {
+    'country': 'Nigeria',
+    'year': 2016,
+    'both_sexes': 3.7,
+    'male': 5.3,
+    'female': 2.0
+} {
+    'country': 'Nigeria',
+    'year': 2015,
+    'both_sexes': 3.7,
+    'male': 5.3,
+    'female': 2.0
+} {
+    'country': 'Nigeria',
+    'year': 2014,
+    'both_sexes': 3.9,
+    'male': 5.6,
+    'female': 2.1
+} {
+    'country': 'Nigeria',
+    'year': 2013,
+    'both_sexes': 4.1,
+    'male': 5.9,
+    'female': 2.2
+} {
+    'country': 'Nigeria',
+    'year': 2012,
+    'both_sexes': 4.2,
+    'male': 6.1,
+    'female': 2.2
+} {
+    'country': 'Nigeria',
+    'year': 2011,
+    'both_sexes': 4.4,
+    'male': 6.3,
+    'female': 2.3
+} {
+    'country': 'Nigeria',
+    'year': 2010,
+    'both_sexes': 4.4,
+    'male': 6.4,
+    'female': 2.4
+} {
+    'country': 'Nigeria',
+    'year': 2009,
+    'both_sexes': 4.5,
+    'male': 6.5,
+    'female': 2.5
+} {
+    'country': 'Nigeria',
+    'year': 2008,
+    'both_sexes': 4.6,
+    'male': 6.6,
+    'female': 2.6
+} {
+    'country': 'Nigeria',
+    'year': 2007,
+    'both_sexes': 4.7,
+    'male': 6.7,
+    'female': 2.7
+} {
+    'country': 'Nigeria',
+    'year': 2006,
+    'both_sexes': 4.7,
+    'male': 6.6,
+    'female': 2.8
+} {
+    'country': 'Nigeria',
+    'year': 2005,
+    'both_sexes': 4.8,
+    'male': 6.7,
+    'female': 2.8
+} {
+    'country': 'Nigeria',
+    'year': 2004,
+    'both_sexes': 4.8,
+    'male': 6.8,
+    'female': 2.9
+} {
+    'country': 'Nigeria',
+    'year': 2003,
+    'both_sexes': 4.8,
+    'male': 6.7,
+    'female': 2.8
+} {
+    'country': 'Nigeria',
+    'year': 2002,
+    'both_sexes': 4.8,
+    'male': 6.8,
+    'female': 2.9
+} {
+    'country': 'Nigeria',
+    'year': 2001,
+    'both_sexes': 4.9,
+    'male': 6.9,
+    'female': 2.9
+} {
+    'country': 'Nigeria',
+    'year': 2000,
+    'both_sexes': 4.9,
+    'male': 6.8,
+    'female': 2.9
+} {
+    'country': 'Norway',
+    'year': 2019,
+    'both_sexes': 11.8,
+    'male': 15.8,
+    'female': 7.7
+} {
+    'country': 'Norway',
+    'year': 2018,
+    'both_sexes': 12.0,
+    'male': 16.0,
+    'female': 7.8
+} {
+    'country': 'Norway',
+    'year': 2017,
+    'both_sexes': 12.1,
+    'male': 16.3,
+    'female': 8.0
+} {
+    'country': 'Norway',
+    'year': 2016,
+    'both_sexes': 12.6,
+    'male': 16.5,
+    'female': 8.6
+} {
+    'country': 'Norway',
+    'year': 2015,
+    'both_sexes': 12.5,
+    'male': 16.2,
+    'female': 8.7
+} {
+    'country': 'Norway',
+    'year': 2014,
+    'both_sexes': 11.6,
+    'male': 16.6,
+    'female': 6.7
+} {
+    'country': 'Norway',
+    'year': 2013,
+    'both_sexes': 11.8,
+    'male': 15.6,
+    'female': 7.9
+} {
+    'country': 'Norway',
+    'year': 2012,
+    'both_sexes': 11.4,
+    'male': 15.9,
+    'female': 6.9
+} {
+    'country': 'Norway',
+    'year': 2011,
+    'both_sexes': 13.3,
+    'male': 18.8,
+    'female': 7.7
+} {
+    'country': 'Norway',
+    'year': 2010,
+    'both_sexes': 12.4,
+    'male': 16.7,
+    'female': 8.0
+} {
+    'country': 'Norway',
+    'year': 2009,
+    'both_sexes': 13.0,
+    'male': 18.5,
+    'female': 7.4
+} {
+    'country': 'Norway',
+    'year': 2008,
+    'both_sexes': 11.8,
+    'male': 15.8,
+    'female': 7.7
+} {
+    'country': 'Norway',
+    'year': 2007,
+    'both_sexes': 11.8,
+    'male': 16.2,
+    'female': 7.4
+} {
+    'country': 'Norway',
+    'year': 2006,
+    'both_sexes': 12.8,
+    'male': 18.1,
+    'female': 7.5
+} {
+    'country': 'Norway',
+    'year': 2005,
+    'both_sexes': 12.4,
+    'male': 16.6,
+    'female': 8.3
+} {
+    'country': 'Norway',
+    'year': 2004,
+    'both_sexes': 12.8,
+    'male': 17.1,
+    'female': 8.6
+} {
+    'country': 'Norway',
+    'year': 2003,
+    'both_sexes': 11.8,
+    'male': 17.1,
+    'female': 6.7
+} {
+    'country': 'Norway',
+    'year': 2002,
+    'both_sexes': 12.1,
+    'male': 17.6,
+    'female': 6.7
+} {
+    'country': 'Norway',
+    'year': 2001,
+    'both_sexes': 14.2,
+    'male': 21.2,
+    'female': 7.3
+} {
+    'country': 'Norway',
+    'year': 2000,
+    'both_sexes': 13.9,
+    'male': 21.1,
+    'female': 6.8
+} {
+    'country': 'Oman',
+    'year': 2017,
+    'both_sexes': 4.7,
+    'male': 6.6,
+    'female': 1.1
+} {
+    'country': 'Oman',
+    'year': 2016,
+    'both_sexes': 4.7,
+    'male': 6.6,
+    'female': 1.1
+} {
+    'country': 'Oman',
+    'year': 2015,
+    'both_sexes': 5.0,
+    'male': 7.1,
+    'female': 1.2
+} {
+    'country': 'Oman',
+    'year': 2014,
+    'both_sexes': 5.1,
+    'male': 7.2,
+    'female': 1.2
+} {
+    'country': 'Oman',
+    'year': 2013,
+    'both_sexes': 5.3,
+    'male': 7.6,
+    'female': 1.3
+} {
+    'country': 'Oman',
+    'year': 2012,
+    'both_sexes': 5.4,
+    'male': 7.9,
+    'female': 1.3
+} {
+    'country': 'Oman',
+    'year': 2011,
+    'both_sexes': 6.1,
+    'male': 9.1,
+    'female': 1.4
+} {
+    'country': 'Oman',
+    'year': 2010,
+    'both_sexes': 6.7,
+    'male': 10.2,
+    'female': 1.5
+} {
+    'country': 'Oman',
+    'year': 2009,
+    'both_sexes': 6.5,
+    'male': 10.0,
+    'female': 1.4
+} {
+    'country': 'Oman',
+    'year': 2008,
+    'both_sexes': 6.8,
+    'male': 10.6,
+    'female': 1.4
+} {
+    'country': 'Oman',
+    'year': 2007,
+    'both_sexes': 6.8,
+    'male': 10.8,
+    'female': 1.5
+} {
+    'country': 'Oman',
+    'year': 2006,
+    'both_sexes': 6.5,
+    'male': 10.2,
+    'female': 1.6
+} {
+    'country': 'Oman',
+    'year': 2005,
+    'both_sexes': 6.0,
+    'male': 9.3,
+    'female': 1.5
+} {
+    'country': 'Oman',
+    'year': 2004,
+    'both_sexes': 5.9,
+    'male': 9.2,
+    'female': 1.5
+} {
+    'country': 'Oman',
+    'year': 2003,
+    'both_sexes': 6.1,
+    'male': 9.7,
+    'female': 1.6
+} {
+    'country': 'Oman',
+    'year': 2002,
+    'both_sexes': 5.9,
+    'male': 9.3,
+    'female': 1.6
+} {
+    'country': 'Oman',
+    'year': 2001,
+    'both_sexes': 6.2,
+    'male': 9.8,
+    'female': 1.6
+} {
+    'country': 'Oman',
+    'year': 2000,
+    'both_sexes': 6.2,
+    'male': 9.8,
+    'female': 1.6
+} {
+    'country': 'Pakistan',
+    'year': 2019,
+    'both_sexes': 8.9,
+    'male': 13.3,
+    'female': 4.3
+} {
+    'country': 'Pakistan',
+    'year': 2018,
+    'both_sexes': 8.9,
+    'male': 13.2,
+    'female': 4.4
+} {
+    'country': 'Pakistan',
+    'year': 2017,
+    'both_sexes': 9.1,
+    'male': 13.5,
+    'female': 4.5
+} {
+    'country': 'Pakistan',
+    'year': 2016,
+    'both_sexes': 9.1,
+    'male': 13.4,
+    'female': 4.5
+} {
+    'country': 'Pakistan',
+    'year': 2015,
+    'both_sexes': 9.0,
+    'male': 13.2,
+    'female': 4.5
+} {
+    'country': 'Pakistan',
+    'year': 2014,
+    'both_sexes': 8.9,
+    'male': 13.1,
+    'female': 4.5
+} {
+    'country': 'Pakistan',
+    'year': 2013,
+    'both_sexes': 8.9,
+    'male': 13.0,
+    'female': 4.5
+} {
+    'country': 'Pakistan',
+    'year': 2012,
+    'both_sexes': 8.8,
+    'male': 12.8,
+    'female': 4.5
+} {
+    'country': 'Pakistan',
+    'year': 2011,
+    'both_sexes': 8.7,
+    'male': 12.7,
+    'female': 4.5
+} {
+    'country': 'Pakistan',
+    'year': 2010,
+    'both_sexes': 8.8,
+    'male': 12.8,
+    'female': 4.6
+} {
+    'country': 'Pakistan',
+    'year': 2009,
+    'both_sexes': 8.8,
+    'male': 12.9,
+    'female': 4.6
+} {
+    'country': 'Pakistan',
+    'year': 2008,
+    'both_sexes': 9.0,
+    'male': 13.0,
+    'female': 4.7
+} {
+    'country': 'Pakistan',
+    'year': 2007,
+    'both_sexes': 9.1,
+    'male': 13.1,
+    'female': 4.7
+} {
+    'country': 'Pakistan',
+    'year': 2006,
+    'both_sexes': 9.2,
+    'male': 13.2,
+    'female': 4.9
+} {
+    'country': 'Pakistan',
+    'year': 2005,
+    'both_sexes': 9.0,
+    'male': 13.0,
+    'female': 4.8
+} {
+    'country': 'Pakistan',
+    'year': 2004,
+    'both_sexes': 9.2,
+    'male': 13.2,
+    'female': 4.9
+} {
+    'country': 'Pakistan',
+    'year': 2003,
+    'both_sexes': 9.1,
+    'male': 13.2,
+    'female': 4.9
+} {
+    'country': 'Pakistan',
+    'year': 2002,
+    'both_sexes': 9.1,
+    'male': 13.0,
+    'female': 4.8
+} {
+    'country': 'Pakistan',
+    'year': 2001,
+    'both_sexes': 8.9,
+    'male': 12.9,
+    'female': 4.7
+} {
+    'country': 'Pakistan',
+    'year': 2000,
+    'both_sexes': 8.8,
+    'male': 12.8,
+    'female': 4.6
+} {
+    'country': 'Panama',
+    'year': 2015,
+    'both_sexes': 2.9,
+    'male': 4.7,
+    'female': 1.1
+} {
+    'country': 'Panama',
+    'year': 2014,
+    'both_sexes': 4.1,
+    'male': 7.0,
+    'female': 1.1
+} {
+    'country': 'Panama',
+    'year': 2011,
+    'both_sexes': 3.8,
+    'male': 6.4,
+    'female': 1.2
+} {
+    'country': 'Panama',
+    'year': 2010,
+    'both_sexes': 4.2,
+    'male': 7.2,
+    'female': 1.1
+} {
+    'country': 'Panama',
+    'year': 2009,
+    'both_sexes': 4.8,
+    'male': 8.1,
+    'female': 1.5
+} {
+    'country': 'Panama',
+    'year': 2008,
+    'both_sexes': 5.4,
+    'male': 8.8,
+    'female': 1.9
+} {
+    'country': 'Panama',
+    'year': 2007,
+    'both_sexes': 4.9,
+    'male': 8.5,
+    'female': 1.2
+} {
+    'country': 'Panama',
+    'year': 2005,
+    'both_sexes': 5.0,
+    'male': 8.4,
+    'female': 1.5
+} {
+    'country': 'Panama',
+    'year': 2004,
+    'both_sexes': 5.8,
+    'male': 9.5,
+    'female': 2.1
+} {
+    'country': 'Panama',
+    'year': 2003,
+    'both_sexes': 5.9,
+    'male': 10.5,
+    'female': 1.3
+} {
+    'country': 'Panama',
+    'year': 2002,
+    'both_sexes': 5.3,
+    'male': 8.3,
+    'female': 2.2
+} {
+    'country': 'Panama',
+    'year': 2001,
+    'both_sexes': 5.7,
+    'male': 9.8,
+    'female': 1.6
+} {
+    'country': 'Panama',
+    'year': 2000,
+    'both_sexes': 5.4,
+    'male': 9.3,
+    'female': 1.5
+} {
+    'country': 'Papua New Guinea',
+    'year': 2019,
+    'both_sexes': 3.0,
+    'male': 4.3,
+    'female': 1.6
+} {
+    'country': 'Papua New Guinea',
+    'year': 2018,
+    'both_sexes': 2.9,
+    'male': 4.2,
+    'female': 1.5
+} {
+    'country': 'Papua New Guinea',
+    'year': 2017,
+    'both_sexes': 2.8,
+    'male': 4.1,
+    'female': 1.5
+} {
+    'country': 'Papua New Guinea',
+    'year': 2016,
+    'both_sexes': 3.0,
+    'male': 4.3,
+    'female': 1.6
+} {
+    'country': 'Papua New Guinea',
+    'year': 2015,
+    'both_sexes': 3.0,
+    'male': 4.2,
+    'female': 1.6
+} {
+    'country': 'Papua New Guinea',
+    'year': 2014,
+    'both_sexes': 2.9,
+    'male': 4.2,
+    'female': 1.6
+} {
+    'country': 'Papua New Guinea',
+    'year': 2013,
+    'both_sexes': 2.7,
+    'male': 3.9,
+    'female': 1.5
+} {
+    'country': 'Papua New Guinea',
+    'year': 2012,
+    'both_sexes': 2.7,
+    'male': 3.9,
+    'female': 1.4
+} {
+    'country': 'Papua New Guinea',
+    'year': 2011,
+    'both_sexes': 2.6,
+    'male': 3.7,
+    'female': 1.4
+} {
+    'country': 'Papua New Guinea',
+    'year': 2010,
+    'both_sexes': 2.6,
+    'male': 3.7,
+    'female': 1.4
+} {
+    'country': 'Papua New Guinea',
+    'year': 2009,
+    'both_sexes': 2.4,
+    'male': 3.5,
+    'female': 1.3
+} {
+    'country': 'Papua New Guinea',
+    'year': 2008,
+    'both_sexes': 2.5,
+    'male': 3.7,
+    'female': 1.3
+} {
+    'country': 'Papua New Guinea',
+    'year': 2007,
+    'both_sexes': 2.5,
+    'male': 3.7,
+    'female': 1.4
+} {
+    'country': 'Papua New Guinea',
+    'year': 2006,
+    'both_sexes': 2.4,
+    'male': 3.5,
+    'female': 1.3
+} {
+    'country': 'Papua New Guinea',
+    'year': 2005,
+    'both_sexes': 2.4,
+    'male': 3.5,
+    'female': 1.3
+} {
+    'country': 'Papua New Guinea',
+    'year': 2004,
+    'both_sexes': 2.4,
+    'male': 3.5,
+    'female': 1.3
+} {
+    'country': 'Papua New Guinea',
+    'year': 2003,
+    'both_sexes': 2.4,
+    'male': 3.4,
+    'female': 1.2
+} {
+    'country': 'Papua New Guinea',
+    'year': 2002,
+    'both_sexes': 2.3,
+    'male': 3.3,
+    'female': 1.2
+} {
+    'country': 'Papua New Guinea',
+    'year': 2001,
+    'both_sexes': 2.3,
+    'male': 3.4,
+    'female': 1.2
+} {
+    'country': 'Paraguay',
+    'year': 2019,
+    'both_sexes': 6.0,
+    'male': 8.7,
+    'female': 3.2
+} {
+    'country': 'Paraguay',
+    'year': 2018,
+    'both_sexes': 6.0,
+    'male': 8.6,
+    'female': 3.2
+} {
+    'country': 'Paraguay',
+    'year': 2017,
+    'both_sexes': 6.1,
+    'male': 8.6,
+    'female': 3.4
+} {
+    'country': 'Paraguay',
+    'year': 2016,
+    'both_sexes': 5.3,
+    'male': 7.7,
+    'female': 2.8
+} {
+    'country': 'Paraguay',
+    'year': 2015,
+    'both_sexes': 5.7,
+    'male': 8.2,
+    'female': 3.2
+} {
+    'country': 'Paraguay',
+    'year': 2014,
+    'both_sexes': 5.9,
+    'male': 7.8,
+    'female': 3.8
+} {
+    'country': 'Paraguay',
+    'year': 2013,
+    'both_sexes': 4.9,
+    'male': 7.0,
+    'female': 2.8
+} {
+    'country': 'Paraguay',
+    'year': 2012,
+    'both_sexes': 4.6,
+    'male': 5.9,
+    'female': 3.2
+} {
+    'country': 'Paraguay',
+    'year': 2011,
+    'both_sexes': 4.6,
+    'male': 6.4,
+    'female': 2.7
+} {
+    'country': 'Paraguay',
+    'year': 2010,
+    'both_sexes': 3.5,
+    'male': 4.8,
+    'female': 2.2
+} {
+    'country': 'Paraguay',
+    'year': 2009,
+    'both_sexes': 4.4,
+    'male': 6.2,
+    'female': 2.5
+} {
+    'country': 'Paraguay',
+    'year': 2008,
+    'both_sexes': 3.6,
+    'male': 4.8,
+    'female': 2.3
+} {
+    'country': 'Paraguay',
+    'year': 2007,
+    'both_sexes': 3.8,
+    'male': 5.0,
+    'female': 2.6
+} {
+    'country': 'Paraguay',
+    'year': 2006,
+    'both_sexes': 4.2,
+    'male': 5.8,
+    'female': 2.7
+} {
+    'country': 'Paraguay',
+    'year': 2005,
+    'both_sexes': 4.4,
+    'male': 5.2,
+    'female': 3.5
+} {
+    'country': 'Paraguay',
+    'year': 2004,
+    'both_sexes': 4.2,
+    'male': 5.5,
+    'female': 2.9
+} {
+    'country': 'Paraguay',
+    'year': 2003,
+    'both_sexes': 3.4,
+    'male': 4.6,
+    'female': 2.2
+} {
+    'country': 'Paraguay',
+    'year': 2002,
+    'both_sexes': 3.6,
+    'male': 3.9,
+    'female': 3.2
+} {
+    'country': 'Paraguay',
+    'year': 2001,
+    'both_sexes': 3.1,
+    'male': 3.6,
+    'female': 2.5
+} {
+    'country': 'Paraguay',
+    'year': 2000,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.3
+} {
+    'country': 'Peru',
+    'year': 2019,
+    'both_sexes': 2.8,
+    'male': 4.2,
+    'female': 1.4
+} {
+    'country': 'Peru',
+    'year': 2018,
+    'both_sexes': 2.8,
+    'male': 4.1,
+    'female': 1.4
+} {
+    'country': 'Peru',
+    'year': 2017,
+    'both_sexes': 2.7,
+    'male': 4.1,
+    'female': 1.4
+} {
+    'country': 'Peru',
+    'year': 2016,
+    'both_sexes': 2.6,
+    'male': 3.9,
+    'female': 1.4
+} {
+    'country': 'Peru',
+    'year': 2015,
+    'both_sexes': 2.7,
+    'male': 4.0,
+    'female': 1.5
+} {
+    'country': 'Peru',
+    'year': 2014,
+    'both_sexes': 2.9,
+    'male': 4.3,
+    'female': 1.6
+} {
+    'country': 'Peru',
+    'year': 2013,
+    'both_sexes': 3.1,
+    'male': 4.6,
+    'female': 1.7
+} {
+    'country': 'Peru',
+    'year': 2012,
+    'both_sexes': 3.2,
+    'male': 4.7,
+    'female': 1.8
+} {
+    'country': 'Peru',
+    'year': 2011,
+    'both_sexes': 3.3,
+    'male': 4.8,
+    'female': 1.8
+} {
+    'country': 'Peru',
+    'year': 2010,
+    'both_sexes': 3.5,
+    'male': 5.0,
+    'female': 1.9
+} {
+    'country': 'Peru',
+    'year': 2009,
+    'both_sexes': 3.3,
+    'male': 4.7,
+    'female': 1.9
+} {
+    'country': 'Peru',
+    'year': 2008,
+    'both_sexes': 2.7,
+    'male': 3.9,
+    'female': 1.6
+} {
+    'country': 'Peru',
+    'year': 2007,
+    'both_sexes': 2.6,
+    'male': 3.7,
+    'female': 1.6
+} {
+    'country': 'Peru',
+    'year': 2006,
+    'both_sexes': 2.7,
+    'male': 3.7,
+    'female': 1.7
+} {
+    'country': 'Peru',
+    'year': 2005,
+    'both_sexes': 2.7,
+    'male': 3.7,
+    'female': 1.8
+} {
+    'country': 'Peru',
+    'year': 2004,
+    'both_sexes': 2.8,
+    'male': 3.9,
+    'female': 1.8
+} {
+    'country': 'Peru',
+    'year': 2003,
+    'both_sexes': 3.0,
+    'male': 4.0,
+    'female': 2.0
+} {
+    'country': 'Peru',
+    'year': 2002,
+    'both_sexes': 2.9,
+    'male': 3.8,
+    'female': 2.0
+} {
+    'country': 'Peru',
+    'year': 2001,
+    'both_sexes': 2.9,
+    'male': 3.7,
+    'female': 2.1
+} {
+    'country': 'Peru',
+    'year': 2000,
+    'both_sexes': 3.1,
+    'male': 3.9,
+    'female': 2.3
+} {
+    'country': 'Philippines',
+    'year': 2019,
+    'both_sexes': 2.2,
+    'male': 3.1,
+    'female': 1.2
+} {
+    'country': 'Philippines',
+    'year': 2018,
+    'both_sexes': 2.2,
+    'male': 3.2,
+    'female': 1.1
+} {
+    'country': 'Philippines',
+    'year': 2017,
+    'both_sexes': 2.2,
+    'male': 3.3,
+    'female': 1.1
+} {
+    'country': 'Philippines',
+    'year': 2016,
+    'both_sexes': 2.2,
+    'male': 3.4,
+    'female': 1.1
+} {
+    'country': 'Philippines',
+    'year': 2015,
+    'both_sexes': 2.3,
+    'male': 3.5,
+    'female': 1.1
+} {
+    'country': 'Philippines',
+    'year': 2013,
+    'both_sexes': 2.4,
+    'male': 3.5,
+    'female': 1.2
+} {
+    'country': 'Philippines',
+    'year': 2012,
+    'both_sexes': 2.4,
+    'male': 3.5,
+    'female': 1.3
+} {
+    'country': 'Philippines',
+    'year': 2011,
+    'both_sexes': 2.7,
+    'male': 4.0,
+    'female': 1.5
+} {
+    'country': 'Philippines',
+    'year': 2010,
+    'both_sexes': 2.4,
+    'male': 3.4,
+    'female': 1.3
+} {
+    'country': 'Philippines',
+    'year': 2009,
+    'both_sexes': 2.3,
+    'male': 3.3,
+    'female': 1.3
+} {
+    'country': 'Poland',
+    'year': 2019,
+    'both_sexes': 11.3,
+    'male': 20.1,
+    'female': 3.1
+} {
+    'country': 'Poland',
+    'year': 2018,
+    'both_sexes': 12.7,
+    'male': 22.8,
+    'female': 3.1
+} {
+    'country': 'Poland',
+    'year': 2017,
+    'both_sexes': 13.3,
+    'male': 23.8,
+    'female': 3.4
+} {
+    'country': 'Poland',
+    'year': 2016,
+    'both_sexes': 13.8,
+    'male': 25.0,
+    'female': 3.4
+} {
+    'country': 'Poland',
+    'year': 2015,
+    'both_sexes': 15.9,
+    'male': 28.4,
+    'female': 4.1
+} {
+    'country': 'Poland',
+    'year': 2014,
+    'both_sexes': 17.4,
+    'male': 31.0,
+    'female': 4.6
+} {
+    'country': 'Poland',
+    'year': 2013,
+    'both_sexes': 18.2,
+    'male': 32.6,
+    'female': 4.8
+} {
+    'country': 'Poland',
+    'year': 2012,
+    'both_sexes': 18.5,
+    'male': 33.4,
+    'female': 4.6
+} {
+    'country': 'Poland',
+    'year': 2011,
+    'both_sexes': 18.0,
+    'male': 32.5,
+    'female': 4.4
+} {
+    'country': 'Poland',
+    'year': 2010,
+    'both_sexes': 18.6,
+    'male': 33.4,
+    'female': 4.8
+} {
+    'country': 'Poland',
+    'year': 2009,
+    'both_sexes': 19.2,
+    'male': 33.9,
+    'female': 5.4
+} {
+    'country': 'Poland',
+    'year': 2008,
+    'both_sexes': 17.0,
+    'male': 30.2,
+    'female': 4.7
+} {
+    'country': 'Poland',
+    'year': 2007,
+    'both_sexes': 15.7,
+    'male': 27.5,
+    'female': 4.6
+} {
+    'country': 'Poland',
+    'year': 2006,
+    'both_sexes': 17.1,
+    'male': 30.1,
+    'female': 4.9
+} {
+    'country': 'Poland',
+    'year': 2005,
+    'both_sexes': 17.7,
+    'male': 31.2,
+    'female': 5.1
+} {
+    'country': 'Poland',
+    'year': 2004,
+    'both_sexes': 17.6,
+    'male': 30.9,
+    'female': 5.1
+} {
+    'country': 'Poland',
+    'year': 2003,
+    'both_sexes': 17.0,
+    'male': 29.9,
+    'female': 5.0
+} {
+    'country': 'Poland',
+    'year': 2002,
+    'both_sexes': 17.3,
+    'male': 29.8,
+    'female': 5.6
+} {
+    'country': 'Poland',
+    'year': 2001,
+    'both_sexes': 17.2,
+    'male': 30.3,
+    'female': 4.8
+} {
+    'country': 'Poland',
+    'year': 2000,
+    'both_sexes': 17.0,
+    'male': 29.2,
+    'female': 5.4
+} {
+    'country': 'Portugal',
+    'year': 2019,
+    'both_sexes': 11.5,
+    'male': 17.9,
+    'female': 5.7
+} {
+    'country': 'Portugal',
+    'year': 2018,
+    'both_sexes': 11.7,
+    'male': 17.8,
+    'female': 6.3
+} {
+    'country': 'Portugal',
+    'year': 2017,
+    'both_sexes': 12.0,
+    'male': 18.6,
+    'female': 6.0
+} {
+    'country': 'Portugal',
+    'year': 2016,
+    'both_sexes': 11.4,
+    'male': 18.2,
+    'female': 5.2
+} {
+    'country': 'Portugal',
+    'year': 2015,
+    'both_sexes': 13.2,
+    'male': 19.2,
+    'female': 7.8
+} {
+    'country': 'Portugal',
+    'year': 2014,
+    'both_sexes': 14.2,
+    'male': 22.3,
+    'female': 7.0
+} {
+    'country': 'Portugal',
+    'year': 2013,
+    'both_sexes': 12.5,
+    'male': 19.9,
+    'female': 5.9
+} {
+    'country': 'Portugal',
+    'year': 2012,
+    'both_sexes': 13.5,
+    'male': 22.2,
+    'female': 5.6
+} {
+    'country': 'Portugal',
+    'year': 2011,
+    'both_sexes': 12.3,
+    'male': 19.8,
+    'female': 5.4
+} {
+    'country': 'Portugal',
+    'year': 2010,
+    'both_sexes': 13.6,
+    'male': 21.2,
+    'female': 6.6
+} {
+    'country': 'Portugal',
+    'year': 2009,
+    'both_sexes': 13.1,
+    'male': 20.6,
+    'female': 6.1
+} {
+    'country': 'Portugal',
+    'year': 2008,
+    'both_sexes': 13.1,
+    'male': 20.6,
+    'female': 6.2
+} {
+    'country': 'Portugal',
+    'year': 2007,
+    'both_sexes': 12.6,
+    'male': 19.1,
+    'female': 6.6
+} {
+    'country': 'Portugal',
+    'year': 2006,
+    'both_sexes': 11.5,
+    'male': 18.3,
+    'female': 5.2
+} {
+    'country': 'Portugal',
+    'year': 2005,
+    'both_sexes': 11.4,
+    'male': 17.8,
+    'female': 5.3
+} {
+    'country': 'Portugal',
+    'year': 2004,
+    'both_sexes': 10.6,
+    'male': 16.5,
+    'female': 5.0
+} {
+    'country': 'Portugal',
+    'year': 2003,
+    'both_sexes': 11.9,
+    'male': 18.9,
+    'female': 5.3
+} {
+    'country': 'Portugal',
+    'year': 2002,
+    'both_sexes': 12.5,
+    'male': 20.2,
+    'female': 5.2
+} {
+    'country': 'Portugal',
+    'year': 2001,
+    'both_sexes': 8.8,
+    'male': 14.0,
+    'female': 4.0
+} {
+    'country': 'Portugal',
+    'year': 2000,
+    'both_sexes': 7.6,
+    'male': 12.4,
+    'female': 3.1
+} {
+    'country': 'Qatar',
+    'year': 2019,
+    'both_sexes': 5.8,
+    'male': 7.2,
+    'female': 1.7
+} {
+    'country': 'Qatar',
+    'year': 2018,
+    'both_sexes': 5.8,
+    'male': 7.1,
+    'female': 1.7
+} {
+    'country': 'Qatar',
+    'year': 2017,
+    'both_sexes': 5.8,
+    'male': 7.1,
+    'female': 1.8
+} {
+    'country': 'Qatar',
+    'year': 2016,
+    'both_sexes': 6.1,
+    'male': 7.4,
+    'female': 1.8
+} {
+    'country': 'Qatar',
+    'year': 2015,
+    'both_sexes': 6.1,
+    'male': 7.4,
+    'female': 1.9
+} {
+    'country': 'Qatar',
+    'year': 2014,
+    'both_sexes': 6.3,
+    'male': 7.7,
+    'female': 1.8
+} {
+    'country': 'Qatar',
+    'year': 2013,
+    'both_sexes': 6.7,
+    'male': 8.2,
+    'female': 1.8
+} {
+    'country': 'Qatar',
+    'year': 2012,
+    'both_sexes': 7.4,
+    'male': 9.0,
+    'female': 2.0
+} {
+    'country': 'Qatar',
+    'year': 2011,
+    'both_sexes': 8.0,
+    'male': 9.7,
+    'female': 2.1
+} {
+    'country': 'Qatar',
+    'year': 2010,
+    'both_sexes': 8.2,
+    'male': 10.1,
+    'female': 2.2
+} {
+    'country': 'Qatar',
+    'year': 2009,
+    'both_sexes': 8.4,
+    'male': 10.4,
+    'female': 2.2
+} {
+    'country': 'Qatar',
+    'year': 2008,
+    'both_sexes': 8.3,
+    'male': 10.3,
+    'female': 2.3
+} {
+    'country': 'Qatar',
+    'year': 2007,
+    'both_sexes': 8.4,
+    'male': 10.7,
+    'female': 2.5
+} {
+    'country': 'Qatar',
+    'year': 2006,
+    'both_sexes': 6.8,
+    'male': 8.8,
+    'female': 2.1
+} {
+    'country': 'Qatar',
+    'year': 2005,
+    'both_sexes': 6.8,
+    'male': 9.3,
+    'female': 1.7
+} {
+    'country': 'Qatar',
+    'year': 2004,
+    'both_sexes': 7.2,
+    'male': 10.0,
+    'female': 1.8
+} {
+    'country': 'Qatar',
+    'year': 2003,
+    'both_sexes': 7.4,
+    'male': 10.4,
+    'female': 1.9
+} {
+    'country': 'Qatar',
+    'year': 2002,
+    'both_sexes': 7.8,
+    'male': 10.9,
+    'female': 2.2
+} {
+    'country': 'Qatar',
+    'year': 2001,
+    'both_sexes': 8.0,
+    'male': 11.1,
+    'female': 2.2
+} {
+    'country': 'Qatar',
+    'year': 2000,
+    'both_sexes': 7.8,
+    'male': 10.9,
+    'female': 2.2
+} {
+    'country': 'Republic of Korea',
+    'year': 2019,
+    'both_sexes': 28.6,
+    'male': 40.2,
+    'female': 16.9
+} {
+    'country': 'Republic of Korea',
+    'year': 2018,
+    'both_sexes': 28.6,
+    'male': 41.2,
+    'female': 15.9
+} {
+    'country': 'Republic of Korea',
+    'year': 2017,
+    'both_sexes': 25.8,
+    'male': 36.8,
+    'female': 14.7
+} {
+    'country': 'Republic of Korea',
+    'year': 2016,
+    'both_sexes': 27.2,
+    'male': 38.3,
+    'female': 16.0
+} {
+    'country': 'Republic of Korea',
+    'year': 2015,
+    'both_sexes': 28.0,
+    'male': 39.5,
+    'female': 16.5
+} {
+    'country': 'Republic of Korea',
+    'year': 2014,
+    'both_sexes': 29.0,
+    'male': 40.7,
+    'female': 17.2
+} {
+    'country': 'Republic of Korea',
+    'year': 2013,
+    'both_sexes': 30.6,
+    'male': 42.5,
+    'female': 18.6
+} {
+    'country': 'Republic of Korea',
+    'year': 2012,
+    'both_sexes': 30.2,
+    'male': 40.9,
+    'female': 19.5
+} {
+    'country': 'Republic of Korea',
+    'year': 2011,
+    'both_sexes': 34.5,
+    'male': 47.0,
+    'female': 21.9
+} {
+    'country': 'Republic of Korea',
+    'year': 2010,
+    'both_sexes': 34.0,
+    'male': 44.9,
+    'female': 23.0
+} {
+    'country': 'Republic of Korea',
+    'year': 2009,
+    'both_sexes': 34.2,
+    'male': 44.0,
+    'female': 24.4
+} {
+    'country': 'Republic of Korea',
+    'year': 2008,
+    'both_sexes': 28.6,
+    'male': 36.7,
+    'female': 20.4
+} {
+    'country': 'Republic of Korea',
+    'year': 2007,
+    'both_sexes': 26.7,
+    'male': 33.9,
+    'female': 19.5
+} {
+    'country': 'Republic of Korea',
+    'year': 2006,
+    'both_sexes': 23.7,
+    'male': 31.8,
+    'female': 15.5
+} {
+    'country': 'Republic of Korea',
+    'year': 2005,
+    'both_sexes': 26.7,
+    'male': 35.5,
+    'female': 17.9
+} {
+    'country': 'Republic of Korea',
+    'year': 2004,
+    'both_sexes': 25.4,
+    'male': 34.6,
+    'female': 16.1
+} {
+    'country': 'Republic of Korea',
+    'year': 2003,
+    'both_sexes': 24.1,
+    'male': 33.0,
+    'female': 15.1
+} {
+    'country': 'Republic of Korea',
+    'year': 2002,
+    'both_sexes': 19.0,
+    'male': 25.9,
+    'female': 12.0
+} {
+    'country': 'Republic of Korea',
+    'year': 2001,
+    'both_sexes': 15.6,
+    'male': 21.6,
+    'female': 9.5
+} {
+    'country': 'Republic of Korea',
+    'year': 2000,
+    'both_sexes': 14.5,
+    'male': 19.9,
+    'female': 9.0
+} {
+    'country': 'Republic of Moldova',
+    'year': 2019,
+    'both_sexes': 14.7,
+    'male': 26.1,
+    'female': 4.1
+} {
+    'country': 'Republic of Moldova',
+    'year': 2018,
+    'both_sexes': 14.4,
+    'male': 26.0,
+    'female': 3.8
+} {
+    'country': 'Republic of Moldova',
+    'year': 2017,
+    'both_sexes': 14.9,
+    'male': 26.6,
+    'female': 4.0
+} {
+    'country': 'Republic of Moldova',
+    'year': 2016,
+    'both_sexes': 15.9,
+    'male': 27.9,
+    'female': 4.7
+} {
+    'country': 'Republic of Moldova',
+    'year': 2015,
+    'both_sexes': 16.2,
+    'male': 27.8,
+    'female': 5.4
+} {
+    'country': 'Republic of Moldova',
+    'year': 2014,
+    'both_sexes': 17.2,
+    'male': 30.6,
+    'female': 4.7
+} {
+    'country': 'Republic of Moldova',
+    'year': 2013,
+    'both_sexes': 17.0,
+    'male': 29.6,
+    'female': 5.2
+} {
+    'country': 'Republic of Moldova',
+    'year': 2012,
+    'both_sexes': 17.0,
+    'male': 29.0,
+    'female': 5.9
+} {
+    'country': 'Republic of Moldova',
+    'year': 2011,
+    'both_sexes': 15.3,
+    'male': 27.0,
+    'female': 4.4
+} {
+    'country': 'Republic of Moldova',
+    'year': 2010,
+    'both_sexes': 20.5,
+    'male': 36.5,
+    'female': 5.8
+} {
+    'country': 'Republic of Moldova',
+    'year': 2009,
+    'both_sexes': 19.7,
+    'male': 34.9,
+    'female': 5.6
+} {
+    'country': 'Republic of Moldova',
+    'year': 2008,
+    'both_sexes': 19.1,
+    'male': 33.1,
+    'female': 6.3
+} {
+    'country': 'Republic of Moldova',
+    'year': 2007,
+    'both_sexes': 17.2,
+    'male': 30.5,
+    'female': 5.0
+} {
+    'country': 'Republic of Moldova',
+    'year': 2006,
+    'both_sexes': 19.7,
+    'male': 34.9,
+    'female': 5.7
+} {
+    'country': 'Republic of Moldova',
+    'year': 2005,
+    'both_sexes': 19.4,
+    'male': 34.1,
+    'female': 5.9
+} {
+    'country': 'Republic of Moldova',
+    'year': 2004,
+    'both_sexes': 18.3,
+    'male': 32.0,
+    'female': 5.8
+} {
+    'country': 'Republic of Moldova',
+    'year': 2003,
+    'both_sexes': 18.5,
+    'male': 33.0,
+    'female': 5.3
+} {
+    'country': 'Republic of Moldova',
+    'year': 2002,
+    'both_sexes': 17.7,
+    'male': 30.5,
+    'female': 5.8
+} {
+    'country': 'Republic of Moldova',
+    'year': 2001,
+    'both_sexes': 18.6,
+    'male': 32.5,
+    'female': 5.8
+} {
+    'country': 'Republic of Moldova',
+    'year': 2000,
+    'both_sexes': 17.2,
+    'male': 30.9,
+    'female': 4.6
+} {
+    'country': 'North Macedonia',
+    'year': 2019,
+    'both_sexes': 9.4,
+    'male': 13.9,
+    'female': 4.8
+} {
+    'country': 'North Macedonia',
+    'year': 2018,
+    'both_sexes': 9.4,
+    'male': 13.9,
+    'female': 4.8
+} {
+    'country': 'North Macedonia',
+    'year': 2017,
+    'both_sexes': 9.3,
+    'male': 13.8,
+    'female': 4.8
+} {
+    'country': 'North Macedonia',
+    'year': 2016,
+    'both_sexes': 9.3,
+    'male': 13.8,
+    'female': 4.7
+} {
+    'country': 'North Macedonia',
+    'year': 2015,
+    'both_sexes': 9.2,
+    'male': 13.7,
+    'female': 4.7
+} {
+    'country': 'North Macedonia',
+    'year': 2014,
+    'both_sexes': 9.3,
+    'male': 13.8,
+    'female': 4.7
+} {
+    'country': 'North Macedonia',
+    'year': 2013,
+    'both_sexes': 9.7,
+    'male': 15.6,
+    'female': 3.9
+} {
+    'country': 'North Macedonia',
+    'year': 2012,
+    'both_sexes': 10.0,
+    'male': 13.9,
+    'female': 6.0
+} {
+    'country': 'North Macedonia',
+    'year': 2011,
+    'both_sexes': 7.4,
+    'male': 11.1,
+    'female': 3.7
+} {
+    'country': 'North Macedonia',
+    'year': 2010,
+    'both_sexes': 7.1,
+    'male': 10.1,
+    'female': 4.0
+} {
+    'country': 'North Macedonia',
+    'year': 2009,
+    'both_sexes': 9.7,
+    'male': 14.5,
+    'female': 4.8
+} {
+    'country': 'North Macedonia',
+    'year': 2008,
+    'both_sexes': 9.4,
+    'male': 13.7,
+    'female': 5.2
+} {
+    'country': 'North Macedonia',
+    'year': 2007,
+    'both_sexes': 9.4,
+    'male': 13.5,
+    'female': 5.3
+} {
+    'country': 'North Macedonia',
+    'year': 2006,
+    'both_sexes': 9.7,
+    'male': 14.4,
+    'female': 4.9
+} {
+    'country': 'North Macedonia',
+    'year': 2005,
+    'both_sexes': 8.6,
+    'male': 12.4,
+    'female': 4.8
+} {
+    'country': 'North Macedonia',
+    'year': 2004,
+    'both_sexes': 10.6,
+    'male': 14.3,
+    'female': 6.9
+} {
+    'country': 'North Macedonia',
+    'year': 2003,
+    'both_sexes': 9.1,
+    'male': 13.0,
+    'female': 5.2
+} {
+    'country': 'North Macedonia',
+    'year': 2002,
+    'both_sexes': 9.7,
+    'male': 13.7,
+    'female': 5.8
+} {
+    'country': 'North Macedonia',
+    'year': 2001,
+    'both_sexes': 12.8,
+    'male': 20.7,
+    'female': 4.9
+} {
+    'country': 'North Macedonia',
+    'year': 2000,
+    'both_sexes': 9.3,
+    'male': 13.1,
+    'female': 5.5
+} {
+    'country': 'Romania',
+    'year': 2019,
+    'both_sexes': 9.7,
+    'male': 16.5,
+    'female': 3.3
+} {
+    'country': 'Romania',
+    'year': 2018,
+    'both_sexes': 10.2,
+    'male': 17.5,
+    'female': 3.3
+} {
+    'country': 'Romania',
+    'year': 2017,
+    'both_sexes': 10.1,
+    'male': 17.1,
+    'female': 3.5
+} {
+    'country': 'Romania',
+    'year': 2016,
+    'both_sexes': 10.2,
+    'male': 17.5,
+    'female': 3.2
+} {
+    'country': 'Romania',
+    'year': 2015,
+    'both_sexes': 11.5,
+    'male': 19.9,
+    'female': 3.5
+} {
+    'country': 'Romania',
+    'year': 2014,
+    'both_sexes': 11.3,
+    'male': 19.8,
+    'female': 3.3
+} {
+    'country': 'Romania',
+    'year': 2013,
+    'both_sexes': 12.2,
+    'male': 21.3,
+    'female': 3.7
+} {
+    'country': 'Romania',
+    'year': 2012,
+    'both_sexes': 12.6,
+    'male': 22.2,
+    'female': 3.5
+} {
+    'country': 'Romania',
+    'year': 2011,
+    'both_sexes': 12.1,
+    'male': 21.0,
+    'female': 3.7
+} {
+    'country': 'Romania',
+    'year': 2010,
+    'both_sexes': 13.2,
+    'male': 22.6,
+    'female': 4.5
+} {
+    'country': 'Romania',
+    'year': 2009,
+    'both_sexes': 12.2,
+    'male': 21.4,
+    'female': 3.6
+} {
+    'country': 'Romania',
+    'year': 2008,
+    'both_sexes': 11.7,
+    'male': 19.8,
+    'female': 4.2
+} {
+    'country': 'Romania',
+    'year': 2007,
+    'both_sexes': 11.6,
+    'male': 19.4,
+    'female': 4.2
+} {
+    'country': 'Romania',
+    'year': 2006,
+    'both_sexes': 12.9,
+    'male': 21.8,
+    'female': 4.5
+} {
+    'country': 'Romania',
+    'year': 2005,
+    'both_sexes': 12.3,
+    'male': 20.6,
+    'female': 4.4
+} {
+    'country': 'Romania',
+    'year': 2004,
+    'both_sexes': 12.7,
+    'male': 21.8,
+    'female': 4.1
+} {
+    'country': 'Romania',
+    'year': 2003,
+    'both_sexes': 13.5,
+    'male': 22.8,
+    'female': 4.7
+} {
+    'country': 'Romania',
+    'year': 2002,
+    'both_sexes': 14.2,
+    'male': 24.1,
+    'female': 4.8
+} {
+    'country': 'Romania',
+    'year': 2001,
+    'both_sexes': 12.3,
+    'male': 21.0,
+    'female': 3.9
+} {
+    'country': 'Romania',
+    'year': 2000,
+    'both_sexes': 12.9,
+    'male': 21.6,
+    'female': 4.6
+} {
+    'country': 'Russian Federation',
+    'year': 2019,
+    'both_sexes': 25.1,
+    'male': 43.6,
+    'female': 9.1
+} {
+    'country': 'Russian Federation',
+    'year': 2018,
+    'both_sexes': 27.1,
+    'male': 47.2,
+    'female': 9.7
+} {
+    'country': 'Russian Federation',
+    'year': 2017,
+    'both_sexes': 28.2,
+    'male': 49.3,
+    'female': 10.0
+} {
+    'country': 'Russian Federation',
+    'year': 2016,
+    'both_sexes': 31.0,
+    'male': 54.4,
+    'female': 10.7
+} {
+    'country': 'Russian Federation',
+    'year': 2015,
+    'both_sexes': 32.0,
+    'male': 56.4,
+    'female': 11.0
+} {
+    'country': 'Russian Federation',
+    'year': 2014,
+    'both_sexes': 33.8,
+    'male': 60.0,
+    'female': 11.3
+} {
+    'country': 'Russian Federation',
+    'year': 2013,
+    'both_sexes': 33.5,
+    'male': 59.3,
+    'female': 11.2
+} {
+    'country': 'Russian Federation',
+    'year': 2012,
+    'both_sexes': 34.4,
+    'male': 60.9,
+    'female': 11.6
+} {
+    'country': 'Russian Federation',
+    'year': 2011,
+    'both_sexes': 35.9,
+    'male': 63.5,
+    'female': 12.0
+} {
+    'country': 'Russian Federation',
+    'year': 2010,
+    'both_sexes': 38.1,
+    'male': 67.5,
+    'female': 12.6
+} {
+    'country': 'Russian Federation',
+    'year': 2009,
+    'both_sexes': 38.4,
+    'male': 68.0,
+    'female': 12.8
+} {
+    'country': 'Russian Federation',
+    'year': 2008,
+    'both_sexes': 40.7,
+    'male': 72.5,
+    'female': 13.2
+} {
+    'country': 'Russian Federation',
+    'year': 2007,
+    'both_sexes': 41.7,
+    'male': 74.1,
+    'female': 13.5
+} {
+    'country': 'Russian Federation',
+    'year': 2006,
+    'both_sexes': 44.8,
+    'male': 80.0,
+    'female': 14.1
+} {
+    'country': 'Russian Federation',
+    'year': 2005,
+    'both_sexes': 49.8,
+    'male': 89.3,
+    'female': 15.4
+} {
+    'country': 'Russian Federation',
+    'year': 2004,
+    'both_sexes': 50.1,
+    'male': 89.8,
+    'female': 15.4
+} {
+    'country': 'Russian Federation',
+    'year': 2003,
+    'both_sexes': 51.6,
+    'male': 92.4,
+    'female': 15.9
+} {
+    'country': 'Russian Federation',
+    'year': 2002,
+    'both_sexes': 52.0,
+    'male': 93.1,
+    'female': 16.0
+} {
+    'country': 'Russian Federation',
+    'year': 2001,
+    'both_sexes': 52.4,
+    'male': 94.1,
+    'female': 15.9
+} {
+    'country': 'Russian Federation',
+    'year': 2000,
+    'both_sexes': 53.8,
+    'male': 96.7,
+    'female': 16.1
+} {
+    'country': 'Rwanda',
+    'year': 2019,
+    'both_sexes': 5.6,
+    'male': 8.2,
+    'female': 3.0
+} {
+    'country': 'Rwanda',
+    'year': 2018,
+    'both_sexes': 5.6,
+    'male': 8.2,
+    'female': 3.0
+} {
+    'country': 'Rwanda',
+    'year': 2017,
+    'both_sexes': 5.6,
+    'male': 8.2,
+    'female': 3.1
+} {
+    'country': 'Rwanda',
+    'year': 2016,
+    'both_sexes': 5.7,
+    'male': 8.2,
+    'female': 3.2
+} {
+    'country': 'Rwanda',
+    'year': 2015,
+    'both_sexes': 5.7,
+    'male': 8.3,
+    'female': 3.3
+} {
+    'country': 'Rwanda',
+    'year': 2014,
+    'both_sexes': 5.8,
+    'male': 8.4,
+    'female': 3.4
+} {
+    'country': 'Rwanda',
+    'year': 2013,
+    'both_sexes': 5.8,
+    'male': 8.3,
+    'female': 3.4
+} {
+    'country': 'Rwanda',
+    'year': 2012,
+    'both_sexes': 6.0,
+    'male': 8.5,
+    'female': 3.7
+} {
+    'country': 'Rwanda',
+    'year': 2011,
+    'both_sexes': 6.2,
+    'male': 8.7,
+    'female': 3.9
+} {
+    'country': 'Rwanda',
+    'year': 2010,
+    'both_sexes': 6.6,
+    'male': 9.1,
+    'female': 4.1
+} {
+    'country': 'Rwanda',
+    'year': 2009,
+    'both_sexes': 7.0,
+    'male': 9.6,
+    'female': 4.4
+} {
+    'country': 'Rwanda',
+    'year': 2008,
+    'both_sexes': 7.5,
+    'male': 10.3,
+    'female': 4.8
+} {
+    'country': 'Rwanda',
+    'year': 2007,
+    'both_sexes': 8.0,
+    'male': 11.0,
+    'female': 5.1
+} {
+    'country': 'Rwanda',
+    'year': 2006,
+    'both_sexes': 8.4,
+    'male': 11.6,
+    'female': 5.4
+} {
+    'country': 'Rwanda',
+    'year': 2005,
+    'both_sexes': 8.8,
+    'male': 12.3,
+    'female': 5.5
+} {
+    'country': 'Rwanda',
+    'year': 2004,
+    'both_sexes': 9.6,
+    'male': 13.7,
+    'female': 5.8
+} {
+    'country': 'Rwanda',
+    'year': 2003,
+    'both_sexes': 11.0,
+    'male': 15.6,
+    'female': 6.6
+} {
+    'country': 'Rwanda',
+    'year': 2002,
+    'both_sexes': 12.5,
+    'male': 17.9,
+    'female': 7.4
+} {
+    'country': 'Rwanda',
+    'year': 2001,
+    'both_sexes': 14.0,
+    'male': 20.2,
+    'female': 8.1
+} {
+    'country': 'Rwanda',
+    'year': 2000,
+    'both_sexes': 15.8,
+    'male': 22.9,
+    'female': 9.0
+} {
+    'country': 'Saint Lucia',
+    'year': 2019,
+    'both_sexes': 7.9,
+    'male': 14.3,
+    'female': 1.7
+} {
+    'country': 'Saint Lucia',
+    'year': 2018,
+    'both_sexes': 8.0,
+    'male': 14.6,
+    'female': 1.7
+} {
+    'country': 'Saint Lucia',
+    'year': 2017,
+    'both_sexes': 7.9,
+    'male': 14.4,
+    'female': 1.7
+} {
+    'country': 'Saint Lucia',
+    'year': 2016,
+    'both_sexes': 7.4,
+    'male': 13.4,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2015,
+    'both_sexes': 8.7,
+    'male': 15.8,
+    'female': 1.8
+} {
+    'country': 'Saint Lucia',
+    'year': 2014,
+    'both_sexes': 8.9,
+    'male': 16.3,
+    'female': 1.8
+} {
+    'country': 'Saint Lucia',
+    'year': 2013,
+    'both_sexes': 8.3,
+    'male': 15.0,
+    'female': 1.8
+} {
+    'country': 'Saint Lucia',
+    'year': 2012,
+    'both_sexes': 8.7,
+    'male': 15.8,
+    'female': 1.8
+} {
+    'country': 'Saint Lucia',
+    'year': 2011,
+    'both_sexes': 7.2,
+    'male': 13.0,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2010,
+    'both_sexes': 7.9,
+    'male': 14.4,
+    'female': 1.7
+} {
+    'country': 'Saint Lucia',
+    'year': 2009,
+    'both_sexes': 7.2,
+    'male': 13.0,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2008,
+    'both_sexes': 8.0,
+    'male': 14.5,
+    'female': 1.7
+} {
+    'country': 'Saint Lucia',
+    'year': 2007,
+    'both_sexes': 7.1,
+    'male': 12.8,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2006,
+    'both_sexes': 7.6,
+    'male': 13.7,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2005,
+    'both_sexes': 7.1,
+    'male': 12.9,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2004,
+    'both_sexes': 6.9,
+    'male': 12.4,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2003,
+    'both_sexes': 7.2,
+    'male': 13.0,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2002,
+    'both_sexes': 6.8,
+    'male': 12.1,
+    'female': 1.6
+} {
+    'country': 'Saint Lucia',
+    'year': 2001,
+    'both_sexes': 7.3,
+    'male': 13.0,
+    'female': 1.8
+} {
+    'country': 'Saint Lucia',
+    'year': 2000,
+    'both_sexes': 7.2,
+    'male': 12.7,
+    'female': 1.9
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2012,
+    'both_sexes': 5.4,
+    'male': 6.8,
+    'female': 4.0
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2011,
+    'both_sexes': 5.6,
+    'male': 8.9,
+    'female': 2.1
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2007,
+    'both_sexes': 8.4,
+    'male': 15.6,
+    'female': 1.1
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2006,
+    'both_sexes': 6.2,
+    'male': 10.9,
+    'female': 1.3
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2005,
+    'both_sexes': 9.9,
+    'male': 17.5,
+    'female': 2.2
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2004,
+    'both_sexes': 5.1,
+    'male': 9.0,
+    'female': 1.2
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2003,
+    'both_sexes': 5.8,
+    'male': 10.4,
+    'female': 1.1
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2002,
+    'both_sexes': 6.6,
+    'male': 11.7,
+    'female': 1.3
+} {
+    'country': 'Saint Vincent and the Grenadines',
+    'year': 2001,
+    'both_sexes': 5.2,
+    'male': 9.3,
+    'female': 1.1
+} {
+    'country': 'Samoa',
+    'year': 2019,
+    'both_sexes': 12.6,
+    'male': 18.0,
+    'female': 6.7
+} {
+    'country': 'Samoa',
+    'year': 2018,
+    'both_sexes': 12.6,
+    'male': 18.1,
+    'female': 6.8
+} {
+    'country': 'Samoa',
+    'year': 2017,
+    'both_sexes': 12.6,
+    'male': 18.1,
+    'female': 6.6
+} {
+    'country': 'Samoa',
+    'year': 2016,
+    'both_sexes': 12.8,
+    'male': 18.4,
+    'female': 6.8
+} {
+    'country': 'Samoa',
+    'year': 2015,
+    'both_sexes': 12.7,
+    'male': 18.2,
+    'female': 6.7
+} {
+    'country': 'Samoa',
+    'year': 2014,
+    'both_sexes': 12.8,
+    'male': 18.3,
+    'female': 6.8
+} {
+    'country': 'Samoa',
+    'year': 2013,
+    'both_sexes': 12.1,
+    'male': 17.3,
+    'female': 6.6
+} {
+    'country': 'Samoa',
+    'year': 2012,
+    'both_sexes': 12.7,
+    'male': 18.3,
+    'female': 6.8
+} {
+    'country': 'Samoa',
+    'year': 2011,
+    'both_sexes': 12.8,
+    'male': 18.3,
+    'female': 6.8
+} {
+    'country': 'Samoa',
+    'year': 2010,
+    'both_sexes': 12.8,
+    'male': 18.4,
+    'female': 6.8
+} {
+    'country': 'Samoa',
+    'year': 2009,
+    'both_sexes': 11.0,
+    'male': 15.7,
+    'female': 6.0
+} {
+    'country': 'Samoa',
+    'year': 2008,
+    'both_sexes': 12.8,
+    'male': 18.7,
+    'female': 6.6
+} {
+    'country': 'Samoa',
+    'year': 2007,
+    'both_sexes': 12.9,
+    'male': 18.9,
+    'female': 6.5
+} {
+    'country': 'Samoa',
+    'year': 2006,
+    'both_sexes': 13.0,
+    'male': 19.2,
+    'female': 6.4
+} {
+    'country': 'Samoa',
+    'year': 2005,
+    'both_sexes': 12.9,
+    'male': 19.1,
+    'female': 6.3
+} {
+    'country': 'Samoa',
+    'year': 2004,
+    'both_sexes': 12.8,
+    'male': 18.9,
+    'female': 6.2
+} {
+    'country': 'Samoa',
+    'year': 2003,
+    'both_sexes': 13.2,
+    'male': 19.6,
+    'female': 6.4
+} {
+    'country': 'Samoa',
+    'year': 2002,
+    'both_sexes': 13.4,
+    'male': 19.9,
+    'female': 6.4
+} {
+    'country': 'Samoa',
+    'year': 2001,
+    'both_sexes': 13.7,
+    'male': 20.2,
+    'female': 6.6
+} {
+    'country': 'Samoa',
+    'year': 2000,
+    'both_sexes': 13.7,
+    'male': 20.3,
+    'female': 6.5
+} {
+    'country': 'Saudi Arabia',
+    'year': 2019,
+    'both_sexes': 6.0,
+    'male': 8.9,
+    'female': 2.0
+} {
+    'country': 'Saudi Arabia',
+    'year': 2018,
+    'both_sexes': 6.1,
+    'male': 9.1,
+    'female': 2.0
+} {
+    'country': 'Saudi Arabia',
+    'year': 2017,
+    'both_sexes': 6.2,
+    'male': 9.3,
+    'female': 2.1
+} {
+    'country': 'Saudi Arabia',
+    'year': 2016,
+    'both_sexes': 6.3,
+    'male': 9.5,
+    'female': 2.2
+} {
+    'country': 'Saudi Arabia',
+    'year': 2015,
+    'both_sexes': 6.3,
+    'male': 9.4,
+    'female': 2.3
+} {
+    'country': 'Saudi Arabia',
+    'year': 2014,
+    'both_sexes': 6.6,
+    'male': 9.8,
+    'female': 2.4
+} {
+    'country': 'Saudi Arabia',
+    'year': 2013,
+    'both_sexes': 6.5,
+    'male': 9.6,
+    'female': 2.4
+} {
+    'country': 'Saudi Arabia',
+    'year': 2012,
+    'both_sexes': 6.4,
+    'male': 9.5,
+    'female': 2.4
+} {
+    'country': 'Saudi Arabia',
+    'year': 2011,
+    'both_sexes': 6.1,
+    'male': 9.1,
+    'female': 2.2
+} {
+    'country': 'Saudi Arabia',
+    'year': 2010,
+    'both_sexes': 5.5,
+    'male': 8.3,
+    'female': 1.9
+} {
+    'country': 'Saudi Arabia',
+    'year': 2009,
+    'both_sexes': 5.0,
+    'male': 7.6,
+    'female': 1.6
+} {
+    'country': 'Saudi Arabia',
+    'year': 2008,
+    'both_sexes': 4.6,
+    'male': 7.0,
+    'female': 1.5
+} {
+    'country': 'Saudi Arabia',
+    'year': 2007,
+    'both_sexes': 4.3,
+    'male': 6.5,
+    'female': 1.4
+} {
+    'country': 'Saudi Arabia',
+    'year': 2006,
+    'both_sexes': 4.0,
+    'male': 6.1,
+    'female': 1.2
+} {
+    'country': 'Saudi Arabia',
+    'year': 2005,
+    'both_sexes': 3.7,
+    'male': 5.7,
+    'female': 1.1
+} {
+    'country': 'Saudi Arabia',
+    'year': 2004,
+    'both_sexes': 3.4,
+    'male': 5.4,
+    'female': 1.1
+} {
+    'country': 'Saudi Arabia',
+    'year': 2003,
+    'both_sexes': 3.5,
+    'male': 5.5,
+    'female': 1.1
+} {
+    'country': 'Saudi Arabia',
+    'year': 2002,
+    'both_sexes': 3.4,
+    'male': 5.2,
+    'female': 1.1
+} {
+    'country': 'Saudi Arabia',
+    'year': 2001,
+    'both_sexes': 3.3,
+    'male': 5.1,
+    'female': 1.1
+} {
+    'country': 'Saudi Arabia',
+    'year': 2000,
+    'both_sexes': 3.2,
+    'male': 5.0,
+    'female': 1.1
+} {
+    'country': 'Senegal',
+    'year': 2019,
+    'both_sexes': 6.0,
+    'male': 9.2,
+    'female': 3.0
+} {
+    'country': 'Senegal',
+    'year': 2018,
+    'both_sexes': 6.1,
+    'male': 9.2,
+    'female': 3.1
+} {
+    'country': 'Senegal',
+    'year': 2017,
+    'both_sexes': 6.2,
+    'male': 9.3,
+    'female': 3.2
+} {
+    'country': 'Senegal',
+    'year': 2016,
+    'both_sexes': 6.3,
+    'male': 9.5,
+    'female': 3.2
+} {
+    'country': 'Senegal',
+    'year': 2015,
+    'both_sexes': 6.4,
+    'male': 9.6,
+    'female': 3.3
+} {
+    'country': 'Senegal',
+    'year': 2014,
+    'both_sexes': 6.5,
+    'male': 9.7,
+    'female': 3.4
+} {
+    'country': 'Senegal',
+    'year': 2013,
+    'both_sexes': 6.5,
+    'male': 9.6,
+    'female': 3.5
+} {
+    'country': 'Senegal',
+    'year': 2012,
+    'both_sexes': 6.5,
+    'male': 9.7,
+    'female': 3.5
+} {
+    'country': 'Senegal',
+    'year': 2011,
+    'both_sexes': 6.5,
+    'male': 9.7,
+    'female': 3.4
+} {
+    'country': 'Senegal',
+    'year': 2010,
+    'both_sexes': 6.6,
+    'male': 9.9,
+    'female': 3.4
+} {
+    'country': 'Senegal',
+    'year': 2009,
+    'both_sexes': 6.7,
+    'male': 10.2,
+    'female': 3.4
+} {
+    'country': 'Senegal',
+    'year': 2008,
+    'both_sexes': 6.8,
+    'male': 10.3,
+    'female': 3.4
+} {
+    'country': 'Senegal',
+    'year': 2007,
+    'both_sexes': 6.7,
+    'male': 10.2,
+    'female': 3.5
+} {
+    'country': 'Senegal',
+    'year': 2006,
+    'both_sexes': 7.0,
+    'male': 10.6,
+    'female': 3.7
+} {
+    'country': 'Senegal',
+    'year': 2005,
+    'both_sexes': 7.2,
+    'male': 10.8,
+    'female': 3.8
+} {
+    'country': 'Senegal',
+    'year': 2004,
+    'both_sexes': 7.3,
+    'male': 10.9,
+    'female': 3.8
+} {
+    'country': 'Senegal',
+    'year': 2003,
+    'both_sexes': 7.4,
+    'male': 11.0,
+    'female': 3.9
+} {
+    'country': 'Senegal',
+    'year': 2002,
+    'both_sexes': 7.5,
+    'male': 11.3,
+    'female': 3.8
+} {
+    'country': 'Senegal',
+    'year': 2001,
+    'both_sexes': 7.6,
+    'male': 11.5,
+    'female': 3.9
+} {
+    'country': 'Senegal',
+    'year': 2000,
+    'both_sexes': 7.8,
+    'male': 11.8,
+    'female': 4.0
+} {
+    'country': 'Serbia',
+    'year': 2019,
+    'both_sexes': 11.4,
+    'male': 16.6,
+    'female': 6.3
+} {
+    'country': 'Serbia',
+    'year': 2018,
+    'both_sexes': 11.3,
+    'male': 16.6,
+    'female': 6.2
+} {
+    'country': 'Serbia',
+    'year': 2016,
+    'both_sexes': 15.2,
+    'male': 22.2,
+    'female': 8.4
+} {
+    'country': 'Serbia',
+    'year': 2015,
+    'both_sexes': 16.4,
+    'male': 24.6,
+    'female': 8.5
+} {
+    'country': 'Serbia',
+    'year': 2014,
+    'both_sexes': 17.0,
+    'male': 26.0,
+    'female': 8.4
+} {
+    'country': 'Serbia',
+    'year': 2013,
+    'both_sexes': 17.9,
+    'male': 27.4,
+    'female': 8.8
+} {
+    'country': 'Serbia',
+    'year': 2012,
+    'both_sexes': 18.2,
+    'male': 27.7,
+    'female': 9.1
+} {
+    'country': 'Serbia',
+    'year': 2011,
+    'both_sexes': 18.0,
+    'male': 26.7,
+    'female': 9.7
+} {
+    'country': 'Serbia',
+    'year': 2010,
+    'both_sexes': 17.2,
+    'male': 26.1,
+    'female': 8.6
+} {
+    'country': 'Serbia',
+    'year': 2009,
+    'both_sexes': 19.5,
+    'male': 29.0,
+    'female': 10.3
+} {
+    'country': 'Serbia',
+    'year': 2008,
+    'both_sexes': 18.0,
+    'male': 26.0,
+    'female': 10.4
+} {
+    'country': 'Serbia',
+    'year': 2007,
+    'both_sexes': 18.7,
+    'male': 27.8,
+    'female': 10.0
+} {
+    'country': 'Serbia',
+    'year': 2006,
+    'both_sexes': 19.5,
+    'male': 28.2,
+    'female': 11.1
+} {
+    'country': 'Serbia',
+    'year': 2005,
+    'both_sexes': 20.1,
+    'male': 28.8,
+    'female': 11.8
+} {
+    'country': 'Serbia',
+    'year': 2004,
+    'both_sexes': 21.3,
+    'male': 31.8,
+    'female': 11.2
+} {
+    'country': 'Serbia',
+    'year': 2003,
+    'both_sexes': 21.2,
+    'male': 31.5,
+    'female': 11.3
+} {
+    'country': 'Serbia',
+    'year': 2002,
+    'both_sexes': 22.4,
+    'male': 33.4,
+    'female': 11.8
+} {
+    'country': 'Serbia',
+    'year': 2001,
+    'both_sexes': 21.8,
+    'male': 32.0,
+    'female': 11.9
+} {
+    'country': 'Serbia',
+    'year': 2000,
+    'both_sexes': 23.1,
+    'male': 33.0,
+    'female': 13.5
+} {
+    'country': 'Seychelles',
+    'year': 2019,
+    'both_sexes': 8.1,
+    'male': 14.4,
+    'female': 1.4
+} {
+    'country': 'Seychelles',
+    'year': 2018,
+    'both_sexes': 8.2,
+    'male': 14.7,
+    'female': 1.4
+} {
+    'country': 'Seychelles',
+    'year': 2017,
+    'both_sexes': 8.3,
+    'male': 14.8,
+    'female': 1.5
+} {
+    'country': 'Seychelles',
+    'year': 2016,
+    'both_sexes': 8.0,
+    'male': 14.2,
+    'female': 1.5
+} {
+    'country': 'Seychelles',
+    'year': 2015,
+    'both_sexes': 8.0,
+    'male': 14.2,
+    'female': 1.5
+} {
+    'country': 'Seychelles',
+    'year': 2014,
+    'both_sexes': 7.9,
+    'male': 13.9,
+    'female': 1.5
+} {
+    'country': 'Seychelles',
+    'year': 2013,
+    'both_sexes': 7.7,
+    'male': 13.4,
+    'female': 1.5
+} {
+    'country': 'Seychelles',
+    'year': 2012,
+    'both_sexes': 7.7,
+    'male': 13.5,
+    'female': 1.6
+} {
+    'country': 'Seychelles',
+    'year': 2011,
+    'both_sexes': 7.9,
+    'male': 13.8,
+    'female': 1.5
+} {
+    'country': 'Seychelles',
+    'year': 2010,
+    'both_sexes': 7.8,
+    'male': 13.6,
+    'female': 1.6
+} {
+    'country': 'Seychelles',
+    'year': 2009,
+    'both_sexes': 7.5,
+    'male': 13.1,
+    'female': 1.6
+} {
+    'country': 'Seychelles',
+    'year': 2008,
+    'both_sexes': 7.8,
+    'male': 13.7,
+    'female': 1.7
+} {
+    'country': 'Seychelles',
+    'year': 2007,
+    'both_sexes': 7.6,
+    'male': 13.3,
+    'female': 1.7
+} {
+    'country': 'Seychelles',
+    'year': 2006,
+    'both_sexes': 8.1,
+    'male': 14.4,
+    'female': 1.8
+} {
+    'country': 'Seychelles',
+    'year': 2005,
+    'both_sexes': 8.4,
+    'male': 15.0,
+    'female': 1.8
+} {
+    'country': 'Seychelles',
+    'year': 2004,
+    'both_sexes': 9.3,
+    'male': 16.9,
+    'female': 1.8
+} {
+    'country': 'Seychelles',
+    'year': 2003,
+    'both_sexes': 9.0,
+    'male': 16.3,
+    'female': 1.7
+} {
+    'country': 'Seychelles',
+    'year': 2002,
+    'both_sexes': 8.6,
+    'male': 15.6,
+    'female': 1.6
+} {
+    'country': 'Seychelles',
+    'year': 2001,
+    'both_sexes': 9.2,
+    'male': 16.8,
+    'female': 1.7
+} {
+    'country': 'Seychelles',
+    'year': 2000,
+    'both_sexes': 9.2,
+    'male': 16.7,
+    'female': 1.7
+} {
+    'country': 'Sierra Leone',
+    'year': 2019,
+    'both_sexes': 6.7,
+    'male': 8.3,
+    'female': 5.1
+} {
+    'country': 'Sierra Leone',
+    'year': 2018,
+    'both_sexes': 6.6,
+    'male': 8.2,
+    'female': 4.9
+} {
+    'country': 'Sierra Leone',
+    'year': 2017,
+    'both_sexes': 6.3,
+    'male': 7.9,
+    'female': 4.7
+} {
+    'country': 'Sierra Leone',
+    'year': 2016,
+    'both_sexes': 6.2,
+    'male': 7.8,
+    'female': 4.5
+} {
+    'country': 'Sierra Leone',
+    'year': 2015,
+    'both_sexes': 5.9,
+    'male': 7.6,
+    'female': 4.2
+} {
+    'country': 'Sierra Leone',
+    'year': 2014,
+    'both_sexes': 6.2,
+    'male': 8.0,
+    'female': 4.4
+} {
+    'country': 'Sierra Leone',
+    'year': 2013,
+    'both_sexes': 6.3,
+    'male': 8.1,
+    'female': 4.6
+} {
+    'country': 'Sierra Leone',
+    'year': 2012,
+    'both_sexes': 6.6,
+    'male': 8.5,
+    'female': 4.8
+} {
+    'country': 'Sierra Leone',
+    'year': 2011,
+    'both_sexes': 6.5,
+    'male': 8.3,
+    'female': 4.7
+} {
+    'country': 'Sierra Leone',
+    'year': 2010,
+    'both_sexes': 6.8,
+    'male': 8.7,
+    'female': 4.8
+} {
+    'country': 'Sierra Leone',
+    'year': 2009,
+    'both_sexes': 6.6,
+    'male': 8.6,
+    'female': 4.6
+} {
+    'country': 'Sierra Leone',
+    'year': 2008,
+    'both_sexes': 6.5,
+    'male': 8.6,
+    'female': 4.5
+} {
+    'country': 'Sierra Leone',
+    'year': 2007,
+    'both_sexes': 6.4,
+    'male': 8.5,
+    'female': 4.4
+} {
+    'country': 'Sierra Leone',
+    'year': 2006,
+    'both_sexes': 6.5,
+    'male': 8.6,
+    'female': 4.4
+} {
+    'country': 'Sierra Leone',
+    'year': 2005,
+    'both_sexes': 6.0,
+    'male': 8.0,
+    'female': 4.1
+} {
+    'country': 'Sierra Leone',
+    'year': 2004,
+    'both_sexes': 6.1,
+    'male': 8.1,
+    'female': 4.1
+} {
+    'country': 'Sierra Leone',
+    'year': 2003,
+    'both_sexes': 6.1,
+    'male': 8.1,
+    'female': 4.2
+} {
+    'country': 'Sierra Leone',
+    'year': 2002,
+    'both_sexes': 6.0,
+    'male': 8.0,
+    'female': 4.1
+} {
+    'country': 'Sierra Leone',
+    'year': 2001,
+    'both_sexes': 5.9,
+    'male': 7.9,
+    'female': 3.9
+} {
+    'country': 'Sierra Leone',
+    'year': 2000,
+    'both_sexes': 5.7,
+    'male': 7.7,
+    'female': 3.7
+} {
+    'country': 'Singapore',
+    'year': 2019,
+    'both_sexes': 11.2,
+    'male': 15.0,
+    'female': 7.1
+} {
+    'country': 'Singapore',
+    'year': 2018,
+    'both_sexes': 9.4,
+    'male': 12.6,
+    'female': 6.0
+} {
+    'country': 'Singapore',
+    'year': 2017,
+    'both_sexes': 9.0,
+    'male': 11.5,
+    'female': 6.2
+} {
+    'country': 'Singapore',
+    'year': 2016,
+    'both_sexes': 9.1,
+    'male': 11.5,
+    'female': 6.4
+} {
+    'country': 'Singapore',
+    'year': 2015,
+    'both_sexes': 9.0,
+    'male': 11.9,
+    'female': 5.8
+} {
+    'country': 'Singapore',
+    'year': 2014,
+    'both_sexes': 10.2,
+    'male': 14.3,
+    'female': 5.7
+} {
+    'country': 'Singapore',
+    'year': 2013,
+    'both_sexes': 10.3,
+    'male': 14.1,
+    'female': 6.1
+} {
+    'country': 'Singapore',
+    'year': 2012,
+    'both_sexes': 11.3,
+    'male': 14.0,
+    'female': 8.3
+} {
+    'country': 'Singapore',
+    'year': 2011,
+    'both_sexes': 9.6,
+    'male': 12.2,
+    'female': 6.7
+} {
+    'country': 'Singapore',
+    'year': 2010,
+    'both_sexes': 9.9,
+    'male': 12.8,
+    'female': 6.7
+} {
+    'country': 'Singapore',
+    'year': 2009,
+    'both_sexes': 10.5,
+    'male': 14.4,
+    'female': 6.4
+} {
+    'country': 'Singapore',
+    'year': 2008,
+    'both_sexes': 10.4,
+    'male': 13.7,
+    'female': 6.8
+} {
+    'country': 'Singapore',
+    'year': 2007,
+    'both_sexes': 10.7,
+    'male': 13.1,
+    'female': 8.1
+} {
+    'country': 'Singapore',
+    'year': 2006,
+    'both_sexes': 11.7,
+    'male': 14.6,
+    'female': 8.8
+} {
+    'country': 'Singapore',
+    'year': 2005,
+    'both_sexes': 11.2,
+    'male': 15.0,
+    'female': 7.4
+} {
+    'country': 'Singapore',
+    'year': 2004,
+    'both_sexes': 11.7,
+    'male': 14.9,
+    'female': 8.5
+} {
+    'country': 'Singapore',
+    'year': 2003,
+    'both_sexes': 12.1,
+    'male': 15.0,
+    'female': 9.0
+} {
+    'country': 'Singapore',
+    'year': 2002,
+    'both_sexes': 12.4,
+    'male': 14.9,
+    'female': 9.8
+} {
+    'country': 'Singapore',
+    'year': 2001,
+    'both_sexes': 11.3,
+    'male': 13.8,
+    'female': 8.6
+} {
+    'country': 'Singapore',
+    'year': 2000,
+    'both_sexes': 12.4,
+    'male': 16.1,
+    'female': 8.5
+} {
+    'country': 'Slovakia',
+    'year': 2019,
+    'both_sexes': 12.1,
+    'male': 21.2,
+    'female': 3.4
+} {
+    'country': 'Slovakia',
+    'year': 2018,
+    'both_sexes': 12.2,
+    'male': 21.4,
+    'female': 3.4
+} {
+    'country': 'Slovakia',
+    'year': 2017,
+    'both_sexes': 12.3,
+    'male': 21.6,
+    'female': 3.4
+} {
+    'country': 'Slovakia',
+    'year': 2016,
+    'both_sexes': 12.3,
+    'male': 21.7,
+    'female': 3.4
+} {
+    'country': 'Slovakia',
+    'year': 2015,
+    'both_sexes': 12.4,
+    'male': 21.9,
+    'female': 3.4
+} {
+    'country': 'Slovakia',
+    'year': 2014,
+    'both_sexes': 12.9,
+    'male': 22.6,
+    'female': 3.7
+} {
+    'country': 'Slovakia',
+    'year': 2013,
+    'both_sexes': 12.3,
+    'male': 21.9,
+    'female': 3.2
+} {
+    'country': 'Slovakia',
+    'year': 2012,
+    'both_sexes': 12.6,
+    'male': 22.4,
+    'female': 3.3
+} {
+    'country': 'Slovakia',
+    'year': 2011,
+    'both_sexes': 12.9,
+    'male': 22.9,
+    'female': 3.5
+} {
+    'country': 'Slovakia',
+    'year': 2010,
+    'both_sexes': 13.6,
+    'male': 23.9,
+    'female': 3.9
+} {
+    'country': 'Slovakia',
+    'year': 2009,
+    'both_sexes': 13.1,
+    'male': 24.1,
+    'female': 2.7
+} {
+    'country': 'Slovakia',
+    'year': 2008,
+    'both_sexes': 12.7,
+    'male': 22.3,
+    'female': 3.6
+} {
+    'country': 'Slovakia',
+    'year': 2007,
+    'both_sexes': 14.0,
+    'male': 24.7,
+    'female': 4.0
+} {
+    'country': 'Slovakia',
+    'year': 2006,
+    'both_sexes': 14.5,
+    'male': 25.8,
+    'female': 3.9
+} {
+    'country': 'Slovakia',
+    'year': 2005,
+    'both_sexes': 13.7,
+    'male': 24.1,
+    'female': 3.9
+} {
+    'country': 'Slovakia',
+    'year': 2004,
+    'both_sexes': 13.9,
+    'male': 23.6,
+    'female': 4.7
+} {
+    'country': 'Slovakia',
+    'year': 2003,
+    'both_sexes': 15.0,
+    'male': 26.7,
+    'female': 4.1
+} {
+    'country': 'Slovakia',
+    'year': 2002,
+    'both_sexes': 14.6,
+    'male': 25.9,
+    'female': 4.0
+} {
+    'country': 'Slovakia',
+    'year': 2001,
+    'both_sexes': 13.9,
+    'male': 23.8,
+    'female': 4.5
+} {
+    'country': 'Slovakia',
+    'year': 2000,
+    'both_sexes': 14.2,
+    'male': 23.9,
+    'female': 5.1
+} {
+    'country': 'Slovenia',
+    'year': 2019,
+    'both_sexes': 19.8,
+    'male': 31.4,
+    'female': 8.3
+} {
+    'country': 'Slovenia',
+    'year': 2018,
+    'both_sexes': 17.8,
+    'male': 27.8,
+    'female': 7.9
+} {
+    'country': 'Slovenia',
+    'year': 2017,
+    'both_sexes': 20.9,
+    'male': 33.4,
+    'female': 8.6
+} {
+    'country': 'Slovenia',
+    'year': 2016,
+    'both_sexes': 19.0,
+    'male': 30.6,
+    'female': 7.6
+} {
+    'country': 'Slovenia',
+    'year': 2015,
+    'both_sexes': 21.0,
+    'male': 33.3,
+    'female': 8.9
+} {
+    'country': 'Slovenia',
+    'year': 2014,
+    'both_sexes': 19.6,
+    'male': 32.8,
+    'female': 6.5
+} {
+    'country': 'Slovenia',
+    'year': 2013,
+    'both_sexes': 22.2,
+    'male': 36.1,
+    'female': 8.6
+} {
+    'country': 'Slovenia',
+    'year': 2012,
+    'both_sexes': 22.0,
+    'male': 36.4,
+    'female': 7.7
+} {
+    'country': 'Slovenia',
+    'year': 2011,
+    'both_sexes': 21.6,
+    'male': 34.5,
+    'female': 8.9
+} {
+    'country': 'Slovenia',
+    'year': 2010,
+    'both_sexes': 20.7,
+    'male': 34.0,
+    'female': 7.6
+} {
+    'country': 'Slovenia',
+    'year': 2009,
+    'both_sexes': 22.5,
+    'male': 35.5,
+    'female': 9.8
+} {
+    'country': 'Slovenia',
+    'year': 2008,
+    'both_sexes': 20.6,
+    'male': 32.7,
+    'female': 8.8
+} {
+    'country': 'Slovenia',
+    'year': 2007,
+    'both_sexes': 22.9,
+    'male': 35.7,
+    'female': 10.5
+} {
+    'country': 'Slovenia',
+    'year': 2006,
+    'both_sexes': 27.9,
+    'male': 44.6,
+    'female': 11.9
+} {
+    'country': 'Slovenia',
+    'year': 2005,
+    'both_sexes': 26.8,
+    'male': 42.4,
+    'female': 11.9
+} {
+    'country': 'Slovenia',
+    'year': 2004,
+    'both_sexes': 28.7,
+    'male': 42.2,
+    'female': 15.8
+} {
+    'country': 'Slovenia',
+    'year': 2003,
+    'both_sexes': 29.7,
+    'male': 47.3,
+    'female': 12.8
+} {
+    'country': 'Slovenia',
+    'year': 2002,
+    'both_sexes': 29.1,
+    'male': 47.5,
+    'female': 11.6
+} {
+    'country': 'Slovenia',
+    'year': 2001,
+    'both_sexes': 30.9,
+    'male': 49.5,
+    'female': 13.0
+} {
+    'country': 'Slovenia',
+    'year': 2000,
+    'both_sexes': 32.0,
+    'male': 47.9,
+    'female': 16.7
+} {
+    'country': 'Solomon Islands',
+    'year': 2019,
+    'both_sexes': 14.7,
+    'male': 27.0,
+    'female': 1.9
+} {
+    'country': 'Solomon Islands',
+    'year': 2018,
+    'both_sexes': 15.0,
+    'male': 27.7,
+    'female': 1.9
+} {
+    'country': 'Solomon Islands',
+    'year': 2017,
+    'both_sexes': 15.1,
+    'male': 27.8,
+    'female': 1.9
+} {
+    'country': 'Solomon Islands',
+    'year': 2016,
+    'both_sexes': 15.1,
+    'male': 27.8,
+    'female': 1.9
+} {
+    'country': 'Solomon Islands',
+    'year': 2015,
+    'both_sexes': 15.2,
+    'male': 28.0,
+    'female': 1.9
+} {
+    'country': 'Solomon Islands',
+    'year': 2014,
+    'both_sexes': 15.3,
+    'male': 28.2,
+    'female': 2.0
+} {
+    'country': 'Solomon Islands',
+    'year': 2013,
+    'both_sexes': 15.4,
+    'male': 28.4,
+    'female': 2.0
+} {
+    'country': 'Solomon Islands',
+    'year': 2012,
+    'both_sexes': 15.6,
+    'male': 28.7,
+    'female': 2.0
+} {
+    'country': 'Solomon Islands',
+    'year': 2011,
+    'both_sexes': 15.7,
+    'male': 28.9,
+    'female': 2.0
+} {
+    'country': 'Solomon Islands',
+    'year': 2010,
+    'both_sexes': 15.7,
+    'male': 29.0,
+    'female': 2.0
+} {
+    'country': 'Solomon Islands',
+    'year': 2009,
+    'both_sexes': 15.8,
+    'male': 29.1,
+    'female': 2.0
+} {
+    'country': 'Solomon Islands',
+    'year': 2008,
+    'both_sexes': 15.8,
+    'male': 29.1,
+    'female': 2.0
+} {
+    'country': 'Solomon Islands',
+    'year': 2007,
+    'both_sexes': 15.2,
+    'male': 28.0,
+    'female': 1.9
+} {
+    'country': 'Solomon Islands',
+    'year': 2006,
+    'both_sexes': 14.1,
+    'male': 26.1,
+    'female': 1.6
+} {
+    'country': 'Solomon Islands',
+    'year': 2005,
+    'both_sexes': 14.0,
+    'male': 25.9,
+    'female': 1.6
+} {
+    'country': 'Solomon Islands',
+    'year': 2004,
+    'both_sexes': 13.8,
+    'male': 25.6,
+    'female': 1.4
+} {
+    'country': 'Solomon Islands',
+    'year': 2003,
+    'both_sexes': 14.6,
+    'male': 27.0,
+    'female': 1.7
+} {
+    'country': 'Solomon Islands',
+    'year': 2002,
+    'both_sexes': 14.3,
+    'male': 26.4,
+    'female': 1.6
+} {
+    'country': 'Solomon Islands',
+    'year': 2001,
+    'both_sexes': 14.1,
+    'male': 26.0,
+    'female': 1.5
+} {
+    'country': 'Solomon Islands',
+    'year': 2000,
+    'both_sexes': 14.4,
+    'male': 26.5,
+    'female': 1.5
+} {
+    'country': 'Somalia',
+    'year': 2019,
+    'both_sexes': 7.9,
+    'male': 12.0,
+    'female': 3.8
+} {
+    'country': 'Somalia',
+    'year': 2018,
+    'both_sexes': 8.0,
+    'male': 12.1,
+    'female': 3.8
+} {
+    'country': 'Somalia',
+    'year': 2017,
+    'both_sexes': 8.0,
+    'male': 12.1,
+    'female': 3.9
+} {
+    'country': 'Somalia',
+    'year': 2016,
+    'both_sexes': 7.9,
+    'male': 12.0,
+    'female': 3.9
+} {
+    'country': 'Somalia',
+    'year': 2015,
+    'both_sexes': 8.0,
+    'male': 12.1,
+    'female': 3.9
+} {
+    'country': 'Somalia',
+    'year': 2014,
+    'both_sexes': 8.1,
+    'male': 12.2,
+    'female': 3.9
+} {
+    'country': 'Somalia',
+    'year': 2013,
+    'both_sexes': 8.1,
+    'male': 12.2,
+    'female': 3.9
+} {
+    'country': 'Somalia',
+    'year': 2012,
+    'both_sexes': 8.1,
+    'male': 12.3,
+    'female': 3.9
+} {
+    'country': 'Somalia',
+    'year': 2011,
+    'both_sexes': 8.1,
+    'male': 12.3,
+    'female': 3.9
+} {
+    'country': 'Somalia',
+    'year': 2010,
+    'both_sexes': 8.2,
+    'male': 12.5,
+    'female': 3.9
+} {
+    'country': 'Somalia',
+    'year': 2009,
+    'both_sexes': 8.5,
+    'male': 13.1,
+    'female': 4.0
+} {
+    'country': 'Somalia',
+    'year': 2008,
+    'both_sexes': 8.5,
+    'male': 13.0,
+    'female': 4.1
+} {
+    'country': 'Somalia',
+    'year': 2007,
+    'both_sexes': 8.4,
+    'male': 12.9,
+    'female': 4.0
+} {
+    'country': 'Somalia',
+    'year': 2006,
+    'both_sexes': 8.7,
+    'male': 13.3,
+    'female': 4.1
+} {
+    'country': 'Somalia',
+    'year': 2005,
+    'both_sexes': 8.9,
+    'male': 13.7,
+    'female': 4.2
+} {
+    'country': 'Somalia',
+    'year': 2004,
+    'both_sexes': 9.1,
+    'male': 13.9,
+    'female': 4.2
+} {
+    'country': 'Somalia',
+    'year': 2003,
+    'both_sexes': 8.9,
+    'male': 13.7,
+    'female': 4.1
+} {
+    'country': 'Somalia',
+    'year': 2002,
+    'both_sexes': 8.9,
+    'male': 13.8,
+    'female': 4.0
+} {
+    'country': 'Somalia',
+    'year': 2001,
+    'both_sexes': 8.9,
+    'male': 13.7,
+    'female': 4.0
+} {
+    'country': 'Somalia',
+    'year': 2000,
+    'both_sexes': 9.1,
+    'male': 13.9,
+    'female': 4.2
+} {
+    'country': 'South Africa',
+    'year': 2019,
+    'both_sexes': 23.5,
+    'male': 37.6,
+    'female': 9.8
+} {
+    'country': 'South Africa',
+    'year': 2018,
+    'both_sexes': 24.1,
+    'male': 39.0,
+    'female': 9.7
+} {
+    'country': 'South Africa',
+    'year': 2017,
+    'both_sexes': 25.2,
+    'male': 40.8,
+    'female': 10.0
+} {
+    'country': 'South Africa',
+    'year': 2016,
+    'both_sexes': 24.4,
+    'male': 39.2,
+    'female': 10.1
+} {
+    'country': 'South Africa',
+    'year': 2015,
+    'both_sexes': 24.5,
+    'male': 39.5,
+    'female': 9.9
+} {
+    'country': 'South Africa',
+    'year': 2014,
+    'both_sexes': 24.1,
+    'male': 38.7,
+    'female': 9.8
+} {
+    'country': 'South Africa',
+    'year': 2013,
+    'both_sexes': 23.7,
+    'male': 38.1,
+    'female': 9.7
+} {
+    'country': 'South Africa',
+    'year': 2012,
+    'both_sexes': 22.9,
+    'male': 36.0,
+    'female': 10.1
+} {
+    'country': 'South Africa',
+    'year': 2011,
+    'both_sexes': 22.4,
+    'male': 34.1,
+    'female': 11.0
+} {
+    'country': 'South Africa',
+    'year': 2010,
+    'both_sexes': 24.6,
+    'male': 37.3,
+    'female': 12.3
+} {
+    'country': 'South Africa',
+    'year': 2009,
+    'both_sexes': 26.7,
+    'male': 40.9,
+    'female': 13.0
+} {
+    'country': 'South Africa',
+    'year': 2008,
+    'both_sexes': 26.7,
+    'male': 40.9,
+    'female': 12.9
+} {
+    'country': 'South Africa',
+    'year': 2007,
+    'both_sexes': 24.6,
+    'male': 38.0,
+    'female': 11.5
+} {
+    'country': 'South Africa',
+    'year': 2006,
+    'both_sexes': 23.6,
+    'male': 36.6,
+    'female': 10.9
+} {
+    'country': 'South Africa',
+    'year': 2005,
+    'both_sexes': 24.4,
+    'male': 37.5,
+    'female': 11.5
+} {
+    'country': 'South Africa',
+    'year': 2004,
+    'both_sexes': 24.6,
+    'male': 37.7,
+    'female': 11.9
+} {
+    'country': 'South Africa',
+    'year': 2003,
+    'both_sexes': 25.1,
+    'male': 38.5,
+    'female': 12.1
+} {
+    'country': 'South Africa',
+    'year': 2002,
+    'both_sexes': 24.3,
+    'male': 37.6,
+    'female': 11.3
+} {
+    'country': 'South Africa',
+    'year': 2001,
+    'both_sexes': 23.0,
+    'male': 36.2,
+    'female': 10.2
+} {
+    'country': 'South Africa',
+    'year': 2000,
+    'both_sexes': 22.4,
+    'male': 35.5,
+    'female': 9.7
+} {
+    'country': 'South Sudan',
+    'year': 2019,
+    'both_sexes': 3.9,
+    'male': 5.7,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2018,
+    'both_sexes': 3.8,
+    'male': 5.6,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2017,
+    'both_sexes': 3.7,
+    'male': 5.3,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2016,
+    'both_sexes': 3.7,
+    'male': 5.4,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2015,
+    'both_sexes': 3.6,
+    'male': 5.2,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2014,
+    'both_sexes': 3.5,
+    'male': 5.0,
+    'female': 1.9
+} {
+    'country': 'South Sudan',
+    'year': 2013,
+    'both_sexes': 3.6,
+    'male': 5.3,
+    'female': 1.9
+} {
+    'country': 'South Sudan',
+    'year': 2012,
+    'both_sexes': 3.7,
+    'male': 5.4,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2011,
+    'both_sexes': 3.6,
+    'male': 5.3,
+    'female': 1.9
+} {
+    'country': 'South Sudan',
+    'year': 2010,
+    'both_sexes': 3.7,
+    'male': 5.3,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2009,
+    'both_sexes': 3.7,
+    'male': 5.4,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2008,
+    'both_sexes': 3.8,
+    'male': 5.5,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2007,
+    'both_sexes': 3.9,
+    'male': 5.7,
+    'female': 2.1
+} {
+    'country': 'South Sudan',
+    'year': 2006,
+    'both_sexes': 3.9,
+    'male': 5.7,
+    'female': 2.1
+} {
+    'country': 'South Sudan',
+    'year': 2005,
+    'both_sexes': 3.9,
+    'male': 5.7,
+    'female': 2.1
+} {
+    'country': 'South Sudan',
+    'year': 2004,
+    'both_sexes': 3.9,
+    'male': 5.8,
+    'female': 2.1
+} {
+    'country': 'South Sudan',
+    'year': 2003,
+    'both_sexes': 3.9,
+    'male': 5.8,
+    'female': 2.1
+} {
+    'country': 'South Sudan',
+    'year': 2002,
+    'both_sexes': 3.9,
+    'male': 5.7,
+    'female': 2.0
+} {
+    'country': 'South Sudan',
+    'year': 2001,
+    'both_sexes': 4.0,
+    'male': 5.9,
+    'female': 2.1
+} {
+    'country': 'South Sudan',
+    'year': 2000,
+    'both_sexes': 4.3,
+    'male': 6.3,
+    'female': 2.2
+} {
+    'country': 'Spain',
+    'year': 2019,
+    'both_sexes': 7.7,
+    'male': 11.4,
+    'female': 4.2
+} {
+    'country': 'Spain',
+    'year': 2018,
+    'both_sexes': 7.8,
+    'male': 11.6,
+    'female': 4.1
+} {
+    'country': 'Spain',
+    'year': 2017,
+    'both_sexes': 8.2,
+    'male': 12.2,
+    'female': 4.3
+} {
+    'country': 'Spain',
+    'year': 2016,
+    'both_sexes': 7.8,
+    'male': 11.8,
+    'female': 4.1
+} {
+    'country': 'Spain',
+    'year': 2015,
+    'both_sexes': 7.9,
+    'male': 11.8,
+    'female': 4.1
+} {
+    'country': 'Spain',
+    'year': 2014,
+    'both_sexes': 8.6,
+    'male': 12.9,
+    'female': 4.3
+} {
+    'country': 'Spain',
+    'year': 2013,
+    'both_sexes': 8.5,
+    'male': 12.8,
+    'female': 4.2
+} {
+    'country': 'Spain',
+    'year': 2012,
+    'both_sexes': 7.7,
+    'male': 11.9,
+    'female': 3.6
+} {
+    'country': 'Spain',
+    'year': 2011,
+    'both_sexes': 7.1,
+    'male': 10.8,
+    'female': 3.4
+} {
+    'country': 'Spain',
+    'year': 2010,
+    'both_sexes': 6.9,
+    'male': 10.9,
+    'female': 3.1
+} {
+    'country': 'Spain',
+    'year': 2009,
+    'both_sexes': 7.6,
+    'male': 11.8,
+    'female': 3.5
+} {
+    'country': 'Spain',
+    'year': 2008,
+    'both_sexes': 7.8,
+    'male': 12.0,
+    'female': 3.6
+} {
+    'country': 'Spain',
+    'year': 2007,
+    'both_sexes': 7.4,
+    'male': 11.2,
+    'female': 3.7
+} {
+    'country': 'Spain',
+    'year': 2006,
+    'both_sexes': 7.5,
+    'male': 11.6,
+    'female': 3.5
+} {
+    'country': 'Spain',
+    'year': 2005,
+    'both_sexes': 8.0,
+    'male': 12.2,
+    'female': 4.0
+} {
+    'country': 'Spain',
+    'year': 2004,
+    'both_sexes': 8.5,
+    'male': 12.9,
+    'female': 4.2
+} {
+    'country': 'Spain',
+    'year': 2003,
+    'both_sexes': 8.5,
+    'male': 13.0,
+    'female': 4.1
+} {
+    'country': 'Spain',
+    'year': 2002,
+    'both_sexes': 8.3,
+    'male': 12.8,
+    'female': 4.1
+} {
+    'country': 'Spain',
+    'year': 2001,
+    'both_sexes': 8.0,
+    'male': 12.4,
+    'female': 3.9
+} {
+    'country': 'Spain',
+    'year': 2000,
+    'both_sexes': 8.6,
+    'male': 13.2,
+    'female': 4.2
+} {
+    'country': 'Sri Lanka',
+    'year': 2019,
+    'both_sexes': 14.0,
+    'male': 22.3,
+    'female': 6.2
+} {
+    'country': 'Sri Lanka',
+    'year': 2018,
+    'both_sexes': 14.2,
+    'male': 22.6,
+    'female': 6.3
+} {
+    'country': 'Sri Lanka',
+    'year': 2017,
+    'both_sexes': 14.4,
+    'male': 23.0,
+    'female': 6.4
+} {
+    'country': 'Sri Lanka',
+    'year': 2016,
+    'both_sexes': 14.8,
+    'male': 23.6,
+    'female': 6.6
+} {
+    'country': 'Sri Lanka',
+    'year': 2015,
+    'both_sexes': 15.1,
+    'male': 24.2,
+    'female': 6.7
+} {
+    'country': 'Sri Lanka',
+    'year': 2014,
+    'both_sexes': 13.1,
+    'male': 21.6,
+    'female': 5.2
+} {
+    'country': 'Sri Lanka',
+    'year': 2013,
+    'both_sexes': 15.2,
+    'male': 24.4,
+    'female': 6.7
+} {
+    'country': 'Sri Lanka',
+    'year': 2012,
+    'both_sexes': 16.6,
+    'male': 26.7,
+    'female': 7.1
+} {
+    'country': 'Sri Lanka',
+    'year': 2011,
+    'both_sexes': 17.9,
+    'male': 29.1,
+    'female': 7.4
+} {
+    'country': 'Sri Lanka',
+    'year': 2010,
+    'both_sexes': 21.9,
+    'male': 33.0,
+    'female': 11.4
+} {
+    'country': 'Sri Lanka',
+    'year': 2009,
+    'both_sexes': 22.7,
+    'male': 37.5,
+    'female': 8.7
+} {
+    'country': 'Sri Lanka',
+    'year': 2008,
+    'both_sexes': 17.5,
+    'male': 27.3,
+    'female': 8.0
+} {
+    'country': 'Sri Lanka',
+    'year': 2007,
+    'both_sexes': 20.0,
+    'male': 31.7,
+    'female': 8.7
+} {
+    'country': 'Sri Lanka',
+    'year': 2006,
+    'both_sexes': 18.3,
+    'male': 28.9,
+    'female': 8.0
+} {
+    'country': 'Sri Lanka',
+    'year': 2005,
+    'both_sexes': 28.6,
+    'male': 38.7,
+    'female': 18.8
+} {
+    'country': 'Sri Lanka',
+    'year': 2004,
+    'both_sexes': 21.8,
+    'male': 34.2,
+    'female': 9.8
+} {
+    'country': 'Sri Lanka',
+    'year': 2003,
+    'both_sexes': 20.9,
+    'male': 31.7,
+    'female': 10.2
+} {
+    'country': 'Sri Lanka',
+    'year': 2002,
+    'both_sexes': 21.0,
+    'male': 32.3,
+    'female': 9.9
+} {
+    'country': 'Sri Lanka',
+    'year': 2001,
+    'both_sexes': 21.8,
+    'male': 33.5,
+    'female': 10.2
+} {
+    'country': 'Sri Lanka',
+    'year': 2000,
+    'both_sexes': 26.7,
+    'male': 39.1,
+    'female': 14.4
+} {
+    'country': 'Sudan',
+    'year': 2019,
+    'both_sexes': 3.8,
+    'male': 4.9,
+    'female': 2.8
+} {
+    'country': 'Sudan',
+    'year': 2018,
+    'both_sexes': 3.9,
+    'male': 4.9,
+    'female': 2.8
+} {
+    'country': 'Sudan',
+    'year': 2017,
+    'both_sexes': 3.8,
+    'male': 4.9,
+    'female': 2.8
+} {
+    'country': 'Sudan',
+    'year': 2016,
+    'both_sexes': 3.9,
+    'male': 4.9,
+    'female': 2.8
+} {
+    'country': 'Sudan',
+    'year': 2015,
+    'both_sexes': 3.9,
+    'male': 5.0,
+    'female': 2.8
+} {
+    'country': 'Sudan',
+    'year': 2014,
+    'both_sexes': 3.9,
+    'male': 5.1,
+    'female': 2.8
+} {
+    'country': 'Sudan',
+    'year': 2013,
+    'both_sexes': 4.0,
+    'male': 5.2,
+    'female': 2.9
+} {
+    'country': 'Sudan',
+    'year': 2012,
+    'both_sexes': 4.0,
+    'male': 5.1,
+    'female': 2.9
+} {
+    'country': 'Sudan',
+    'year': 2011,
+    'both_sexes': 4.1,
+    'male': 5.3,
+    'female': 3.0
+} {
+    'country': 'Sudan',
+    'year': 2010,
+    'both_sexes': 4.0,
+    'male': 5.2,
+    'female': 2.9
+} {
+    'country': 'Sudan',
+    'year': 2009,
+    'both_sexes': 4.1,
+    'male': 5.2,
+    'female': 2.9
+} {
+    'country': 'Sudan',
+    'year': 2008,
+    'both_sexes': 4.1,
+    'male': 5.2,
+    'female': 2.9
+} {
+    'country': 'Sudan',
+    'year': 2007,
+    'both_sexes': 4.1,
+    'male': 5.2,
+    'female': 3.0
+} {
+    'country': 'Sudan',
+    'year': 2006,
+    'both_sexes': 4.1,
+    'male': 5.2,
+    'female': 3.1
+} {
+    'country': 'Sudan',
+    'year': 2005,
+    'both_sexes': 4.2,
+    'male': 5.3,
+    'female': 3.2
+} {
+    'country': 'Sudan',
+    'year': 2004,
+    'both_sexes': 4.1,
+    'male': 5.2,
+    'female': 3.0
+} {
+    'country': 'Sudan',
+    'year': 2003,
+    'both_sexes': 4.1,
+    'male': 5.2,
+    'female': 3.0
+} {
+    'country': 'Sudan',
+    'year': 2002,
+    'both_sexes': 4.2,
+    'male': 5.3,
+    'female': 3.1
+} {
+    'country': 'Sudan',
+    'year': 2001,
+    'both_sexes': 4.2,
+    'male': 5.2,
+    'female': 3.2
+} {
+    'country': 'Sudan',
+    'year': 2000,
+    'both_sexes': 4.3,
+    'male': 5.3,
+    'female': 3.4
+} {
+    'country': 'Suriname',
+    'year': 2019,
+    'both_sexes': 25.4,
+    'male': 38.8,
+    'female': 11.8
+} {
+    'country': 'Suriname',
+    'year': 2018,
+    'both_sexes': 25.5,
+    'male': 38.9,
+    'female': 11.9
+} {
+    'country': 'Suriname',
+    'year': 2017,
+    'both_sexes': 24.5,
+    'male': 37.2,
+    'female': 11.6
+} {
+    'country': 'Suriname',
+    'year': 2016,
+    'both_sexes': 24.4,
+    'male': 37.1,
+    'female': 11.6
+} {
+    'country': 'Suriname',
+    'year': 2015,
+    'both_sexes': 24.8,
+    'male': 37.8,
+    'female': 11.6
+} {
+    'country': 'Suriname',
+    'year': 2014,
+    'both_sexes': 24.7,
+    'male': 37.7,
+    'female': 11.5
+} {
+    'country': 'Suriname',
+    'year': 2013,
+    'both_sexes': 25.1,
+    'male': 38.5,
+    'female': 11.5
+} {
+    'country': 'Suriname',
+    'year': 2012,
+    'both_sexes': 25.2,
+    'male': 39.0,
+    'female': 11.3
+} {
+    'country': 'Suriname',
+    'year': 2011,
+    'both_sexes': 24.3,
+    'male': 37.2,
+    'female': 11.2
+} {
+    'country': 'Suriname',
+    'year': 2010,
+    'both_sexes': 25.5,
+    'male': 39.1,
+    'female': 11.7
+} {
+    'country': 'Suriname',
+    'year': 2009,
+    'both_sexes': 24.4,
+    'male': 37.1,
+    'female': 11.6
+} {
+    'country': 'Suriname',
+    'year': 2008,
+    'both_sexes': 24.5,
+    'male': 37.2,
+    'female': 11.5
+} {
+    'country': 'Suriname',
+    'year': 2007,
+    'both_sexes': 24.5,
+    'male': 37.5,
+    'female': 11.3
+} {
+    'country': 'Suriname',
+    'year': 2006,
+    'both_sexes': 24.6,
+    'male': 38.0,
+    'female': 11.0
+} {
+    'country': 'Suriname',
+    'year': 2005,
+    'both_sexes': 24.2,
+    'male': 37.2,
+    'female': 10.9
+} {
+    'country': 'Suriname',
+    'year': 2004,
+    'both_sexes': 23.6,
+    'male': 36.3,
+    'female': 10.7
+} {
+    'country': 'Suriname',
+    'year': 2003,
+    'both_sexes': 24.3,
+    'male': 37.5,
+    'female': 10.7
+} {
+    'country': 'Suriname',
+    'year': 2002,
+    'both_sexes': 24.4,
+    'male': 37.6,
+    'female': 11.0
+} {
+    'country': 'Suriname',
+    'year': 2001,
+    'both_sexes': 24.2,
+    'male': 36.8,
+    'female': 11.3
+} {
+    'country': 'Suriname',
+    'year': 2000,
+    'both_sexes': 21.5,
+    'male': 32.3,
+    'female': 10.5
+} {
+    'country': 'Sweden',
+    'year': 2019,
+    'both_sexes': 14.7,
+    'male': 19.9,
+    'female': 9.5
+} {
+    'country': 'Sweden',
+    'year': 2018,
+    'both_sexes': 14.9,
+    'male': 20.2,
+    'female': 9.6
+} {
+    'country': 'Sweden',
+    'year': 2017,
+    'both_sexes': 15.0,
+    'male': 20.5,
+    'female': 9.6
+} {
+    'country': 'Sweden',
+    'year': 2016,
+    'both_sexes': 14.6,
+    'male': 19.6,
+    'female': 9.6
+} {
+    'country': 'Sweden',
+    'year': 2015,
+    'both_sexes': 15.7,
+    'male': 21.8,
+    'female': 9.7
+} {
+    'country': 'Sweden',
+    'year': 2014,
+    'both_sexes': 14.8,
+    'male': 19.6,
+    'female': 10.0
+} {
+    'country': 'Sweden',
+    'year': 2013,
+    'both_sexes': 15.9,
+    'male': 21.5,
+    'female': 10.3
+} {
+    'country': 'Sweden',
+    'year': 2012,
+    'both_sexes': 15.0,
+    'male': 20.6,
+    'female': 9.4
+} {
+    'country': 'Sweden',
+    'year': 2011,
+    'both_sexes': 14.2,
+    'male': 19.6,
+    'female': 8.9
+} {
+    'country': 'Sweden',
+    'year': 2010,
+    'both_sexes': 14.7,
+    'male': 20.8,
+    'female': 8.7
+} {
+    'country': 'Sweden',
+    'year': 2009,
+    'both_sexes': 15.7,
+    'male': 22.1,
+    'female': 9.5
+} {
+    'country': 'Sweden',
+    'year': 2008,
+    'both_sexes': 15.0,
+    'male': 21.2,
+    'female': 9.0
+} {
+    'country': 'Sweden',
+    'year': 2007,
+    'both_sexes': 14.5,
+    'male': 20.1,
+    'female': 9.0
+} {
+    'country': 'Sweden',
+    'year': 2006,
+    'both_sexes': 15.0,
+    'male': 20.2,
+    'female': 9.8
+} {
+    'country': 'Sweden',
+    'year': 2005,
+    'both_sexes': 15.7,
+    'male': 21.1,
+    'female': 10.4
+} {
+    'country': 'Sweden',
+    'year': 2004,
+    'both_sexes': 14.8,
+    'male': 20.9,
+    'female': 8.7
+} {
+    'country': 'Sweden',
+    'year': 2003,
+    'both_sexes': 14.4,
+    'male': 19.7,
+    'female': 9.2
+} {
+    'country': 'Sweden',
+    'year': 2002,
+    'both_sexes': 15.5,
+    'male': 22.2,
+    'female': 9.0
+} {
+    'country': 'Sweden',
+    'year': 2001,
+    'both_sexes': 16.0,
+    'male': 22.0,
+    'female': 10.1
+} {
+    'country': 'Sweden',
+    'year': 2000,
+    'both_sexes': 15.1,
+    'male': 20.5,
+    'female': 9.7
+} {
+    'country': 'Switzerland',
+    'year': 2019,
+    'both_sexes': 14.5,
+    'male': 20.2,
+    'female': 9.0
+} {
+    'country': 'Switzerland',
+    'year': 2018,
+    'both_sexes': 14.5,
+    'male': 20.1,
+    'female': 9.0
+} {
+    'country': 'Switzerland',
+    'year': 2017,
+    'both_sexes': 14.6,
+    'male': 20.5,
+    'female': 8.9
+} {
+    'country': 'Switzerland',
+    'year': 2016,
+    'both_sexes': 14.1,
+    'male': 19.8,
+    'female': 8.4
+} {
+    'country': 'Switzerland',
+    'year': 2015,
+    'both_sexes': 15.0,
+    'male': 20.5,
+    'female': 9.5
+} {
+    'country': 'Switzerland',
+    'year': 2014,
+    'both_sexes': 14.7,
+    'male': 19.8,
+    'female': 9.7
+} {
+    'country': 'Switzerland',
+    'year': 2013,
+    'both_sexes': 15.1,
+    'male': 21.0,
+    'female': 9.3
+} {
+    'country': 'Switzerland',
+    'year': 2012,
+    'both_sexes': 14.7,
+    'male': 20.3,
+    'female': 9.3
+} {
+    'country': 'Switzerland',
+    'year': 2011,
+    'both_sexes': 14.6,
+    'male': 20.2,
+    'female': 9.2
+} {
+    'country': 'Switzerland',
+    'year': 2010,
+    'both_sexes': 14.5,
+    'male': 19.9,
+    'female': 9.2
+} {
+    'country': 'Switzerland',
+    'year': 2009,
+    'both_sexes': 16.0,
+    'male': 22.9,
+    'female': 9.3
+} {
+    'country': 'Switzerland',
+    'year': 2008,
+    'both_sexes': 18.8,
+    'male': 24.3,
+    'female': 13.4
+} {
+    'country': 'Switzerland',
+    'year': 2007,
+    'both_sexes': 19.5,
+    'male': 25.8,
+    'female': 13.5
+} {
+    'country': 'Switzerland',
+    'year': 2006,
+    'both_sexes': 18.8,
+    'male': 24.5,
+    'female': 13.4
+} {
+    'country': 'Switzerland',
+    'year': 2005,
+    'both_sexes': 19.0,
+    'male': 25.7,
+    'female': 12.6
+} {
+    'country': 'Switzerland',
+    'year': 2004,
+    'both_sexes': 18.5,
+    'male': 24.6,
+    'female': 12.6
+} {
+    'country': 'Switzerland',
+    'year': 2003,
+    'both_sexes': 18.7,
+    'male': 24.4,
+    'female': 13.2
+} {
+    'country': 'Switzerland',
+    'year': 2002,
+    'both_sexes': 20.9,
+    'male': 28.0,
+    'female': 14.1
+} {
+    'country': 'Switzerland',
+    'year': 2001,
+    'both_sexes': 19.6,
+    'male': 27.3,
+    'female': 12.2
+} {
+    'country': 'Switzerland',
+    'year': 2000,
+    'both_sexes': 20.2,
+    'male': 28.4,
+    'female': 12.4
+} {
+    'country': 'Tajikistan',
+    'year': 2019,
+    'both_sexes': 4.3,
+    'male': 5.7,
+    'female': 2.8
+} {
+    'country': 'Tajikistan',
+    'year': 2018,
+    'both_sexes': 4.2,
+    'male': 5.6,
+    'female': 2.9
+} {
+    'country': 'Tajikistan',
+    'year': 2017,
+    'both_sexes': 4.2,
+    'male': 5.4,
+    'female': 3.0
+} {
+    'country': 'Tajikistan',
+    'year': 2016,
+    'both_sexes': 4.3,
+    'male': 5.5,
+    'female': 3.1
+} {
+    'country': 'Tajikistan',
+    'year': 2015,
+    'both_sexes': 4.1,
+    'male': 5.4,
+    'female': 2.9
+} {
+    'country': 'Tajikistan',
+    'year': 2014,
+    'both_sexes': 4.1,
+    'male': 5.3,
+    'female': 2.8
+} {
+    'country': 'Tajikistan',
+    'year': 2013,
+    'both_sexes': 4.0,
+    'male': 5.3,
+    'female': 2.7
+} {
+    'country': 'Tajikistan',
+    'year': 2012,
+    'both_sexes': 4.1,
+    'male': 5.4,
+    'female': 2.7
+} {
+    'country': 'Tajikistan',
+    'year': 2011,
+    'both_sexes': 4.0,
+    'male': 5.4,
+    'female': 2.6
+} {
+    'country': 'Tajikistan',
+    'year': 2010,
+    'both_sexes': 4.0,
+    'male': 5.3,
+    'female': 2.5
+} {
+    'country': 'Tajikistan',
+    'year': 2009,
+    'both_sexes': 3.9,
+    'male': 5.3,
+    'female': 2.4
+} {
+    'country': 'Tajikistan',
+    'year': 2008,
+    'both_sexes': 3.8,
+    'male': 5.3,
+    'female': 2.3
+} {
+    'country': 'Tajikistan',
+    'year': 2007,
+    'both_sexes': 3.7,
+    'male': 5.2,
+    'female': 2.3
+} {
+    'country': 'Tajikistan',
+    'year': 2006,
+    'both_sexes': 3.6,
+    'male': 5.1,
+    'female': 2.2
+} {
+    'country': 'Tajikistan',
+    'year': 2005,
+    'both_sexes': 3.6,
+    'male': 5.0,
+    'female': 2.2
+} {
+    'country': 'Tajikistan',
+    'year': 2004,
+    'both_sexes': 3.5,
+    'male': 4.7,
+    'female': 2.2
+} {
+    'country': 'Tajikistan',
+    'year': 2003,
+    'both_sexes': 3.4,
+    'male': 4.7,
+    'female': 2.1
+} {
+    'country': 'Tajikistan',
+    'year': 2002,
+    'both_sexes': 3.5,
+    'male': 4.8,
+    'female': 2.2
+} {
+    'country': 'Tajikistan',
+    'year': 2001,
+    'both_sexes': 3.6,
+    'male': 4.9,
+    'female': 2.3
+} {
+    'country': 'Tajikistan',
+    'year': 2000,
+    'both_sexes': 3.8,
+    'male': 5.3,
+    'female': 2.3
+} {
+    'country': 'Thailand',
+    'year': 2019,
+    'both_sexes': 8.8,
+    'male': 15.0,
+    'female': 2.9
+} {
+    'country': 'Thailand',
+    'year': 2018,
+    'both_sexes': 8.8,
+    'male': 14.8,
+    'female': 3.0
+} {
+    'country': 'Thailand',
+    'year': 2017,
+    'both_sexes': 8.4,
+    'male': 14.1,
+    'female': 3.0
+} {
+    'country': 'Thailand',
+    'year': 2016,
+    'both_sexes': 8.5,
+    'male': 14.2,
+    'female': 3.0
+} {
+    'country': 'Thailand',
+    'year': 2015,
+    'both_sexes': 8.0,
+    'male': 13.3,
+    'female': 3.0
+} {
+    'country': 'Thailand',
+    'year': 2014,
+    'both_sexes': 7.8,
+    'male': 12.7,
+    'female': 3.1
+} {
+    'country': 'Thailand',
+    'year': 2013,
+    'both_sexes': 7.5,
+    'male': 12.0,
+    'female': 3.1
+} {
+    'country': 'Thailand',
+    'year': 2012,
+    'both_sexes': 7.9,
+    'male': 12.6,
+    'female': 3.3
+} {
+    'country': 'Thailand',
+    'year': 2011,
+    'both_sexes': 8.0,
+    'male': 12.7,
+    'female': 3.4
+} {
+    'country': 'Thailand',
+    'year': 2010,
+    'both_sexes': 8.1,
+    'male': 12.7,
+    'female': 3.6
+} {
+    'country': 'Thailand',
+    'year': 2009,
+    'both_sexes': 8.0,
+    'male': 12.4,
+    'female': 3.7
+} {
+    'country': 'Thailand',
+    'year': 2008,
+    'both_sexes': 8.1,
+    'male': 12.5,
+    'female': 3.8
+} {
+    'country': 'Thailand',
+    'year': 2007,
+    'both_sexes': 8.4,
+    'male': 13.0,
+    'female': 4.0
+} {
+    'country': 'Thailand',
+    'year': 2006,
+    'both_sexes': 8.9,
+    'male': 13.8,
+    'female': 4.1
+} {
+    'country': 'Thailand',
+    'year': 2005,
+    'both_sexes': 9.1,
+    'male': 14.1,
+    'female': 4.2
+} {
+    'country': 'Thailand',
+    'year': 2004,
+    'both_sexes': 10.5,
+    'male': 16.4,
+    'female': 4.8
+} {
+    'country': 'Thailand',
+    'year': 2003,
+    'both_sexes': 10.7,
+    'male': 16.1,
+    'female': 5.5
+} {
+    'country': 'Thailand',
+    'year': 2002,
+    'both_sexes': 11.0,
+    'male': 16.1,
+    'female': 6.1
+} {
+    'country': 'Thailand',
+    'year': 2001,
+    'both_sexes': 10.9,
+    'male': 15.7,
+    'female': 6.3
+} {
+    'country': 'Thailand',
+    'year': 2000,
+    'both_sexes': 12.0,
+    'male': 16.7,
+    'female': 7.4
+} {
+    'country': 'Timor-Leste',
+    'year': 2019,
+    'both_sexes': 3.7,
+    'male': 5.3,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2018,
+    'both_sexes': 3.6,
+    'male': 5.2,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2017,
+    'both_sexes': 3.6,
+    'male': 5.2,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2016,
+    'both_sexes': 3.6,
+    'male': 5.1,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2015,
+    'both_sexes': 3.5,
+    'male': 5.0,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2014,
+    'both_sexes': 3.4,
+    'male': 4.8,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2013,
+    'both_sexes': 3.3,
+    'male': 4.7,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2012,
+    'both_sexes': 3.3,
+    'male': 4.6,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2011,
+    'both_sexes': 3.2,
+    'male': 4.4,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2010,
+    'both_sexes': 3.0,
+    'male': 4.0,
+    'female': 1.9
+} {
+    'country': 'Timor-Leste',
+    'year': 2009,
+    'both_sexes': 3.1,
+    'male': 4.2,
+    'female': 2.1
+} {
+    'country': 'Timor-Leste',
+    'year': 2008,
+    'both_sexes': 2.4,
+    'male': 3.2,
+    'female': 1.6
+} {
+    'country': 'Timor-Leste',
+    'year': 2007,
+    'both_sexes': 2.6,
+    'male': 3.5,
+    'female': 1.7
+} {
+    'country': 'Timor-Leste',
+    'year': 2006,
+    'both_sexes': 2.7,
+    'male': 3.7,
+    'female': 1.8
+} {
+    'country': 'Timor-Leste',
+    'year': 2005,
+    'both_sexes': 3.0,
+    'male': 4.0,
+    'female': 2.1
+} {
+    'country': 'Timor-Leste',
+    'year': 2004,
+    'both_sexes': 3.1,
+    'male': 4.0,
+    'female': 2.0
+} {
+    'country': 'Timor-Leste',
+    'year': 2003,
+    'both_sexes': 3.4,
+    'male': 4.4,
+    'female': 2.4
+} {
+    'country': 'Timor-Leste',
+    'year': 2002,
+    'both_sexes': 3.4,
+    'male': 4.3,
+    'female': 2.4
+} {
+    'country': 'Timor-Leste',
+    'year': 2001,
+    'both_sexes': 3.6,
+    'male': 4.5,
+    'female': 2.7
+} {
+    'country': 'Timor-Leste',
+    'year': 2000,
+    'both_sexes': 3.6,
+    'male': 4.6,
+    'female': 2.5
+} {
+    'country': 'Togo',
+    'year': 2019,
+    'both_sexes': 8.8,
+    'male': 13.8,
+    'female': 3.9
+} {
+    'country': 'Togo',
+    'year': 2018,
+    'both_sexes': 8.7,
+    'male': 13.7,
+    'female': 3.9
+} {
+    'country': 'Togo',
+    'year': 2017,
+    'both_sexes': 9.0,
+    'male': 14.1,
+    'female': 4.0
+} {
+    'country': 'Togo',
+    'year': 2016,
+    'both_sexes': 9.3,
+    'male': 14.3,
+    'female': 4.3
+} {
+    'country': 'Togo',
+    'year': 2015,
+    'both_sexes': 9.7,
+    'male': 14.9,
+    'female': 4.6
+} {
+    'country': 'Togo',
+    'year': 2014,
+    'both_sexes': 10.1,
+    'male': 15.5,
+    'female': 4.8
+} {
+    'country': 'Togo',
+    'year': 2013,
+    'both_sexes': 10.3,
+    'male': 15.8,
+    'female': 4.9
+} {
+    'country': 'Togo',
+    'year': 2012,
+    'both_sexes': 10.4,
+    'male': 15.8,
+    'female': 5.0
+} {
+    'country': 'Togo',
+    'year': 2011,
+    'both_sexes': 10.4,
+    'male': 15.7,
+    'female': 5.1
+} {
+    'country': 'Togo',
+    'year': 2010,
+    'both_sexes': 10.4,
+    'male': 15.7,
+    'female': 5.1
+} {
+    'country': 'Togo',
+    'year': 2009,
+    'both_sexes': 10.5,
+    'male': 16.0,
+    'female': 5.2
+} {
+    'country': 'Togo',
+    'year': 2008,
+    'both_sexes': 10.8,
+    'male': 16.3,
+    'female': 5.4
+} {
+    'country': 'Togo',
+    'year': 2007,
+    'both_sexes': 10.9,
+    'male': 16.3,
+    'female': 5.6
+} {
+    'country': 'Togo',
+    'year': 2006,
+    'both_sexes': 11.0,
+    'male': 16.4,
+    'female': 5.7
+} {
+    'country': 'Togo',
+    'year': 2005,
+    'both_sexes': 10.7,
+    'male': 16.0,
+    'female': 5.6
+} {
+    'country': 'Togo',
+    'year': 2004,
+    'both_sexes': 10.8,
+    'male': 16.0,
+    'female': 5.6
+} {
+    'country': 'Togo',
+    'year': 2003,
+    'both_sexes': 10.7,
+    'male': 15.9,
+    'female': 5.6
+} {
+    'country': 'Togo',
+    'year': 2002,
+    'both_sexes': 10.4,
+    'male': 15.5,
+    'female': 5.5
+} {
+    'country': 'Togo',
+    'year': 2001,
+    'both_sexes': 10.3,
+    'male': 15.2,
+    'female': 5.4
+} {
+    'country': 'Togo',
+    'year': 2000,
+    'both_sexes': 10.0,
+    'male': 14.9,
+    'female': 5.3
+} {
+    'country': 'Tonga',
+    'year': 2019,
+    'both_sexes': 3.8,
+    'male': 5.0,
+    'female': 2.6
+} {
+    'country': 'Tonga',
+    'year': 2018,
+    'both_sexes': 4.0,
+    'male': 5.2,
+    'female': 2.8
+} {
+    'country': 'Tonga',
+    'year': 2017,
+    'both_sexes': 4.2,
+    'male': 5.4,
+    'female': 2.9
+} {
+    'country': 'Tonga',
+    'year': 2016,
+    'both_sexes': 4.1,
+    'male': 5.4,
+    'female': 2.9
+} {
+    'country': 'Tonga',
+    'year': 2015,
+    'both_sexes': 4.6,
+    'male': 6.1,
+    'female': 3.1
+} {
+    'country': 'Tonga',
+    'year': 2014,
+    'both_sexes': 4.6,
+    'male': 6.2,
+    'female': 3.1
+} {
+    'country': 'Tonga',
+    'year': 2013,
+    'both_sexes': 4.6,
+    'male': 6.1,
+    'female': 3.0
+} {
+    'country': 'Tonga',
+    'year': 2012,
+    'both_sexes': 4.5,
+    'male': 6.0,
+    'female': 3.0
+} {
+    'country': 'Tonga',
+    'year': 2011,
+    'both_sexes': 4.5,
+    'male': 5.9,
+    'female': 3.0
+} {
+    'country': 'Tonga',
+    'year': 2010,
+    'both_sexes': 4.6,
+    'male': 6.1,
+    'female': 3.0
+} {
+    'country': 'Tonga',
+    'year': 2009,
+    'both_sexes': 4.3,
+    'male': 5.8,
+    'female': 2.8
+} {
+    'country': 'Tonga',
+    'year': 2008,
+    'both_sexes': 3.9,
+    'male': 5.1,
+    'female': 2.8
+} {
+    'country': 'Tonga',
+    'year': 2007,
+    'both_sexes': 4.0,
+    'male': 5.3,
+    'female': 2.8
+} {
+    'country': 'Tonga',
+    'year': 2006,
+    'both_sexes': 4.0,
+    'male': 5.2,
+    'female': 2.7
+} {
+    'country': 'Tonga',
+    'year': 2005,
+    'both_sexes': 4.0,
+    'male': 5.3,
+    'female': 2.8
+} {
+    'country': 'Tonga',
+    'year': 2004,
+    'both_sexes': 4.2,
+    'male': 5.5,
+    'female': 2.8
+} {
+    'country': 'Tonga',
+    'year': 2003,
+    'both_sexes': 4.2,
+    'male': 5.6,
+    'female': 2.9
+} {
+    'country': 'Tonga',
+    'year': 2002,
+    'both_sexes': 4.2,
+    'male': 5.3,
+    'female': 2.9
+} {
+    'country': 'Tonga',
+    'year': 2001,
+    'both_sexes': 4.2,
+    'male': 5.3,
+    'female': 3.1
+} {
+    'country': 'Tonga',
+    'year': 2000,
+    'both_sexes': 4.2,
+    'male': 5.3,
+    'female': 3.1
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2019,
+    'both_sexes': 8.7,
+    'male': 13.9,
+    'female': 3.6
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2018,
+    'both_sexes': 9.0,
+    'male': 14.3,
+    'female': 3.7
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2017,
+    'both_sexes': 9.5,
+    'male': 15.1,
+    'female': 4.1
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2016,
+    'both_sexes': 9.8,
+    'male': 15.6,
+    'female': 4.2
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2015,
+    'both_sexes': 10.2,
+    'male': 16.2,
+    'female': 4.3
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2014,
+    'both_sexes': 10.5,
+    'male': 16.8,
+    'female': 4.4
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2013,
+    'both_sexes': 10.9,
+    'male': 17.3,
+    'female': 4.6
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2012,
+    'both_sexes': 9.5,
+    'male': 14.2,
+    'female': 4.9
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2011,
+    'both_sexes': 9.9,
+    'male': 15.9,
+    'female': 4.1
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2010,
+    'both_sexes': 11.3,
+    'male': 18.1,
+    'female': 4.8
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2009,
+    'both_sexes': 11.2,
+    'male': 18.2,
+    'female': 4.3
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2008,
+    'both_sexes': 13.7,
+    'male': 22.7,
+    'female': 4.9
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2007,
+    'both_sexes': 11.2,
+    'male': 18.6,
+    'female': 3.9
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2006,
+    'both_sexes': 11.3,
+    'male': 18.2,
+    'female': 4.6
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2005,
+    'both_sexes': 12.7,
+    'male': 20.6,
+    'female': 4.9
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2004,
+    'both_sexes': 13.1,
+    'male': 21.5,
+    'female': 4.8
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2003,
+    'both_sexes': 13.4,
+    'male': 21.6,
+    'female': 5.3
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2002,
+    'both_sexes': 15.3,
+    'male': 25.0,
+    'female': 5.7
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2001,
+    'both_sexes': 16.3,
+    'male': 26.0,
+    'female': 6.8
+} {
+    'country': 'Trinidad and Tobago',
+    'year': 2000,
+    'both_sexes': 16.3,
+    'male': 26.0,
+    'female': 6.7
+} {
+    'country': 'Tunisia',
+    'year': 2019,
+    'both_sexes': 3.3,
+    'male': 4.7,
+    'female': 1.9
+} {
+    'country': 'Tunisia',
+    'year': 2018,
+    'both_sexes': 3.2,
+    'male': 4.5,
+    'female': 1.9
+} {
+    'country': 'Tunisia',
+    'year': 2017,
+    'both_sexes': 3.1,
+    'male': 4.3,
+    'female': 1.9
+} {
+    'country': 'Tunisia',
+    'year': 2016,
+    'both_sexes': 3.1,
+    'male': 4.3,
+    'female': 1.9
+} {
+    'country': 'Tunisia',
+    'year': 2015,
+    'both_sexes': 3.1,
+    'male': 4.3,
+    'female': 2.0
+} {
+    'country': 'Tunisia',
+    'year': 2014,
+    'both_sexes': 3.2,
+    'male': 4.4,
+    'female': 2.0
+} {
+    'country': 'Tunisia',
+    'year': 2013,
+    'both_sexes': 3.3,
+    'male': 4.5,
+    'female': 2.1
+} {
+    'country': 'Tunisia',
+    'year': 2012,
+    'both_sexes': 3.4,
+    'male': 4.6,
+    'female': 2.1
+} {
+    'country': 'Tunisia',
+    'year': 2011,
+    'both_sexes': 3.4,
+    'male': 4.7,
+    'female': 2.1
+} {
+    'country': 'Tunisia',
+    'year': 2010,
+    'both_sexes': 3.5,
+    'male': 4.7,
+    'female': 2.2
+} {
+    'country': 'Tunisia',
+    'year': 2009,
+    'both_sexes': 3.5,
+    'male': 4.8,
+    'female': 2.3
+} {
+    'country': 'Tunisia',
+    'year': 2008,
+    'both_sexes': 3.5,
+    'male': 4.8,
+    'female': 2.3
+} {
+    'country': 'Tunisia',
+    'year': 2007,
+    'both_sexes': 3.6,
+    'male': 4.8,
+    'female': 2.4
+} {
+    'country': 'Tunisia',
+    'year': 2006,
+    'both_sexes': 3.7,
+    'male': 4.9,
+    'female': 2.5
+} {
+    'country': 'Tunisia',
+    'year': 2005,
+    'both_sexes': 3.7,
+    'male': 4.9,
+    'female': 2.5
+} {
+    'country': 'Tunisia',
+    'year': 2004,
+    'both_sexes': 3.7,
+    'male': 4.9,
+    'female': 2.6
+} {
+    'country': 'Tunisia',
+    'year': 2003,
+    'both_sexes': 3.8,
+    'male': 4.9,
+    'female': 2.6
+} {
+    'country': 'Tunisia',
+    'year': 2002,
+    'both_sexes': 3.8,
+    'male': 4.9,
+    'female': 2.6
+} {
+    'country': 'Tunisia',
+    'year': 2001,
+    'both_sexes': 3.7,
+    'male': 4.9,
+    'female': 2.6
+} {
+    'country': 'Tunisia',
+    'year': 2000,
+    'both_sexes': 3.7,
+    'male': 4.8,
+    'female': 2.6
+} {
+    'country': 'Turkey',
+    'year': 2019,
+    'both_sexes': 2.4,
+    'male': 3.6,
+    'female': 1.2
+} {
+    'country': 'Turkey',
+    'year': 2018,
+    'both_sexes': 2.3,
+    'male': 3.4,
+    'female': 1.2
+} {
+    'country': 'Turkey',
+    'year': 2017,
+    'both_sexes': 2.3,
+    'male': 3.4,
+    'female': 1.3
+} {
+    'country': 'Turkey',
+    'year': 2016,
+    'both_sexes': 2.3,
+    'male': 3.3,
+    'female': 1.3
+} {
+    'country': 'Turkey',
+    'year': 2015,
+    'both_sexes': 2.3,
+    'male': 3.3,
+    'female': 1.3
+} {
+    'country': 'Turkey',
+    'year': 2014,
+    'both_sexes': 2.3,
+    'male': 3.4,
+    'female': 1.3
+} {
+    'country': 'Turkey',
+    'year': 2013,
+    'both_sexes': 2.3,
+    'male': 3.3,
+    'female': 1.2
+} {
+    'country': 'Turkey',
+    'year': 2012,
+    'both_sexes': 2.2,
+    'male': 3.3,
+    'female': 1.2
+} {
+    'country': 'Turkey',
+    'year': 2011,
+    'both_sexes': 2.2,
+    'male': 3.3,
+    'female': 1.2
+} {
+    'country': 'Turkey',
+    'year': 2010,
+    'both_sexes': 2.4,
+    'male': 3.6,
+    'female': 1.3
+} {
+    'country': 'Turkey',
+    'year': 2009,
+    'both_sexes': 2.4,
+    'male': 3.5,
+    'female': 1.3
+} {
+    'country': 'Turkey',
+    'year': 2008,
+    'both_sexes': 2.4,
+    'male': 3.5,
+    'female': 1.3
+} {
+    'country': 'Turkey',
+    'year': 2007,
+    'both_sexes': 2.5,
+    'male': 3.7,
+    'female': 1.4
+} {
+    'country': 'Turkey',
+    'year': 2006,
+    'both_sexes': 2.7,
+    'male': 3.9,
+    'female': 1.5
+} {
+    'country': 'Turkey',
+    'year': 2005,
+    'both_sexes': 2.8,
+    'male': 4.2,
+    'female': 1.5
+} {
+    'country': 'Turkey',
+    'year': 2004,
+    'both_sexes': 3.0,
+    'male': 4.5,
+    'female': 1.6
+} {
+    'country': 'Turkey',
+    'year': 2003,
+    'both_sexes': 3.1,
+    'male': 4.7,
+    'female': 1.6
+} {
+    'country': 'Turkey',
+    'year': 2002,
+    'both_sexes': 3.2,
+    'male': 4.8,
+    'female': 1.6
+} {
+    'country': 'Turkey',
+    'year': 2001,
+    'both_sexes': 3.6,
+    'male': 5.6,
+    'female': 1.7
+} {
+    'country': 'Turkey',
+    'year': 2000,
+    'both_sexes': 4.0,
+    'male': 6.2,
+    'female': 1.8
+} {
+    'country': 'Turkmenistan',
+    'year': 2019,
+    'both_sexes': 5.7,
+    'male': 8.8,
+    'female': 2.7
+} {
+    'country': 'Turkmenistan',
+    'year': 2018,
+    'both_sexes': 5.7,
+    'male': 8.8,
+    'female': 2.7
+} {
+    'country': 'Turkmenistan',
+    'year': 2017,
+    'both_sexes': 5.8,
+    'male': 9.0,
+    'female': 2.8
+} {
+    'country': 'Turkmenistan',
+    'year': 2016,
+    'both_sexes': 6.2,
+    'male': 9.5,
+    'female': 3.0
+} {
+    'country': 'Turkmenistan',
+    'year': 2015,
+    'both_sexes': 6.3,
+    'male': 9.5,
+    'female': 3.2
+} {
+    'country': 'Turkmenistan',
+    'year': 2014,
+    'both_sexes': 6.8,
+    'male': 10.5,
+    'female': 3.3
+} {
+    'country': 'Turkmenistan',
+    'year': 2013,
+    'both_sexes': 7.1,
+    'male': 10.6,
+    'female': 3.8
+} {
+    'country': 'Turkmenistan',
+    'year': 2012,
+    'both_sexes': 7.1,
+    'male': 10.7,
+    'female': 3.6
+} {
+    'country': 'Turkmenistan',
+    'year': 2011,
+    'both_sexes': 7.6,
+    'male': 11.4,
+    'female': 3.9
+} {
+    'country': 'Turkmenistan',
+    'year': 2010,
+    'both_sexes': 8.5,
+    'male': 13.2,
+    'female': 4.0
+} {
+    'country': 'Turkmenistan',
+    'year': 2009,
+    'both_sexes': 9.4,
+    'male': 14.6,
+    'female': 4.4
+} {
+    'country': 'Turkmenistan',
+    'year': 2008,
+    'both_sexes': 11.4,
+    'male': 18.1,
+    'female': 4.8
+} {
+    'country': 'Turkmenistan',
+    'year': 2007,
+    'both_sexes': 13.2,
+    'male': 21.3,
+    'female': 5.2
+} {
+    'country': 'Turkmenistan',
+    'year': 2006,
+    'both_sexes': 15.1,
+    'male': 24.5,
+    'female': 6.0
+} {
+    'country': 'Turkmenistan',
+    'year': 2005,
+    'both_sexes': 15.1,
+    'male': 25.0,
+    'female': 5.5
+} {
+    'country': 'Turkmenistan',
+    'year': 2004,
+    'both_sexes': 14.3,
+    'male': 23.5,
+    'female': 5.4
+} {
+    'country': 'Turkmenistan',
+    'year': 2003,
+    'both_sexes': 14.3,
+    'male': 24.1,
+    'female': 4.9
+} {
+    'country': 'Turkmenistan',
+    'year': 2002,
+    'both_sexes': 14.1,
+    'male': 23.3,
+    'female': 5.2
+} {
+    'country': 'Turkmenistan',
+    'year': 2001,
+    'both_sexes': 13.5,
+    'male': 22.7,
+    'female': 4.6
+} {
+    'country': 'Turkmenistan',
+    'year': 2000,
+    'both_sexes': 12.5,
+    'male': 21.1,
+    'female': 4.2
+} {
+    'country': 'Uganda',
+    'year': 2019,
+    'both_sexes': 4.6,
+    'male': 7.6,
+    'female': 1.7
+} {
+    'country': 'Uganda',
+    'year': 2018,
+    'both_sexes': 4.4,
+    'male': 7.4,
+    'female': 1.6
+} {
+    'country': 'Uganda',
+    'year': 2017,
+    'both_sexes': 4.4,
+    'male': 7.4,
+    'female': 1.6
+} {
+    'country': 'Uganda',
+    'year': 2016,
+    'both_sexes': 4.7,
+    'male': 7.8,
+    'female': 1.8
+} {
+    'country': 'Uganda',
+    'year': 2015,
+    'both_sexes': 4.7,
+    'male': 7.8,
+    'female': 1.7
+} {
+    'country': 'Uganda',
+    'year': 2014,
+    'both_sexes': 4.8,
+    'male': 8.1,
+    'female': 1.6
+} {
+    'country': 'Uganda',
+    'year': 2013,
+    'both_sexes': 5.2,
+    'male': 8.9,
+    'female': 1.7
+} {
+    'country': 'Uganda',
+    'year': 2012,
+    'both_sexes': 5.7,
+    'male': 9.5,
+    'female': 2.0
+} {
+    'country': 'Uganda',
+    'year': 2011,
+    'both_sexes': 6.3,
+    'male': 10.2,
+    'female': 2.5
+} {
+    'country': 'Uganda',
+    'year': 2010,
+    'both_sexes': 6.3,
+    'male': 10.2,
+    'female': 2.6
+} {
+    'country': 'Uganda',
+    'year': 2009,
+    'both_sexes': 6.8,
+    'male': 10.9,
+    'female': 2.8
+} {
+    'country': 'Uganda',
+    'year': 2008,
+    'both_sexes': 7.1,
+    'male': 11.4,
+    'female': 2.9
+} {
+    'country': 'Uganda',
+    'year': 2007,
+    'both_sexes': 8.0,
+    'male': 12.8,
+    'female': 3.4
+} {
+    'country': 'Uganda',
+    'year': 2006,
+    'both_sexes': 9.4,
+    'male': 14.6,
+    'female': 4.3
+} {
+    'country': 'Uganda',
+    'year': 2005,
+    'both_sexes': 9.7,
+    'male': 15.2,
+    'female': 4.3
+} {
+    'country': 'Uganda',
+    'year': 2004,
+    'both_sexes': 9.5,
+    'male': 15.0,
+    'female': 4.0
+} {
+    'country': 'Uganda',
+    'year': 2003,
+    'both_sexes': 9.4,
+    'male': 14.9,
+    'female': 4.0
+} {
+    'country': 'Uganda',
+    'year': 2002,
+    'both_sexes': 9.4,
+    'male': 14.9,
+    'female': 4.1
+} {
+    'country': 'Uganda',
+    'year': 2001,
+    'both_sexes': 9.8,
+    'male': 15.5,
+    'female': 4.3
+} {
+    'country': 'Uganda',
+    'year': 2000,
+    'both_sexes': 10.2,
+    'male': 16.0,
+    'female': 4.5
+} {
+    'country': 'Ukraine',
+    'year': 2019,
+    'both_sexes': 21.6,
+    'male': 39.2,
+    'female': 6.5
+} {
+    'country': 'Ukraine',
+    'year': 2018,
+    'both_sexes': 21.9,
+    'male': 39.8,
+    'female': 6.5
+} {
+    'country': 'Ukraine',
+    'year': 2017,
+    'both_sexes': 20.6,
+    'male': 37.2,
+    'female': 6.3
+} {
+    'country': 'Ukraine',
+    'year': 2016,
+    'both_sexes': 21.4,
+    'male': 38.5,
+    'female': 6.6
+} {
+    'country': 'Ukraine',
+    'year': 2015,
+    'both_sexes': 21.6,
+    'male': 38.9,
+    'female': 6.7
+} {
+    'country': 'Ukraine',
+    'year': 2014,
+    'both_sexes': 24.4,
+    'male': 44.1,
+    'female': 7.4
+} {
+    'country': 'Ukraine',
+    'year': 2013,
+    'both_sexes': 22.6,
+    'male': 40.6,
+    'female': 7.2
+} {
+    'country': 'Ukraine',
+    'year': 2012,
+    'both_sexes': 23.1,
+    'male': 41.6,
+    'female': 7.3
+} {
+    'country': 'Ukraine',
+    'year': 2011,
+    'both_sexes': 23.0,
+    'male': 41.5,
+    'female': 7.2
+} {
+    'country': 'Ukraine',
+    'year': 2010,
+    'both_sexes': 24.5,
+    'male': 44.0,
+    'female': 7.7
+} {
+    'country': 'Ukraine',
+    'year': 2009,
+    'both_sexes': 26.3,
+    'male': 47.6,
+    'female': 8.0
+} {
+    'country': 'Ukraine',
+    'year': 2008,
+    'both_sexes': 30.9,
+    'male': 56.5,
+    'female': 8.8
+} {
+    'country': 'Ukraine',
+    'year': 2007,
+    'both_sexes': 31.5,
+    'male': 57.7,
+    'female': 8.9
+} {
+    'country': 'Ukraine',
+    'year': 2006,
+    'both_sexes': 30.8,
+    'male': 56.1,
+    'female': 8.9
+} {
+    'country': 'Ukraine',
+    'year': 2005,
+    'both_sexes': 33.8,
+    'male': 61.9,
+    'female': 9.5
+} {
+    'country': 'Ukraine',
+    'year': 2004,
+    'both_sexes': 33.8,
+    'male': 61.8,
+    'female': 9.6
+} {
+    'country': 'Ukraine',
+    'year': 2003,
+    'both_sexes': 34.5,
+    'male': 62.6,
+    'female': 10.0
+} {
+    'country': 'Ukraine',
+    'year': 2002,
+    'both_sexes': 36.0,
+    'male': 65.7,
+    'female': 10.3
+} {
+    'country': 'Ukraine',
+    'year': 2001,
+    'both_sexes': 36.7,
+    'male': 66.7,
+    'female': 10.6
+} {
+    'country': 'Ukraine',
+    'year': 2000,
+    'both_sexes': 39.1,
+    'male': 70.9,
+    'female': 11.4
+} {
+    'country': 'United Arab Emirates',
+    'year': 2019,
+    'both_sexes': 6.4,
+    'male': 8.0,
+    'female': 3.0
+} {
+    'country': 'United Arab Emirates',
+    'year': 2018,
+    'both_sexes': 6.0,
+    'male': 7.4,
+    'female': 2.9
+} {
+    'country': 'United Arab Emirates',
+    'year': 2017,
+    'both_sexes': 5.6,
+    'male': 6.8,
+    'female': 2.8
+} {
+    'country': 'United Arab Emirates',
+    'year': 2016,
+    'both_sexes': 6.0,
+    'male': 7.3,
+    'female': 2.9
+} {
+    'country': 'United Arab Emirates',
+    'year': 2015,
+    'both_sexes': 6.5,
+    'male': 7.9,
+    'female': 3.0
+} {
+    'country': 'United Arab Emirates',
+    'year': 2014,
+    'both_sexes': 7.0,
+    'male': 8.6,
+    'female': 3.1
+} {
+    'country': 'United Arab Emirates',
+    'year': 2013,
+    'both_sexes': 7.5,
+    'male': 9.1,
+    'female': 3.2
+} {
+    'country': 'United Arab Emirates',
+    'year': 2012,
+    'both_sexes': 7.9,
+    'male': 9.6,
+    'female': 3.2
+} {
+    'country': 'United Arab Emirates',
+    'year': 2011,
+    'both_sexes': 8.2,
+    'male': 9.9,
+    'female': 3.2
+} {
+    'country': 'United Arab Emirates',
+    'year': 2010,
+    'both_sexes': 8.4,
+    'male': 10.1,
+    'female': 3.3
+} {
+    'country': 'United Arab Emirates',
+    'year': 2009,
+    'both_sexes': 8.5,
+    'male': 10.3,
+    'female': 3.2
+} {
+    'country': 'United Arab Emirates',
+    'year': 2008,
+    'both_sexes': 8.5,
+    'male': 10.3,
+    'female': 3.2
+} {
+    'country': 'United Arab Emirates',
+    'year': 2007,
+    'both_sexes': 8.3,
+    'male': 10.2,
+    'female': 3.3
+} {
+    'country': 'United Arab Emirates',
+    'year': 2006,
+    'both_sexes': 8.3,
+    'male': 10.3,
+    'female': 3.5
+} {
+    'country': 'United Arab Emirates',
+    'year': 2005,
+    'both_sexes': 7.9,
+    'male': 9.8,
+    'female': 3.4
+} {
+    'country': 'United Arab Emirates',
+    'year': 2004,
+    'both_sexes': 7.7,
+    'male': 9.6,
+    'female': 3.5
+} {
+    'country': 'United Arab Emirates',
+    'year': 2003,
+    'both_sexes': 7.5,
+    'male': 9.3,
+    'female': 3.5
+} {
+    'country': 'United Arab Emirates',
+    'year': 2002,
+    'both_sexes': 8.0,
+    'male': 10.1,
+    'female': 3.7
+} {
+    'country': 'United Arab Emirates',
+    'year': 2001,
+    'both_sexes': 8.6,
+    'male': 10.8,
+    'female': 3.9
+} {
+    'country': 'United Arab Emirates',
+    'year': 2000,
+    'both_sexes': 8.6,
+    'male': 10.8,
+    'female': 3.9
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2019,
+    'both_sexes': 7.9,
+    'male': 11.8,
+    'female': 4.0
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2018,
+    'both_sexes': 8.1,
+    'male': 12.2,
+    'female': 4.1
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2017,
+    'both_sexes': 8.2,
+    'male': 12.5,
+    'female': 4.1
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2016,
+    'both_sexes': 8.5,
+    'male': 13.0,
+    'female': 4.1
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2015,
+    'both_sexes': 8.8,
+    'male': 13.4,
+    'female': 4.4
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2014,
+    'both_sexes': 8.6,
+    'male': 13.4,
+    'female': 4.0
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2013,
+    'both_sexes': 8.8,
+    'male': 14.0,
+    'female': 3.8
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2012,
+    'both_sexes': 8.2,
+    'male': 13.0,
+    'female': 3.7
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2011,
+    'both_sexes': 8.3,
+    'male': 12.8,
+    'female': 3.9
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2010,
+    'both_sexes': 7.8,
+    'male': 12.1,
+    'female': 3.7
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2009,
+    'both_sexes': 8.0,
+    'male': 12.5,
+    'female': 3.7
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2008,
+    'both_sexes': 8.1,
+    'male': 12.6,
+    'female': 3.8
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2007,
+    'both_sexes': 7.6,
+    'male': 11.7,
+    'female': 3.6
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2006,
+    'both_sexes': 7.8,
+    'male': 12.0,
+    'female': 3.8
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2005,
+    'both_sexes': 7.9,
+    'male': 11.8,
+    'female': 4.1
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2004,
+    'both_sexes': 8.2,
+    'male': 12.2,
+    'female': 4.3
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2003,
+    'both_sexes': 7.9,
+    'male': 11.9,
+    'female': 4.1
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2002,
+    'both_sexes': 8.3,
+    'male': 12.6,
+    'female': 4.1
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2001,
+    'both_sexes': 8.3,
+    'male': 12.9,
+    'female': 3.9
+} {
+    'country': 'United Kingdom of Great Britain and Northern Ireland',
+    'year': 2000,
+    'both_sexes': 8.6,
+    'male': 13.0,
+    'female': 4.3
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2019,
+    'both_sexes': 4.3,
+    'male': 6.6,
+    'female': 2.0
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2018,
+    'both_sexes': 4.2,
+    'male': 6.4,
+    'female': 1.9
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2017,
+    'both_sexes': 4.2,
+    'male': 6.4,
+    'female': 2.0
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2016,
+    'both_sexes': 4.2,
+    'male': 6.4,
+    'female': 2.1
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2015,
+    'both_sexes': 4.2,
+    'male': 6.4,
+    'female': 2.0
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2014,
+    'both_sexes': 4.2,
+    'male': 6.3,
+    'female': 2.0
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2013,
+    'both_sexes': 4.4,
+    'male': 6.6,
+    'female': 2.2
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2012,
+    'both_sexes': 4.3,
+    'male': 6.2,
+    'female': 2.4
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2011,
+    'both_sexes': 4.8,
+    'male': 6.7,
+    'female': 2.9
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2010,
+    'both_sexes': 5.0,
+    'male': 7.2,
+    'female': 2.9
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2009,
+    'both_sexes': 5.5,
+    'male': 7.7,
+    'female': 3.3
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2008,
+    'both_sexes': 5.8,
+    'male': 8.1,
+    'female': 3.6
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2007,
+    'both_sexes': 5.4,
+    'male': 7.7,
+    'female': 3.2
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2006,
+    'both_sexes': 5.3,
+    'male': 7.7,
+    'female': 3.0
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2005,
+    'both_sexes': 5.4,
+    'male': 7.8,
+    'female': 3.1
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2004,
+    'both_sexes': 5.8,
+    'male': 8.3,
+    'female': 3.4
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2003,
+    'both_sexes': 6.4,
+    'male': 9.1,
+    'female': 3.7
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2002,
+    'both_sexes': 7.0,
+    'male': 9.9,
+    'female': 4.0
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2001,
+    'both_sexes': 7.9,
+    'male': 11.3,
+    'female': 4.6
+} {
+    'country': 'United Republic of Tanzania',
+    'year': 2000,
+    'both_sexes': 8.9,
+    'male': 12.7,
+    'female': 5.1
+} {
+    'country': 'United States of America',
+    'year': 2019,
+    'both_sexes': 16.1,
+    'male': 25.0,
+    'female': 7.5
+} {
+    'country': 'United States of America',
+    'year': 2018,
+    'both_sexes': 15.7,
+    'male': 24.3,
+    'female': 7.2
+} {
+    'country': 'United States of America',
+    'year': 2017,
+    'both_sexes': 15.9,
+    'male': 24.9,
+    'female': 7.1
+} {
+    'country': 'United States of America',
+    'year': 2016,
+    'both_sexes': 15.1,
+    'male': 23.5,
+    'female': 7.0
+} {
+    'country': 'United States of America',
+    'year': 2015,
+    'both_sexes': 14.4,
+    'male': 22.2,
+    'female': 6.8
+} {
+    'country': 'United States of America',
+    'year': 2014,
+    'both_sexes': 14.0,
+    'male': 21.6,
+    'female': 6.5
+} {
+    'country': 'United States of America',
+    'year': 2013,
+    'both_sexes': 13.5,
+    'male': 21.0,
+    'female': 6.2
+} {
+    'country': 'United States of America',
+    'year': 2012,
+    'both_sexes': 13.5,
+    'male': 21.1,
+    'female': 6.1
+} {
+    'country': 'United States of America',
+    'year': 2011,
+    'both_sexes': 13.4,
+    'male': 20.9,
+    'female': 6.0
+} {
+    'country': 'United States of America',
+    'year': 2010,
+    'both_sexes': 13.1,
+    'male': 20.5,
+    'female': 5.8
+} {
+    'country': 'United States of America',
+    'year': 2009,
+    'both_sexes': 12.8,
+    'male': 20.0,
+    'female': 5.7
+} {
+    'country': 'United States of America',
+    'year': 2008,
+    'both_sexes': 12.7,
+    'male': 20.0,
+    'female': 5.6
+} {
+    'country': 'United States of America',
+    'year': 2007,
+    'both_sexes': 12.4,
+    'male': 19.5,
+    'female': 5.5
+} {
+    'country': 'United States of America',
+    'year': 2006,
+    'both_sexes': 12.1,
+    'male': 19.1,
+    'female': 5.4
+} {
+    'country': 'United States of America',
+    'year': 2005,
+    'both_sexes': 11.9,
+    'male': 18.7,
+    'female': 5.2
+} {
+    'country': 'United States of America',
+    'year': 2004,
+    'both_sexes': 11.9,
+    'male': 18.6,
+    'female': 5.4
+} {
+    'country': 'United States of America',
+    'year': 2003,
+    'both_sexes': 11.7,
+    'male': 18.6,
+    'female': 5.0
+} {
+    'country': 'United States of America',
+    'year': 2002,
+    'both_sexes': 11.8,
+    'male': 18.8,
+    'female': 5.0
+} {
+    'country': 'United States of America',
+    'year': 2001,
+    'both_sexes': 11.4,
+    'male': 18.3,
+    'female': 4.7
+} {
+    'country': 'United States of America',
+    'year': 2000,
+    'both_sexes': 11.0,
+    'male': 17.7,
+    'female': 4.5
+} {
+    'country': 'Uruguay',
+    'year': 2019,
+    'both_sexes': 21.2,
+    'male': 34.5,
+    'female': 8.9
+} {
+    'country': 'Uruguay',
+    'year': 2018,
+    'both_sexes': 21.2,
+    'male': 34.7,
+    'female': 8.6
+} {
+    'country': 'Uruguay',
+    'year': 2017,
+    'both_sexes': 20.8,
+    'male': 33.8,
+    'female': 8.6
+} {
+    'country': 'Uruguay',
+    'year': 2016,
+    'both_sexes': 21.1,
+    'male': 33.5,
+    'female': 9.6
+} {
+    'country': 'Uruguay',
+    'year': 2015,
+    'both_sexes': 18.6,
+    'male': 30.4,
+    'female': 7.7
+} {
+    'country': 'Uruguay',
+    'year': 2014,
+    'both_sexes': 17.4,
+    'male': 27.6,
+    'female': 7.9
+} {
+    'country': 'Uruguay',
+    'year': 2013,
+    'both_sexes': 15.8,
+    'male': 25.1,
+    'female': 7.2
+} {
+    'country': 'Uruguay',
+    'year': 2012,
+    'both_sexes': 17.8,
+    'male': 29.4,
+    'female': 7.1
+} {
+    'country': 'Uruguay',
+    'year': 2011,
+    'both_sexes': 16.8,
+    'male': 26.9,
+    'female': 7.4
+} {
+    'country': 'Uruguay',
+    'year': 2010,
+    'both_sexes': 16.0,
+    'male': 25.4,
+    'female': 7.2
+} {
+    'country': 'Uruguay',
+    'year': 2009,
+    'both_sexes': 15.0,
+    'male': 24.7,
+    'female': 5.9
+} {
+    'country': 'Uruguay',
+    'year': 2008,
+    'both_sexes': 15.1,
+    'male': 24.2,
+    'female': 6.6
+} {
+    'country': 'Uruguay',
+    'year': 2007,
+    'both_sexes': 17.4,
+    'male': 27.5,
+    'female': 8.1
+} {
+    'country': 'Uruguay',
+    'year': 2006,
+    'both_sexes': 15.5,
+    'male': 23.7,
+    'female': 7.8
+} {
+    'country': 'Uruguay',
+    'year': 2005,
+    'both_sexes': 14.8,
+    'male': 23.4,
+    'female': 6.7
+} {
+    'country': 'Uruguay',
+    'year': 2004,
+    'both_sexes': 15.3,
+    'male': 24.9,
+    'female': 6.4
+} {
+    'country': 'Uruguay',
+    'year': 2003,
+    'both_sexes': 15.6,
+    'male': 24.7,
+    'female': 7.1
+} {
+    'country': 'Uruguay',
+    'year': 2002,
+    'both_sexes': 19.8,
+    'male': 32.0,
+    'female': 8.4
+} {
+    'country': 'Uruguay',
+    'year': 2001,
+    'both_sexes': 14.5,
+    'male': 23.2,
+    'female': 6.3
+} {
+    'country': 'Uruguay',
+    'year': 2000,
+    'both_sexes': 16.0,
+    'male': 27.1,
+    'female': 5.6
+} {
+    'country': 'Uzbekistan',
+    'year': 2019,
+    'both_sexes': 8.0,
+    'male': 11.3,
+    'female': 4.8
+} {
+    'country': 'Uzbekistan',
+    'year': 2018,
+    'both_sexes': 8.6,
+    'male': 12.0,
+    'female': 5.1
+} {
+    'country': 'Uzbekistan',
+    'year': 2017,
+    'both_sexes': 8.8,
+    'male': 12.3,
+    'female': 5.3
+} {
+    'country': 'Uzbekistan',
+    'year': 2016,
+    'both_sexes': 9.1,
+    'male': 12.6,
+    'female': 5.7
+} {
+    'country': 'Uzbekistan',
+    'year': 2015,
+    'both_sexes': 9.2,
+    'male': 12.7,
+    'female': 5.7
+} {
+    'country': 'Uzbekistan',
+    'year': 2014,
+    'both_sexes': 9.0,
+    'male': 12.6,
+    'female': 5.4
+} {
+    'country': 'Uzbekistan',
+    'year': 2013,
+    'both_sexes': 8.9,
+    'male': 12.4,
+    'female': 5.4
+} {
+    'country': 'Uzbekistan',
+    'year': 2012,
+    'both_sexes': 8.9,
+    'male': 12.5,
+    'female': 5.4
+} {
+    'country': 'Uzbekistan',
+    'year': 2011,
+    'both_sexes': 8.5,
+    'male': 12.0,
+    'female': 5.0
+} {
+    'country': 'Uzbekistan',
+    'year': 2010,
+    'both_sexes': 8.1,
+    'male': 11.7,
+    'female': 4.5
+} {
+    'country': 'Uzbekistan',
+    'year': 2009,
+    'both_sexes': 8.0,
+    'male': 11.6,
+    'female': 4.4
+} {
+    'country': 'Uzbekistan',
+    'year': 2008,
+    'both_sexes': 8.5,
+    'male': 12.5,
+    'female': 4.5
+} {
+    'country': 'Uzbekistan',
+    'year': 2007,
+    'both_sexes': 8.6,
+    'male': 12.9,
+    'female': 4.4
+} {
+    'country': 'Uzbekistan',
+    'year': 2006,
+    'both_sexes': 8.8,
+    'male': 13.2,
+    'female': 4.4
+} {
+    'country': 'Uzbekistan',
+    'year': 2005,
+    'both_sexes': 9.1,
+    'male': 13.9,
+    'female': 4.3
+} {
+    'country': 'Uzbekistan',
+    'year': 2004,
+    'both_sexes': 8.6,
+    'male': 13.1,
+    'female': 4.2
+} {
+    'country': 'Uzbekistan',
+    'year': 2003,
+    'both_sexes': 9.0,
+    'male': 13.8,
+    'female': 4.4
+} {
+    'country': 'Uzbekistan',
+    'year': 2002,
+    'both_sexes': 9.7,
+    'male': 15.0,
+    'female': 4.5
+} {
+    'country': 'Uzbekistan',
+    'year': 2001,
+    'both_sexes': 10.0,
+    'male': 15.7,
+    'female': 4.5
+} {
+    'country': 'Uzbekistan',
+    'year': 2000,
+    'both_sexes': 10.1,
+    'male': 16.0,
+    'female': 4.3
+} {
+    'country': 'Vanuatu',
+    'year': 2019,
+    'both_sexes': 18.0,
+    'male': 28.1,
+    'female': 7.6
+} {
+    'country': 'Vanuatu',
+    'year': 2018,
+    'both_sexes': 18.1,
+    'male': 28.4,
+    'female': 7.6
+} {
+    'country': 'Vanuatu',
+    'year': 2017,
+    'both_sexes': 18.1,
+    'male': 28.5,
+    'female': 7.5
+} {
+    'country': 'Vanuatu',
+    'year': 2016,
+    'both_sexes': 18.0,
+    'male': 28.3,
+    'female': 7.5
+} {
+    'country': 'Vanuatu',
+    'year': 2015,
+    'both_sexes': 18.2,
+    'male': 28.3,
+    'female': 7.7
+} {
+    'country': 'Vanuatu',
+    'year': 2014,
+    'both_sexes': 18.2,
+    'male': 28.5,
+    'female': 7.6
+} {
+    'country': 'Vanuatu',
+    'year': 2013,
+    'both_sexes': 18.9,
+    'male': 29.4,
+    'female': 8.0
+} {
+    'country': 'Vanuatu',
+    'year': 2012,
+    'both_sexes': 19.1,
+    'male': 29.7,
+    'female': 8.1
+} {
+    'country': 'Vanuatu',
+    'year': 2011,
+    'both_sexes': 19.0,
+    'male': 29.7,
+    'female': 7.9
+} {
+    'country': 'Vanuatu',
+    'year': 2010,
+    'both_sexes': 19.5,
+    'male': 30.3,
+    'female': 8.3
+} {
+    'country': 'Vanuatu',
+    'year': 2009,
+    'both_sexes': 19.8,
+    'male': 30.7,
+    'female': 8.5
+} {
+    'country': 'Vanuatu',
+    'year': 2008,
+    'both_sexes': 18.9,
+    'male': 29.6,
+    'female': 7.9
+} {
+    'country': 'Vanuatu',
+    'year': 2007,
+    'both_sexes': 19.1,
+    'male': 29.7,
+    'female': 8.0
+} {
+    'country': 'Vanuatu',
+    'year': 2006,
+    'both_sexes': 19.2,
+    'male': 29.7,
+    'female': 8.2
+} {
+    'country': 'Vanuatu',
+    'year': 2005,
+    'both_sexes': 18.2,
+    'male': 28.5,
+    'female': 7.5
+} {
+    'country': 'Vanuatu',
+    'year': 2004,
+    'both_sexes': 18.6,
+    'male': 28.9,
+    'female': 7.8
+} {
+    'country': 'Vanuatu',
+    'year': 2003,
+    'both_sexes': 19.0,
+    'male': 29.3,
+    'female': 8.2
+} {
+    'country': 'Vanuatu',
+    'year': 2002,
+    'both_sexes': 19.1,
+    'male': 29.5,
+    'female': 8.3
+} {
+    'country': 'Vanuatu',
+    'year': 2001,
+    'both_sexes': 18.9,
+    'male': 29.1,
+    'female': 8.1
+} {
+    'country': 'Vanuatu',
+    'year': 2000,
+    'both_sexes': 19.1,
+    'male': 29.4,
+    'female': 8.3
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2009,
+    'both_sexes': 3.2,
+    'male': 5.3,
+    'female': 1.1
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2008,
+    'both_sexes': 3.5,
+    'male': 5.8,
+    'female': 1.1
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2007,
+    'both_sexes': 3.7,
+    'male': 6.2,
+    'female': 1.2
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2006,
+    'both_sexes': 3.9,
+    'male': 6.7,
+    'female': 1.2
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2005,
+    'both_sexes': 4.4,
+    'male': 7.3,
+    'female': 1.4
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2004,
+    'both_sexes': 4.5,
+    'male': 7.5,
+    'female': 1.5
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2003,
+    'both_sexes': 4.9,
+    'male': 8.1,
+    'female': 1.7
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2002,
+    'both_sexes': 5.4,
+    'male': 9.0,
+    'female': 1.8
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2001,
+    'both_sexes': 5.7,
+    'male': 9.8,
+    'female': 1.7
+} {
+    'country': 'Venezuela (Bolivarian Republic of)',
+    'year': 2000,
+    'both_sexes': 5.4,
+    'male': 9.4,
+    'female': 1.5
+} {
+    'country': 'Viet Nam',
+    'year': 2019,
+    'both_sexes': 7.5,
+    'male': 10.4,
+    'female': 4.7
+} {
+    'country': 'Viet Nam',
+    'year': 2018,
+    'both_sexes': 7.6,
+    'male': 10.6,
+    'female': 4.6
+} {
+    'country': 'Viet Nam',
+    'year': 2017,
+    'both_sexes': 7.7,
+    'male': 10.8,
+    'female': 4.6
+} {
+    'country': 'Viet Nam',
+    'year': 2016,
+    'both_sexes': 7.7,
+    'male': 10.8,
+    'female': 4.6
+} {
+    'country': 'Viet Nam',
+    'year': 2015,
+    'both_sexes': 7.7,
+    'male': 10.8,
+    'female': 4.5
+} {
+    'country': 'Viet Nam',
+    'year': 2014,
+    'both_sexes': 7.6,
+    'male': 10.8,
+    'female': 4.5
+} {
+    'country': 'Viet Nam',
+    'year': 2013,
+    'both_sexes': 7.5,
+    'male': 10.5,
+    'female': 4.4
+} {
+    'country': 'Viet Nam',
+    'year': 2012,
+    'both_sexes': 7.4,
+    'male': 10.4,
+    'female': 4.3
+} {
+    'country': 'Viet Nam',
+    'year': 2011,
+    'both_sexes': 7.2,
+    'male': 10.1,
+    'female': 4.3
+} {
+    'country': 'Viet Nam',
+    'year': 2010,
+    'both_sexes': 7.0,
+    'male': 9.8,
+    'female': 4.2
+} {
+    'country': 'Viet Nam',
+    'year': 2009,
+    'both_sexes': 6.9,
+    'male': 9.7,
+    'female': 4.2
+} {
+    'country': 'Viet Nam',
+    'year': 2008,
+    'both_sexes': 6.9,
+    'male': 9.6,
+    'female': 4.3
+} {
+    'country': 'Viet Nam',
+    'year': 2007,
+    'both_sexes': 6.7,
+    'male': 9.1,
+    'female': 4.3
+} {
+    'country': 'Viet Nam',
+    'year': 2006,
+    'both_sexes': 6.4,
+    'male': 8.6,
+    'female': 4.3
+} {
+    'country': 'Viet Nam',
+    'year': 2005,
+    'both_sexes': 6.3,
+    'male': 8.2,
+    'female': 4.4
+} {
+    'country': 'Viet Nam',
+    'year': 2004,
+    'both_sexes': 6.3,
+    'male': 8.2,
+    'female': 4.4
+} {
+    'country': 'Viet Nam',
+    'year': 2003,
+    'both_sexes': 6.1,
+    'male': 7.9,
+    'female': 4.4
+} {
+    'country': 'Viet Nam',
+    'year': 2002,
+    'both_sexes': 6.1,
+    'male': 7.7,
+    'female': 4.5
+} {
+    'country': 'Viet Nam',
+    'year': 2001,
+    'both_sexes': 6.1,
+    'male': 7.7,
+    'female': 4.6
+} {
+    'country': 'Viet Nam',
+    'year': 2000,
+    'both_sexes': 6.1,
+    'male': 7.6,
+    'female': 4.7
+} {
+    'country': 'Yemen',
+    'year': 2019,
+    'both_sexes': 5.8,
+    'male': 7.0,
+    'female': 4.6
+} {
+    'country': 'Yemen',
+    'year': 2018,
+    'both_sexes': 5.9,
+    'male': 7.0,
+    'female': 4.7
+} {
+    'country': 'Yemen',
+    'year': 2017,
+    'both_sexes': 5.6,
+    'male': 6.8,
+    'female': 4.4
+} {
+    'country': 'Yemen',
+    'year': 2016,
+    'both_sexes': 5.7,
+    'male': 7.0,
+    'female': 4.4
+} {
+    'country': 'Yemen',
+    'year': 2015,
+    'both_sexes': 5.5,
+    'male': 6.7,
+    'female': 4.3
+} {
+    'country': 'Yemen',
+    'year': 2014,
+    'both_sexes': 5.7,
+    'male': 6.9,
+    'female': 4.5
+} {
+    'country': 'Yemen',
+    'year': 2013,
+    'both_sexes': 5.7,
+    'male': 6.7,
+    'female': 4.6
+} {
+    'country': 'Yemen',
+    'year': 2012,
+    'both_sexes': 5.7,
+    'male': 6.8,
+    'female': 4.6
+} {
+    'country': 'Yemen',
+    'year': 2011,
+    'both_sexes': 5.6,
+    'male': 6.6,
+    'female': 4.6
+} {
+    'country': 'Yemen',
+    'year': 2010,
+    'both_sexes': 5.7,
+    'male': 6.8,
+    'female': 4.6
+} {
+    'country': 'Yemen',
+    'year': 2009,
+    'both_sexes': 5.9,
+    'male': 7.0,
+    'female': 4.8
+} {
+    'country': 'Yemen',
+    'year': 2008,
+    'both_sexes': 6.0,
+    'male': 7.1,
+    'female': 4.8
+} {
+    'country': 'Yemen',
+    'year': 2007,
+    'both_sexes': 5.8,
+    'male': 6.9,
+    'female': 4.7
+} {
+    'country': 'Yemen',
+    'year': 2006,
+    'both_sexes': 5.8,
+    'male': 6.9,
+    'female': 4.7
+} {
+    'country': 'Yemen',
+    'year': 2005,
+    'both_sexes': 5.9,
+    'male': 7.0,
+    'female': 4.8
+} {
+    'country': 'Yemen',
+    'year': 2004,
+    'both_sexes': 6.0,
+    'male': 7.1,
+    'female': 4.9
+} {
+    'country': 'Yemen',
+    'year': 2003,
+    'both_sexes': 5.9,
+    'male': 7.0,
+    'female': 4.8
+} {
+    'country': 'Yemen',
+    'year': 2002,
+    'both_sexes': 5.9,
+    'male': 7.0,
+    'female': 4.8
+} {
+    'country': 'Yemen',
+    'year': 2001,
+    'both_sexes': 6.1,
+    'male': 7.1,
+    'female': 5.0
+} {
+    'country': 'Yemen',
+    'year': 2000,
+    'both_sexes': 6.1,
+    'male': 7.2,
+    'female': 5.0
+} {
+    'country': 'Zambia',
+    'year': 2019,
+    'both_sexes': 7.3,
+    'male': 12.0,
+    'female': 2.7
+} {
+    'country': 'Zambia',
+    'year': 2018,
+    'both_sexes': 8.1,
+    'male': 13.2,
+    'female': 3.1
+} {
+    'country': 'Zambia',
+    'year': 2017,
+    'both_sexes': 8.5,
+    'male': 13.6,
+    'female': 3.5
+} {
+    'country': 'Zambia',
+    'year': 2016,
+    'both_sexes': 8.5,
+    'male': 13.5,
+    'female': 3.6
+} {
+    'country': 'Zambia',
+    'year': 2015,
+    'both_sexes': 8.7,
+    'male': 13.7,
+    'female': 3.8
+} {
+    'country': 'Zambia',
+    'year': 2014,
+    'both_sexes': 9.0,
+    'male': 13.8,
+    'female': 4.4
+} {
+    'country': 'Zambia',
+    'year': 2013,
+    'both_sexes': 9.1,
+    'male': 13.4,
+    'female': 4.8
+} {
+    'country': 'Zambia',
+    'year': 2012,
+    'both_sexes': 9.4,
+    'male': 14.0,
+    'female': 5.0
+} {
+    'country': 'Zambia',
+    'year': 2011,
+    'both_sexes': 10.3,
+    'male': 15.3,
+    'female': 5.3
+} {
+    'country': 'Zambia',
+    'year': 2010,
+    'both_sexes': 10.1,
+    'male': 15.0,
+    'female': 5.4
+} {
+    'country': 'Zambia',
+    'year': 2009,
+    'both_sexes': 9.8,
+    'male': 14.7,
+    'female': 4.9
+} {
+    'country': 'Zambia',
+    'year': 2008,
+    'both_sexes': 9.7,
+    'male': 14.8,
+    'female': 4.8
+} {
+    'country': 'Zambia',
+    'year': 2007,
+    'both_sexes': 10.3,
+    'male': 15.2,
+    'female': 5.6
+} {
+    'country': 'Zambia',
+    'year': 2006,
+    'both_sexes': 11.7,
+    'male': 16.5,
+    'female': 6.9
+} {
+    'country': 'Zambia',
+    'year': 2005,
+    'both_sexes': 11.9,
+    'male': 16.6,
+    'female': 7.3
+} {
+    'country': 'Zambia',
+    'year': 2004,
+    'both_sexes': 12.2,
+    'male': 16.8,
+    'female': 7.6
+} {
+    'country': 'Zambia',
+    'year': 2003,
+    'both_sexes': 11.6,
+    'male': 16.0,
+    'female': 7.3
+} {
+    'country': 'Zambia',
+    'year': 2002,
+    'both_sexes': 12.1,
+    'male': 16.3,
+    'female': 8.1
+} {
+    'country': 'Zambia',
+    'year': 2001,
+    'both_sexes': 12.4,
+    'male': 16.2,
+    'female': 8.6
+} {
+    'country': 'Zambia',
+    'year': 2000,
+    'both_sexes': 13.3,
+    'male': 17.3,
+    'female': 9.4
+} {
+    'country': 'Zimbabwe',
+    'year': 2019,
+    'both_sexes': 14.1,
+    'male': 20.0,
+    'female': 8.8
+} {
+    'country': 'Zimbabwe',
+    'year': 2018,
+    'both_sexes': 14.0,
+    'male': 19.9,
+    'female': 8.7
+} {
+    'country': 'Zimbabwe',
+    'year': 2017,
+    'both_sexes': 15.0,
+    'male': 21.0,
+    'female': 9.6
+} {
+    'country': 'Zimbabwe',
+    'year': 2016,
+    'both_sexes': 16.8,
+    'male': 22.5,
+    'female': 11.6
+} {
+    'country': 'Zimbabwe',
+    'year': 2015,
+    'both_sexes': 18.0,
+    'male': 23.8,
+    'female': 12.6
+} {
+    'country': 'Zimbabwe',
+    'year': 2014,
+    'both_sexes': 18.2,
+    'male': 22.4,
+    'female': 14.3
+} {
+    'country': 'Zimbabwe',
+    'year': 2013,
+    'both_sexes': 18.6,
+    'male': 23.0,
+    'female': 14.5
+} {
+    'country': 'Zimbabwe',
+    'year': 2012,
+    'both_sexes': 19.7,
+    'male': 25.6,
+    'female': 14.3
+} {
+    'country': 'Zimbabwe',
+    'year': 2011,
+    'both_sexes': 20.7,
+    'male': 26.8,
+    'female': 15.2
+} {
+    'country': 'Zimbabwe',
+    'year': 2010,
+    'both_sexes': 21.5,
+    'male': 26.2,
+    'female': 17.2
+} {
+    'country': 'Zimbabwe',
+    'year': 2009,
+    'both_sexes': 22.2,
+    'male': 24.5,
+    'female': 20.1
+} {
+    'country': 'Zimbabwe',
+    'year': 2008,
+    'both_sexes': 20.1,
+    'male': 20.9,
+    'female': 19.4
+} {
+    'country': 'Zimbabwe',
+    'year': 2007,
+    'both_sexes': 17.2,
+    'male': 17.7,
+    'female': 16.9
+} {
+    'country': 'Zimbabwe',
+    'year': 2006,
+    'both_sexes': 14.4,
+    'male': 14.7,
+    'female': 14.1
+} {
+    'country': 'Zimbabwe',
+    'year': 2005,
+    'both_sexes': 14.0,
+    'male': 16.2,
+    'female': 11.9
+} {
+    'country': 'Zimbabwe',
+    'year': 2004,
+    'both_sexes': 14.2,
+    'male': 15.7,
+    'female': 12.7
+} {
+    'country': 'Zimbabwe',
+    'year': 2003,
+    'both_sexes': 13.2,
+    'male': 15.1,
+    'female': 11.4
+} {
+    'country': 'Zimbabwe',
+    'year': 2002,
+    'both_sexes': 13.4,
+    'male': 15.5,
+    'female': 11.4
+} {
+    'country': 'Zimbabwe',
+    'year': 2001,
+    'both_sexes': 12.8,
+    'male': 14.4,
+    'female': 11.3
+} {
+    'country': 'Zimbabwe',
+    'year': 2000,
+    'both_sexes': 13.3,
+    'male': 14.1,
+    'female': 12.4
+}
